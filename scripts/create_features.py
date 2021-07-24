@@ -13,16 +13,15 @@ def extract_features(df):
   # date
   df["date"] = pd.to_datetime(df.date).dt.date
   df["date_of_week"] = pd.to_datetime(df.date).dt.dayofweek
-  df["date_of_week"] = pd.to_datetime(df.date).dt.day
+  df["date_of_month"] = pd.to_datetime(df.date).dt.day
   df["month"] = pd.to_datetime(df.date).dt.month
 
   # change categorical variables to numerical value
   lb = LabelEncoder()
   df['experiment'] = lb.fit_transform(df['experiment'])
-  df['browser'] = lb.fit_transform(df['browser'])
   df['device_make'] = lb.fit_transform(df['device_make'])
 
-  return df[["experiment", "hour", "date_of_week", "date_of_week", 'month', 'device_make', 'browser']]
+  return df[["experiment", "hour", "date_of_week", "date_of_month", 'month', 'device_make']]
 
 
 def extract_labels(df):
