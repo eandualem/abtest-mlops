@@ -25,7 +25,6 @@ X_train = helper.read_csv(str(Config.FEATURES_PATH / "train_features.csv"))
 y_train = helper.read_csv(str(Config.FEATURES_PATH / "train_labels.csv"))
 
 kf = KFold(n_splits=5)
-avg_score = 0
 params=[
   {'max_depth':2,'min_samples_split':2},
   {'max_depth':3,'min_samples_split':2},
@@ -34,12 +33,20 @@ params=[
   {'max_depth':6,'min_samples_split':2}]
 best_model = None
 best_params = params[0]
+avg_score = 0
+avg_rmse = 0
+avg_mae = 0
+avg_r2 = 0
+
 
 mlflow.log_param('Model', "Decision Tree")
 mlflow.log_param('Params', params)
 
 for param in params:
-    scores = []
+    score_list = []
+    rmse_list = 0
+    mae_list = 0
+    r2_list = 0
     model = DecisionTreeClassifier(random_state=42, **param)
     randomIter = kf.split(X_train)
     for i in range(5):
@@ -53,16 +60,26 @@ for param in params:
       model.fit(_X_train, _y_train.to_numpy().ravel())
       y_preds = model.predict(_X_val)
       score = accuracy_score(_y_val, y_preds)
-      scores.append(score)
+      _rmse, _mae, _r2 = eval_metrics(y_train, model.predict(X_train),)
+      score_list.append(score)
+      rmse_list.append(_rmse)
+      mae_list.append(_mae)
+      r2_list.append(_r2)
 
-    avg_score_for_solver = sum(scores) / len(scores)
+    avg_score_for_solver = sum(score_list) / len(score_list)
     if(avg_score_for_solver > avg_score):
       avg_score = avg_score_for_solver
+      avg_rmse = sum(rmse_list) / len(rmse_list)
+      avg_mae = sum(mae_list) / len(mae_list)
+      avg_r2 = sum(r2_list) / len(r2_list)
       best_model = model
       best_params = param
 
 mlflow.log_param('Best Solver', best_params)
 mlflow.log_metric("Average Score", avg_score)
+mlflow.log_metric("RMSE", avg_rmse)
+mlflow.log_metric("MAE", avg_mae)
+mlflow.log_metric("R2", avg_r2)
 signature = infer_signature(X_train, model.predict(X_train))
 mlflow.sklearn.log_model(model, "Decision Tree", signature=signature)
 
