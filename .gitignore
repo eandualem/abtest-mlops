@@ -13,3 +13,5 @@ env
 .tox
 .cache
 .DS_Store
+mlruns/
+*.tmp

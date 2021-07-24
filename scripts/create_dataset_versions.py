@@ -4,7 +4,6 @@ import sys
 from df_helper import DfHelper
 from log import get_logger
 import dvc.api
-import mlflow
 from config import Config
 my_logger = get_logger("Create Dataset Versions")
 
@@ -33,7 +32,7 @@ else:
   helper = DfHelper()
   column = int(sys.argv[1])
   np.random.seed(Config.RANDOM_SEED)
-  version = 'v3'  # we can retrieve any version of your dataset by changing this
+  version = 'v4'  # this is the version that contains the whole data
   data_url = dvc.api.get_url(path=str(Config.DATASET_FILE_PATH), repo=str(Config.REPO), rev=version)
   df = pd.read_csv(data_url, sep=',')
 

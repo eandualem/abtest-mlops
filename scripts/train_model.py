@@ -1,6 +1,3 @@
-import pickle
-from train_model import train_model
-from sklearn.tree import DecisionTreeClassifier
 from config import Config
 from df_helper import DfHelper
 from sklearn.model_selection import KFold
@@ -14,7 +11,6 @@ import math
 Config.MODELS_PATH.mkdir(parents=True, exist_ok=True)
 helper = DfHelper()
 
-mlflow.set_experiment('Decision Tree')
 def eval_metrics(actual, pred):
   rmse = math.sqrt(mean_squared_error(actual, pred))
   mae = mean_absolute_error(actual, pred)
@@ -24,30 +20,28 @@ def eval_metrics(actual, pred):
 X_train = helper.read_csv(str(Config.FEATURES_PATH / "train_features.csv"))
 y_train = helper.read_csv(str(Config.FEATURES_PATH / "train_labels.csv"))
 
-kf = KFold(n_splits=5)
-params=[
-  {'max_depth':2,'min_samples_split':2},
-  {'max_depth':3,'min_samples_split':2},
-  {'max_depth':4,'min_samples_split':2},
-  {'max_depth':5,'min_samples_split':2},
-  {'max_depth':6,'min_samples_split':2}]
-best_model = None
-best_params = params[0]
-avg_score = 0
-avg_rmse = 0
-avg_mae = 0
-avg_r2 = 0
 
+def train_model(_model, model_name):
+  mlflow.set_experiment(model_name)
 
-mlflow.log_param('Model', "Decision Tree")
-mlflow.log_param('Params', params)
+  kf = KFold(n_splits=5)
+  solvers = ['newton-cg', 'lbfgs', 'liblinear', 'sag', 'saga']
+  avg_score = 0
+  avg_rmse = 0
+  avg_mae = 0
+  avg_r2 = 0
+  best_model = None
+  best_solver = solvers[0]
 
-for param in params:
+  mlflow.log_param('Model', model_name)
+  mlflow.log_param('Solvers', solvers)
+
+  for solver in solvers:
     score_list = []
     rmse_list = []
     mae_list = []
-    r2_list = []
-    model = DecisionTreeClassifier(random_state=42, **param)
+    r2_list = []    
+    model = _model(solver)
     randomIter = kf.split(X_train)
     for i in range(5):
       train_index, val_index = next(randomIter)
@@ -64,7 +58,7 @@ for param in params:
       score_list.append(_score)
       rmse_list.append(_rmse)
       mae_list.append(_mae)
-      r2_list.append(_r2)
+      r2_list.append(_r2)      
 
     avg_score_for_solver = sum(score_list) / len(score_list)
     if(avg_score_for_solver > avg_score):
@@ -73,14 +67,20 @@ for param in params:
       avg_mae = sum(mae_list) / len(mae_list)
       avg_r2 = sum(r2_list) / len(r2_list)
       best_model = model
-      best_params = param
+      best_solver = solver
 
-mlflow.log_param('Best Solver', best_params)
-mlflow.log_metric("Average Score", avg_score)
-mlflow.log_metric("RMSE", avg_rmse)
-mlflow.log_metric("MAE", avg_mae)
-mlflow.log_metric("R2", avg_r2)
-signature = infer_signature(X_train, model.predict(X_train))
-mlflow.sklearn.log_model(model, "Decision Tree", signature=signature)
+  mlflow.log_param('Best Solver', best_solver)
+  mlflow.log_metric("Average Score", avg_score)
+  mlflow.log_metric("RMSE", avg_rmse)
+  mlflow.log_metric("MAE", avg_mae)
+  mlflow.log_metric("R2", avg_r2)
 
-pickle.dump(best_model, open(str(Config.MODELS_PATH / "decision_tree_model.pickle"), "wb"))
+  if(model_name == 'xgd'):
+    signature = infer_signature(X_train, model.predict(X_train))
+    mlflow.xgboost.log_model(model, model_name, signature=signature)
+  else:
+    signature = infer_signature(X_train, model.predict(X_train))
+    mlflow.sklearn.log_model(model, model_name, signature=signature)
+
+  # return the best model
+  return best_model

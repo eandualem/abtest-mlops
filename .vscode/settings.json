@@ -15,6 +15,7 @@
     "numpy",
     "plotly",
     "pytest",
+    "rmse",
     "scipy",
     "sprt",
     "xgboost"
