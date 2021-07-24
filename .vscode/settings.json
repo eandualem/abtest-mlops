@@ -11,6 +11,7 @@
     "inplace",
     "iterrows",
     "kmeans",
+    "mlflow",
     "numpy",
     "plotly",
     "pytest",

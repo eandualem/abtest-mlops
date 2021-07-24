@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ea/Projects/abtest-mlops/scripts/mlruns/0/fc1f5324ee4b466ea0ffcfcc8da6cf2d/artifacts
+end_time: 1627118176379
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: fc1f5324ee4b466ea0ffcfcc8da6cf2d
+run_uuid: fc1f5324ee4b466ea0ffcfcc8da6cf2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1627118176307
+status: 3
+tags: []
+user_id: ea
