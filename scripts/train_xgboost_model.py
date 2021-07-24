@@ -10,4 +10,4 @@ def model(solver):
 
 
 final_model = train_model(model, "XGBoost")
-pickle.dump(final_model, open(str(Config.MODELS_PATH / "xgd_model.pickle"), "wb"))
+pickle.dump(final_model, open(str(Config.MODELS_PATH / "xgboost_model.pickle"), "wb"))

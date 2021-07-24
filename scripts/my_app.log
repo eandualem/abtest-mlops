@@ -161,3 +161,31 @@ Traceback (most recent call last):
   File "/Users/ea/.local/share/virtualenvs/abtest-mlops-EUUkoihp/lib/python3.9/site-packages/pandas/io/common.py", line 701, in get_handle
     handle = open(
 FileNotFoundError: [Errno 2] No such file or directory: '../features/train_labels.csv'
+2021-07-24 18:52:13,719 — DfHelper — DEBUG — file read as csv
+2021-07-24 18:52:13,723 — DfHelper — DEBUG — file read as csv
+2021-07-24 18:52:14,142 — DfHelper — DEBUG — file read as csv
+2021-07-24 18:52:14,145 — DfHelper — DEBUG — file read as csv
+2021-07-24 18:59:16,919 — DfHelper — DEBUG — file read as csv
+2021-07-24 18:59:16,922 — DfHelper — DEBUG — file read as csv
+2021-07-24 18:59:17,157 — DfHelper — DEBUG — file read as csv
+2021-07-24 18:59:17,159 — DfHelper — DEBUG — file read as csv
+2021-07-24 19:26:11,801 — DfHelper — DEBUG — file read as csv
+2021-07-24 19:26:11,805 — DfHelper — DEBUG — file read as csv
+2021-07-24 19:26:12,055 — DfHelper — DEBUG — file read as csv
+2021-07-24 19:26:12,058 — DfHelper — DEBUG — file read as csv
+2021-07-24 19:26:27,561 — DfHelper — DEBUG — file read as csv
+2021-07-24 19:26:27,564 — DfHelper — DEBUG — file read as csv
+2021-07-24 19:27:11,647 — DfHelper — DEBUG — file read as csv
+2021-07-24 19:27:11,653 — DfHelper — DEBUG — file read as csv
+2021-07-24 19:27:28,607 — DfHelper — DEBUG — file read as csv
+2021-07-24 19:27:28,609 — DfHelper — DEBUG — file read as csv
+2021-07-24 19:27:28,792 — DfHelper — DEBUG — file read as csv
+2021-07-24 19:27:28,794 — DfHelper — DEBUG — file read as csv
+2021-07-24 19:36:12,063 — DfHelper — DEBUG — file read as csv
+2021-07-24 19:36:12,066 — DfHelper — DEBUG — file read as csv
+2021-07-24 19:36:12,265 — DfHelper — DEBUG — file read as csv
+2021-07-24 19:36:12,267 — DfHelper — DEBUG — file read as csv
+2021-07-24 19:36:20,711 — DfHelper — DEBUG — file read as csv
+2021-07-24 19:36:20,713 — DfHelper — DEBUG — file read as csv
+2021-07-24 19:36:35,142 — DfHelper — DEBUG — file read as csv
+2021-07-24 19:36:35,144 — DfHelper — DEBUG — file read as csv

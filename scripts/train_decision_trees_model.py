@@ -44,9 +44,9 @@ mlflow.log_param('Params', params)
 
 for param in params:
     score_list = []
-    rmse_list = 0
-    mae_list = 0
-    r2_list = 0
+    rmse_list = []
+    mae_list = []
+    r2_list = []
     model = DecisionTreeClassifier(random_state=42, **param)
     randomIter = kf.split(X_train)
     for i in range(5):
@@ -58,10 +58,10 @@ for param in params:
       _y_val = y_train.iloc[val_index]
 
       model.fit(_X_train, _y_train.to_numpy().ravel())
-      y_preds = model.predict(_X_val)
-      score = accuracy_score(_y_val, y_preds)
-      _rmse, _mae, _r2 = eval_metrics(y_train, model.predict(X_train),)
-      score_list.append(score)
+      y_pred = model.predict(_X_val)
+      _score = accuracy_score(_y_val, y_pred)
+      _rmse, _mae, _r2 = eval_metrics(_y_val, y_pred)
+      score_list.append(_score)
       rmse_list.append(_rmse)
       mae_list.append(_mae)
       r2_list.append(_r2)
