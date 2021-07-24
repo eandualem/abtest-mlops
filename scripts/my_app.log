@@ -77,3 +77,87 @@ NoneType: None
 2021-07-24 17:40:15,260 — DfHelper — DEBUG — file read as csv
 2021-07-24 17:40:24,985 — DfHelper — DEBUG — file read as csv
 2021-07-24 17:40:24,987 — DfHelper — DEBUG — file read as csv
+2021-07-24 18:48:24,242 — DfHelper — ERROR — file not found
+Traceback (most recent call last):
+  File "/Users/ea/Projects/abtest-mlops/scripts/df_helper.py", line 26, in read_csv
+    df = pd.read_csv(csv_path, na_values=missing_values)
+  File "/Users/ea/.local/share/virtualenvs/abtest-mlops-EUUkoihp/lib/python3.9/site-packages/pandas/util/_decorators.py", line 311, in wrapper
+    return func(*args, **kwargs)
+  File "/Users/ea/.local/share/virtualenvs/abtest-mlops-EUUkoihp/lib/python3.9/site-packages/pandas/io/parsers/readers.py", line 586, in read_csv
+    return _read(filepath_or_buffer, kwds)
+  File "/Users/ea/.local/share/virtualenvs/abtest-mlops-EUUkoihp/lib/python3.9/site-packages/pandas/io/parsers/readers.py", line 482, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "/Users/ea/.local/share/virtualenvs/abtest-mlops-EUUkoihp/lib/python3.9/site-packages/pandas/io/parsers/readers.py", line 811, in __init__
+    self._engine = self._make_engine(self.engine)
+  File "/Users/ea/.local/share/virtualenvs/abtest-mlops-EUUkoihp/lib/python3.9/site-packages/pandas/io/parsers/readers.py", line 1040, in _make_engine
+    return mapping[engine](self.f, **self.options)  # type: ignore[call-arg]
+  File "/Users/ea/.local/share/virtualenvs/abtest-mlops-EUUkoihp/lib/python3.9/site-packages/pandas/io/parsers/c_parser_wrapper.py", line 51, in __init__
+    self._open_handles(src, kwds)
+  File "/Users/ea/.local/share/virtualenvs/abtest-mlops-EUUkoihp/lib/python3.9/site-packages/pandas/io/parsers/base_parser.py", line 222, in _open_handles
+    self.handles = get_handle(
+  File "/Users/ea/.local/share/virtualenvs/abtest-mlops-EUUkoihp/lib/python3.9/site-packages/pandas/io/common.py", line 701, in get_handle
+    handle = open(
+FileNotFoundError: [Errno 2] No such file or directory: '../features/train_features.csv'
+2021-07-24 18:48:24,250 — DfHelper — ERROR — file not found
+Traceback (most recent call last):
+  File "/Users/ea/Projects/abtest-mlops/scripts/df_helper.py", line 26, in read_csv
+    df = pd.read_csv(csv_path, na_values=missing_values)
+  File "/Users/ea/.local/share/virtualenvs/abtest-mlops-EUUkoihp/lib/python3.9/site-packages/pandas/util/_decorators.py", line 311, in wrapper
+    return func(*args, **kwargs)
+  File "/Users/ea/.local/share/virtualenvs/abtest-mlops-EUUkoihp/lib/python3.9/site-packages/pandas/io/parsers/readers.py", line 586, in read_csv
+    return _read(filepath_or_buffer, kwds)
+  File "/Users/ea/.local/share/virtualenvs/abtest-mlops-EUUkoihp/lib/python3.9/site-packages/pandas/io/parsers/readers.py", line 482, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "/Users/ea/.local/share/virtualenvs/abtest-mlops-EUUkoihp/lib/python3.9/site-packages/pandas/io/parsers/readers.py", line 811, in __init__
+    self._engine = self._make_engine(self.engine)
+  File "/Users/ea/.local/share/virtualenvs/abtest-mlops-EUUkoihp/lib/python3.9/site-packages/pandas/io/parsers/readers.py", line 1040, in _make_engine
+    return mapping[engine](self.f, **self.options)  # type: ignore[call-arg]
+  File "/Users/ea/.local/share/virtualenvs/abtest-mlops-EUUkoihp/lib/python3.9/site-packages/pandas/io/parsers/c_parser_wrapper.py", line 51, in __init__
+    self._open_handles(src, kwds)
+  File "/Users/ea/.local/share/virtualenvs/abtest-mlops-EUUkoihp/lib/python3.9/site-packages/pandas/io/parsers/base_parser.py", line 222, in _open_handles
+    self.handles = get_handle(
+  File "/Users/ea/.local/share/virtualenvs/abtest-mlops-EUUkoihp/lib/python3.9/site-packages/pandas/io/common.py", line 701, in get_handle
+    handle = open(
+FileNotFoundError: [Errno 2] No such file or directory: '../features/train_labels.csv'
+2021-07-24 18:48:24,480 — DfHelper — ERROR — file not found
+Traceback (most recent call last):
+  File "/Users/ea/Projects/abtest-mlops/scripts/df_helper.py", line 26, in read_csv
+    df = pd.read_csv(csv_path, na_values=missing_values)
+  File "/Users/ea/.local/share/virtualenvs/abtest-mlops-EUUkoihp/lib/python3.9/site-packages/pandas/util/_decorators.py", line 311, in wrapper
+    return func(*args, **kwargs)
+  File "/Users/ea/.local/share/virtualenvs/abtest-mlops-EUUkoihp/lib/python3.9/site-packages/pandas/io/parsers/readers.py", line 586, in read_csv
+    return _read(filepath_or_buffer, kwds)
+  File "/Users/ea/.local/share/virtualenvs/abtest-mlops-EUUkoihp/lib/python3.9/site-packages/pandas/io/parsers/readers.py", line 482, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "/Users/ea/.local/share/virtualenvs/abtest-mlops-EUUkoihp/lib/python3.9/site-packages/pandas/io/parsers/readers.py", line 811, in __init__
+    self._engine = self._make_engine(self.engine)
+  File "/Users/ea/.local/share/virtualenvs/abtest-mlops-EUUkoihp/lib/python3.9/site-packages/pandas/io/parsers/readers.py", line 1040, in _make_engine
+    return mapping[engine](self.f, **self.options)  # type: ignore[call-arg]
+  File "/Users/ea/.local/share/virtualenvs/abtest-mlops-EUUkoihp/lib/python3.9/site-packages/pandas/io/parsers/c_parser_wrapper.py", line 51, in __init__
+    self._open_handles(src, kwds)
+  File "/Users/ea/.local/share/virtualenvs/abtest-mlops-EUUkoihp/lib/python3.9/site-packages/pandas/io/parsers/base_parser.py", line 222, in _open_handles
+    self.handles = get_handle(
+  File "/Users/ea/.local/share/virtualenvs/abtest-mlops-EUUkoihp/lib/python3.9/site-packages/pandas/io/common.py", line 701, in get_handle
+    handle = open(
+FileNotFoundError: [Errno 2] No such file or directory: '../features/train_features.csv'
+2021-07-24 18:48:24,480 — DfHelper — ERROR — file not found
+Traceback (most recent call last):
+  File "/Users/ea/Projects/abtest-mlops/scripts/df_helper.py", line 26, in read_csv
+    df = pd.read_csv(csv_path, na_values=missing_values)
+  File "/Users/ea/.local/share/virtualenvs/abtest-mlops-EUUkoihp/lib/python3.9/site-packages/pandas/util/_decorators.py", line 311, in wrapper
+    return func(*args, **kwargs)
+  File "/Users/ea/.local/share/virtualenvs/abtest-mlops-EUUkoihp/lib/python3.9/site-packages/pandas/io/parsers/readers.py", line 586, in read_csv
+    return _read(filepath_or_buffer, kwds)
+  File "/Users/ea/.local/share/virtualenvs/abtest-mlops-EUUkoihp/lib/python3.9/site-packages/pandas/io/parsers/readers.py", line 482, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "/Users/ea/.local/share/virtualenvs/abtest-mlops-EUUkoihp/lib/python3.9/site-packages/pandas/io/parsers/readers.py", line 811, in __init__
+    self._engine = self._make_engine(self.engine)
+  File "/Users/ea/.local/share/virtualenvs/abtest-mlops-EUUkoihp/lib/python3.9/site-packages/pandas/io/parsers/readers.py", line 1040, in _make_engine
+    return mapping[engine](self.f, **self.options)  # type: ignore[call-arg]
+  File "/Users/ea/.local/share/virtualenvs/abtest-mlops-EUUkoihp/lib/python3.9/site-packages/pandas/io/parsers/c_parser_wrapper.py", line 51, in __init__
+    self._open_handles(src, kwds)
+  File "/Users/ea/.local/share/virtualenvs/abtest-mlops-EUUkoihp/lib/python3.9/site-packages/pandas/io/parsers/base_parser.py", line 222, in _open_handles
+    self.handles = get_handle(
+  File "/Users/ea/.local/share/virtualenvs/abtest-mlops-EUUkoihp/lib/python3.9/site-packages/pandas/io/common.py", line 701, in get_handle
+    handle = open(
+FileNotFoundError: [Errno 2] No such file or directory: '../features/train_labels.csv'

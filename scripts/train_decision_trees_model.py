@@ -8,9 +8,18 @@ from sklearn.metrics import accuracy_score
 import mlflow
 import mlflow.sklearn
 from mlflow.models.signature import infer_signature
+from sklearn.metrics import mean_squared_error, mean_absolute_error, r2_score
+import math
 
 Config.MODELS_PATH.mkdir(parents=True, exist_ok=True)
 helper = DfHelper()
+
+mlflow.set_experiment('Decision Tree')
+def eval_metrics(actual, pred):
+  rmse = math.sqrt(mean_squared_error(actual, pred))
+  mae = mean_absolute_error(actual, pred)
+  r2 = r2_score(actual, pred)
+  return rmse, mae, r2
 
 X_train = helper.read_csv(str(Config.FEATURES_PATH / "train_features.csv"))
 y_train = helper.read_csv(str(Config.FEATURES_PATH / "train_labels.csv"))
@@ -32,7 +41,6 @@ mlflow.log_param('Params', params)
 for param in params:
     scores = []
     model = DecisionTreeClassifier(random_state=42, **param)
-    model.fit(X_train, y_train.to_numpy().ravel())
     randomIter = kf.split(X_train)
     for i in range(5):
       train_index, val_index = next(randomIter)
@@ -55,7 +63,6 @@ for param in params:
 
 mlflow.log_param('Best Solver', best_params)
 mlflow.log_metric("Average Score", avg_score)
-mlflow.sklearn.log_model(model, "myModel")
 signature = infer_signature(X_train, model.predict(X_train))
 mlflow.sklearn.log_model(model, "Decision Tree", signature=signature)
 
