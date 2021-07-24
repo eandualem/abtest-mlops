@@ -1,0 +1,18 @@
+2021-07-24 09:53:18,733 — DfHelper — DEBUG — file read as csv
+2021-07-24 09:53:18,770 — DfHelper — INFO — file saved as csv
+2021-07-24 10:02:39,781 — DfHelper — DEBUG — file read as csv
+2021-07-24 10:02:39,831 — DfHelper — INFO — file saved as csv
+2021-07-24 13:01:45,504 — DfHelper — DEBUG — file read as csv
+2021-07-24 13:01:45,544 — DfHelper — INFO — file saved as csv
+2021-07-24 13:19:07,368 — Create Dataset Versions — ERROR — 
+      You must pass aggregate column and The index of Aggregated column
+      Aggregate column: Insert 0 for browser 1 for platform_os
+      Index: The index of column based on 
+    
+NoneType: None
+2021-07-24 13:26:41,561 — Create Dataset Versions — ERROR — 
+      You must pass aggregate column and The index of Aggregated column
+      Aggregate column: Insert 0 for browser 1 for platform_os
+      Index: The index of column based on 
+    
+NoneType: None

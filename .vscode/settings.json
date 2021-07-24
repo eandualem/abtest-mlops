@@ -3,6 +3,7 @@
     "Andualem",
     "bfill",
     "cdist",
+    "dayofweek",
     "dtype",
     "dtypes",
     "ffill",
@@ -10,10 +11,12 @@
     "inplace",
     "iterrows",
     "kmeans",
+    "mlflow",
     "numpy",
     "plotly",
     "pytest",
     "scipy",
-    "sprt"
+    "sprt",
+    "xgboost"
   ]
 }
