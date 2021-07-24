@@ -3,6 +3,7 @@
     "Andualem",
     "bfill",
     "cdist",
+    "dayofweek",
     "dtype",
     "dtypes",
     "ffill",
@@ -14,6 +15,7 @@
     "plotly",
     "pytest",
     "scipy",
-    "sprt"
+    "sprt",
+    "xgboost"
   ]
 }
