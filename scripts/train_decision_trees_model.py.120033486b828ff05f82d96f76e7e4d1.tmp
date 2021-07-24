@@ -49,14 +49,16 @@ for param in params:
 
     avg_score_for_solver = sum(scores) / len(scores)
     if(avg_score_for_solver > avg_score):
+      print(best_model)
       avg_score = avg_score_for_solver
       best_model = model
       best_params = param
+      print(best_model)
 
 mlflow.log_param('Best Solver', best_params)
 mlflow.log_metric("Average Score", avg_score)
 mlflow.sklearn.log_model(model, "myModel")
 signature = infer_signature(X_train, model.predict(X_train))
-mlflow.sklearn.log_model(model, "Decision Tree", signature=signature)
+mlflow.sklearn.log_model(model, ""Decision Tree"", signature=signature)
 
 pickle.dump(best_model, open(str(Config.MODELS_PATH / "decision_tree_model.pickle"), "wb"))

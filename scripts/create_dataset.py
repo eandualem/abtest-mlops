@@ -14,6 +14,7 @@ df = pd.read_csv(data_url, sep=',')
 
 # Log data params
 mlflow.log_param('data_url', data_url)
+mlflow.log_param('data_url', data_url)
 mlflow.log_param('input_rows', df.shape[0])
 mlflow.log_param('input_cols', df.shape[1])
 
