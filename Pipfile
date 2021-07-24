@@ -12,6 +12,7 @@ xgboost = "*"
 sklearn = "*"
 
 [dev-packages]
+ipykernel = "*"
 
 [requires]
 python_version = "3.9"
