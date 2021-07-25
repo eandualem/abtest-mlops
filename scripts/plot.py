@@ -5,6 +5,11 @@ import scipy.stats as scs
 from stats import pooled_SE, confidence_interval, ab_dist, p_val, z_val
 
 plt.style.use('ggplot')
+'''
+This script is from the blog "The Math Behind A/B Testing with Example Python Code"
+The script had couple of bugs that I have fixed and I have made changes to the code
+to fit my needs.
+'''
 
 
 def plot_norm_dist(ax, mu, std, with_CI=False, sig_level=0.05, label=None):

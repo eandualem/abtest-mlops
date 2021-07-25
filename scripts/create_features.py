@@ -2,8 +2,12 @@ import pandas as pd
 from config import Config
 from sklearn.preprocessing import LabelEncoder
 
-Config.FEATURES_PATH.mkdir(parents=True, exist_ok=True)
+'''
+This is a simple script for creating features for train and test data
+I have extracted 6 features for training the model
+'''
 
+Config.FEATURES_PATH.mkdir(parents=True, exist_ok=True)
 train_df = pd.read_csv(str(Config.DATASET_PATH / "train.csv"))
 test_df = pd.read_csv(str(Config.DATASET_PATH / "test.csv"))
 

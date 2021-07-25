@@ -1,191 +1,42 @@
-2021-07-24 09:53:18,733 — DfHelper — DEBUG — file read as csv
-2021-07-24 09:53:18,770 — DfHelper — INFO — file saved as csv
-2021-07-24 10:02:39,781 — DfHelper — DEBUG — file read as csv
-2021-07-24 10:02:39,831 — DfHelper — INFO — file saved as csv
-2021-07-24 13:01:45,504 — DfHelper — DEBUG — file read as csv
-2021-07-24 13:01:45,544 — DfHelper — INFO — file saved as csv
-2021-07-24 13:19:07,368 — Create Dataset Versions — ERROR — 
-      You must pass aggregate column and The index of Aggregated column
-      Aggregate column: Insert 0 for browser 1 for platform_os
-      Index: The index of column based on 
-    
-NoneType: None
-2021-07-24 13:26:41,561 — Create Dataset Versions — ERROR — 
-      You must pass aggregate column and The index of Aggregated column
-      Aggregate column: Insert 0 for browser 1 for platform_os
-      Index: The index of column based on 
-    
-NoneType: None
-2021-07-24 14:29:19,769 — DfHelper — INFO — file saved as csv
-2021-07-24 16:17:24,535 — DfHelper — DEBUG — file read as csv
-2021-07-24 16:17:24,538 — DfHelper — DEBUG — file read as csv
-2021-07-24 16:30:41,249 — DfHelper — DEBUG — file read as csv
-2021-07-24 16:30:41,253 — DfHelper — DEBUG — file read as csv
-2021-07-24 16:42:12,181 — DfHelper — DEBUG — file read as csv
-2021-07-24 16:42:12,184 — DfHelper — DEBUG — file read as csv
-2021-07-24 16:45:12,345 — DfHelper — DEBUG — file read as csv
-2021-07-24 16:45:12,348 — DfHelper — DEBUG — file read as csv
-2021-07-24 16:48:45,793 — DfHelper — DEBUG — file read as csv
-2021-07-24 16:48:45,797 — DfHelper — DEBUG — file read as csv
-2021-07-24 16:53:31,080 — DfHelper — DEBUG — file read as csv
-2021-07-24 16:53:31,084 — DfHelper — DEBUG — file read as csv
-2021-07-24 16:54:00,213 — DfHelper — DEBUG — file read as csv
-2021-07-24 16:54:00,215 — DfHelper — DEBUG — file read as csv
-2021-07-24 16:59:40,730 — DfHelper — DEBUG — file read as csv
-2021-07-24 16:59:40,738 — DfHelper — DEBUG — file read as csv
-2021-07-24 17:16:37,469 — DfHelper — DEBUG — file read as csv
-2021-07-24 17:16:37,472 — DfHelper — DEBUG — file read as csv
-2021-07-24 17:16:37,621 — DfHelper — DEBUG — file read as csv
-2021-07-24 17:16:37,623 — DfHelper — DEBUG — file read as csv
-2021-07-24 17:21:59,802 — DfHelper — DEBUG — file read as csv
-2021-07-24 17:21:59,805 — DfHelper — DEBUG — file read as csv
-2021-07-24 17:21:59,968 — DfHelper — DEBUG — file read as csv
-2021-07-24 17:21:59,970 — DfHelper — DEBUG — file read as csv
-2021-07-24 17:24:08,777 — DfHelper — DEBUG — file read as csv
-2021-07-24 17:24:08,780 — DfHelper — DEBUG — file read as csv
-2021-07-24 17:24:08,935 — DfHelper — DEBUG — file read as csv
-2021-07-24 17:24:08,938 — DfHelper — DEBUG — file read as csv
-2021-07-24 17:24:56,135 — DfHelper — DEBUG — file read as csv
-2021-07-24 17:24:56,138 — DfHelper — DEBUG — file read as csv
-2021-07-24 17:24:56,347 — DfHelper — DEBUG — file read as csv
-2021-07-24 17:24:56,349 — DfHelper — DEBUG — file read as csv
-2021-07-24 17:25:37,440 — DfHelper — DEBUG — file read as csv
-2021-07-24 17:25:37,443 — DfHelper — DEBUG — file read as csv
-2021-07-24 17:25:37,594 — DfHelper — DEBUG — file read as csv
-2021-07-24 17:25:37,596 — DfHelper — DEBUG — file read as csv
-2021-07-24 17:25:45,114 — DfHelper — DEBUG — file read as csv
-2021-07-24 17:25:45,117 — DfHelper — DEBUG — file read as csv
-2021-07-24 17:25:45,270 — DfHelper — DEBUG — file read as csv
-2021-07-24 17:25:45,273 — DfHelper — DEBUG — file read as csv
-2021-07-24 17:29:18,311 — DfHelper — DEBUG — file read as csv
-2021-07-24 17:29:18,315 — DfHelper — DEBUG — file read as csv
-2021-07-24 17:29:18,474 — DfHelper — DEBUG — file read as csv
-2021-07-24 17:29:18,477 — DfHelper — DEBUG — file read as csv
-2021-07-24 17:33:58,438 — DfHelper — DEBUG — file read as csv
-2021-07-24 17:33:58,467 — DfHelper — DEBUG — file read as csv
-2021-07-24 17:33:58,623 — DfHelper — DEBUG — file read as csv
-2021-07-24 17:33:58,625 — DfHelper — DEBUG — file read as csv
-2021-07-24 17:34:19,333 — DfHelper — DEBUG — file read as csv
-2021-07-24 17:34:19,336 — DfHelper — DEBUG — file read as csv
-2021-07-24 17:34:32,781 — DfHelper — DEBUG — file read as csv
-2021-07-24 17:34:32,784 — DfHelper — DEBUG — file read as csv
-2021-07-24 17:39:59,686 — DfHelper — DEBUG — file read as csv
-2021-07-24 17:39:59,689 — DfHelper — DEBUG — file read as csv
-2021-07-24 17:39:59,876 — DfHelper — DEBUG — file read as csv
-2021-07-24 17:39:59,878 — DfHelper — DEBUG — file read as csv
-2021-07-24 17:40:15,258 — DfHelper — DEBUG — file read as csv
-2021-07-24 17:40:15,260 — DfHelper — DEBUG — file read as csv
-2021-07-24 17:40:24,985 — DfHelper — DEBUG — file read as csv
-2021-07-24 17:40:24,987 — DfHelper — DEBUG — file read as csv
-2021-07-24 18:48:24,242 — DfHelper — ERROR — file not found
-Traceback (most recent call last):
-  File "/Users/ea/Projects/abtest-mlops/scripts/df_helper.py", line 26, in read_csv
-    df = pd.read_csv(csv_path, na_values=missing_values)
-  File "/Users/ea/.local/share/virtualenvs/abtest-mlops-EUUkoihp/lib/python3.9/site-packages/pandas/util/_decorators.py", line 311, in wrapper
-    return func(*args, **kwargs)
-  File "/Users/ea/.local/share/virtualenvs/abtest-mlops-EUUkoihp/lib/python3.9/site-packages/pandas/io/parsers/readers.py", line 586, in read_csv
-    return _read(filepath_or_buffer, kwds)
-  File "/Users/ea/.local/share/virtualenvs/abtest-mlops-EUUkoihp/lib/python3.9/site-packages/pandas/io/parsers/readers.py", line 482, in _read
-    parser = TextFileReader(filepath_or_buffer, **kwds)
-  File "/Users/ea/.local/share/virtualenvs/abtest-mlops-EUUkoihp/lib/python3.9/site-packages/pandas/io/parsers/readers.py", line 811, in __init__
-    self._engine = self._make_engine(self.engine)
-  File "/Users/ea/.local/share/virtualenvs/abtest-mlops-EUUkoihp/lib/python3.9/site-packages/pandas/io/parsers/readers.py", line 1040, in _make_engine
-    return mapping[engine](self.f, **self.options)  # type: ignore[call-arg]
-  File "/Users/ea/.local/share/virtualenvs/abtest-mlops-EUUkoihp/lib/python3.9/site-packages/pandas/io/parsers/c_parser_wrapper.py", line 51, in __init__
-    self._open_handles(src, kwds)
-  File "/Users/ea/.local/share/virtualenvs/abtest-mlops-EUUkoihp/lib/python3.9/site-packages/pandas/io/parsers/base_parser.py", line 222, in _open_handles
-    self.handles = get_handle(
-  File "/Users/ea/.local/share/virtualenvs/abtest-mlops-EUUkoihp/lib/python3.9/site-packages/pandas/io/common.py", line 701, in get_handle
-    handle = open(
-FileNotFoundError: [Errno 2] No such file or directory: '../features/train_features.csv'
-2021-07-24 18:48:24,250 — DfHelper — ERROR — file not found
-Traceback (most recent call last):
-  File "/Users/ea/Projects/abtest-mlops/scripts/df_helper.py", line 26, in read_csv
-    df = pd.read_csv(csv_path, na_values=missing_values)
-  File "/Users/ea/.local/share/virtualenvs/abtest-mlops-EUUkoihp/lib/python3.9/site-packages/pandas/util/_decorators.py", line 311, in wrapper
-    return func(*args, **kwargs)
-  File "/Users/ea/.local/share/virtualenvs/abtest-mlops-EUUkoihp/lib/python3.9/site-packages/pandas/io/parsers/readers.py", line 586, in read_csv
-    return _read(filepath_or_buffer, kwds)
-  File "/Users/ea/.local/share/virtualenvs/abtest-mlops-EUUkoihp/lib/python3.9/site-packages/pandas/io/parsers/readers.py", line 482, in _read
-    parser = TextFileReader(filepath_or_buffer, **kwds)
-  File "/Users/ea/.local/share/virtualenvs/abtest-mlops-EUUkoihp/lib/python3.9/site-packages/pandas/io/parsers/readers.py", line 811, in __init__
-    self._engine = self._make_engine(self.engine)
-  File "/Users/ea/.local/share/virtualenvs/abtest-mlops-EUUkoihp/lib/python3.9/site-packages/pandas/io/parsers/readers.py", line 1040, in _make_engine
-    return mapping[engine](self.f, **self.options)  # type: ignore[call-arg]
-  File "/Users/ea/.local/share/virtualenvs/abtest-mlops-EUUkoihp/lib/python3.9/site-packages/pandas/io/parsers/c_parser_wrapper.py", line 51, in __init__
-    self._open_handles(src, kwds)
-  File "/Users/ea/.local/share/virtualenvs/abtest-mlops-EUUkoihp/lib/python3.9/site-packages/pandas/io/parsers/base_parser.py", line 222, in _open_handles
-    self.handles = get_handle(
-  File "/Users/ea/.local/share/virtualenvs/abtest-mlops-EUUkoihp/lib/python3.9/site-packages/pandas/io/common.py", line 701, in get_handle
-    handle = open(
-FileNotFoundError: [Errno 2] No such file or directory: '../features/train_labels.csv'
-2021-07-24 18:48:24,480 — DfHelper — ERROR — file not found
-Traceback (most recent call last):
-  File "/Users/ea/Projects/abtest-mlops/scripts/df_helper.py", line 26, in read_csv
-    df = pd.read_csv(csv_path, na_values=missing_values)
-  File "/Users/ea/.local/share/virtualenvs/abtest-mlops-EUUkoihp/lib/python3.9/site-packages/pandas/util/_decorators.py", line 311, in wrapper
-    return func(*args, **kwargs)
-  File "/Users/ea/.local/share/virtualenvs/abtest-mlops-EUUkoihp/lib/python3.9/site-packages/pandas/io/parsers/readers.py", line 586, in read_csv
-    return _read(filepath_or_buffer, kwds)
-  File "/Users/ea/.local/share/virtualenvs/abtest-mlops-EUUkoihp/lib/python3.9/site-packages/pandas/io/parsers/readers.py", line 482, in _read
-    parser = TextFileReader(filepath_or_buffer, **kwds)
-  File "/Users/ea/.local/share/virtualenvs/abtest-mlops-EUUkoihp/lib/python3.9/site-packages/pandas/io/parsers/readers.py", line 811, in __init__
-    self._engine = self._make_engine(self.engine)
-  File "/Users/ea/.local/share/virtualenvs/abtest-mlops-EUUkoihp/lib/python3.9/site-packages/pandas/io/parsers/readers.py", line 1040, in _make_engine
-    return mapping[engine](self.f, **self.options)  # type: ignore[call-arg]
-  File "/Users/ea/.local/share/virtualenvs/abtest-mlops-EUUkoihp/lib/python3.9/site-packages/pandas/io/parsers/c_parser_wrapper.py", line 51, in __init__
-    self._open_handles(src, kwds)
-  File "/Users/ea/.local/share/virtualenvs/abtest-mlops-EUUkoihp/lib/python3.9/site-packages/pandas/io/parsers/base_parser.py", line 222, in _open_handles
-    self.handles = get_handle(
-  File "/Users/ea/.local/share/virtualenvs/abtest-mlops-EUUkoihp/lib/python3.9/site-packages/pandas/io/common.py", line 701, in get_handle
-    handle = open(
-FileNotFoundError: [Errno 2] No such file or directory: '../features/train_features.csv'
-2021-07-24 18:48:24,480 — DfHelper — ERROR — file not found
-Traceback (most recent call last):
-  File "/Users/ea/Projects/abtest-mlops/scripts/df_helper.py", line 26, in read_csv
-    df = pd.read_csv(csv_path, na_values=missing_values)
-  File "/Users/ea/.local/share/virtualenvs/abtest-mlops-EUUkoihp/lib/python3.9/site-packages/pandas/util/_decorators.py", line 311, in wrapper
-    return func(*args, **kwargs)
-  File "/Users/ea/.local/share/virtualenvs/abtest-mlops-EUUkoihp/lib/python3.9/site-packages/pandas/io/parsers/readers.py", line 586, in read_csv
-    return _read(filepath_or_buffer, kwds)
-  File "/Users/ea/.local/share/virtualenvs/abtest-mlops-EUUkoihp/lib/python3.9/site-packages/pandas/io/parsers/readers.py", line 482, in _read
-    parser = TextFileReader(filepath_or_buffer, **kwds)
-  File "/Users/ea/.local/share/virtualenvs/abtest-mlops-EUUkoihp/lib/python3.9/site-packages/pandas/io/parsers/readers.py", line 811, in __init__
-    self._engine = self._make_engine(self.engine)
-  File "/Users/ea/.local/share/virtualenvs/abtest-mlops-EUUkoihp/lib/python3.9/site-packages/pandas/io/parsers/readers.py", line 1040, in _make_engine
-    return mapping[engine](self.f, **self.options)  # type: ignore[call-arg]
-  File "/Users/ea/.local/share/virtualenvs/abtest-mlops-EUUkoihp/lib/python3.9/site-packages/pandas/io/parsers/c_parser_wrapper.py", line 51, in __init__
-    self._open_handles(src, kwds)
-  File "/Users/ea/.local/share/virtualenvs/abtest-mlops-EUUkoihp/lib/python3.9/site-packages/pandas/io/parsers/base_parser.py", line 222, in _open_handles
-    self.handles = get_handle(
-  File "/Users/ea/.local/share/virtualenvs/abtest-mlops-EUUkoihp/lib/python3.9/site-packages/pandas/io/common.py", line 701, in get_handle
-    handle = open(
-FileNotFoundError: [Errno 2] No such file or directory: '../features/train_labels.csv'
-2021-07-24 18:52:13,719 — DfHelper — DEBUG — file read as csv
-2021-07-24 18:52:13,723 — DfHelper — DEBUG — file read as csv
-2021-07-24 18:52:14,142 — DfHelper — DEBUG — file read as csv
-2021-07-24 18:52:14,145 — DfHelper — DEBUG — file read as csv
-2021-07-24 18:59:16,919 — DfHelper — DEBUG — file read as csv
-2021-07-24 18:59:16,922 — DfHelper — DEBUG — file read as csv
-2021-07-24 18:59:17,157 — DfHelper — DEBUG — file read as csv
-2021-07-24 18:59:17,159 — DfHelper — DEBUG — file read as csv
-2021-07-24 19:26:11,801 — DfHelper — DEBUG — file read as csv
-2021-07-24 19:26:11,805 — DfHelper — DEBUG — file read as csv
-2021-07-24 19:26:12,055 — DfHelper — DEBUG — file read as csv
-2021-07-24 19:26:12,058 — DfHelper — DEBUG — file read as csv
-2021-07-24 19:26:27,561 — DfHelper — DEBUG — file read as csv
-2021-07-24 19:26:27,564 — DfHelper — DEBUG — file read as csv
-2021-07-24 19:27:11,647 — DfHelper — DEBUG — file read as csv
-2021-07-24 19:27:11,653 — DfHelper — DEBUG — file read as csv
-2021-07-24 19:27:28,607 — DfHelper — DEBUG — file read as csv
-2021-07-24 19:27:28,609 — DfHelper — DEBUG — file read as csv
-2021-07-24 19:27:28,792 — DfHelper — DEBUG — file read as csv
-2021-07-24 19:27:28,794 — DfHelper — DEBUG — file read as csv
-2021-07-24 19:36:12,063 — DfHelper — DEBUG — file read as csv
-2021-07-24 19:36:12,066 — DfHelper — DEBUG — file read as csv
-2021-07-24 19:36:12,265 — DfHelper — DEBUG — file read as csv
-2021-07-24 19:36:12,267 — DfHelper — DEBUG — file read as csv
-2021-07-24 19:36:20,711 — DfHelper — DEBUG — file read as csv
-2021-07-24 19:36:20,713 — DfHelper — DEBUG — file read as csv
-2021-07-24 19:36:35,142 — DfHelper — DEBUG — file read as csv
-2021-07-24 19:36:35,144 — DfHelper — DEBUG — file read as csv
+2021-07-25 13:59:40,147 — DfHelper — DEBUG — file read as csv
+2021-07-25 13:59:40,152 — DfHelper — DEBUG — file read as csv
+2021-07-25 14:00:28,310 — DfHelper — DEBUG — file read as csv
+2021-07-25 14:00:28,312 — DfHelper — DEBUG — file read as csv
+2021-07-25 14:01:22,075 — DfHelper — DEBUG — file read as csv
+2021-07-25 14:01:22,084 — DfHelper — DEBUG — file read as csv
+2021-07-25 14:02:56,809 — DfHelper — DEBUG — file read as csv
+2021-07-25 14:02:56,811 — DfHelper — DEBUG — file read as csv
+2021-07-25 14:14:01,139 — DfHelper — DEBUG — file read as csv
+2021-07-25 14:14:01,142 — DfHelper — DEBUG — file read as csv
+2021-07-25 14:17:42,559 — DfHelper — DEBUG — file read as csv
+2021-07-25 14:17:42,561 — DfHelper — DEBUG — file read as csv
+2021-07-25 14:21:57,439 — DfHelper — DEBUG — file read as csv
+2021-07-25 14:21:57,441 — DfHelper — DEBUG — file read as csv
+2021-07-25 14:22:47,494 — DfHelper — DEBUG — file read as csv
+2021-07-25 14:22:47,496 — DfHelper — DEBUG — file read as csv
+2021-07-25 14:23:09,000 — DfHelper — DEBUG — file read as csv
+2021-07-25 14:23:09,002 — DfHelper — DEBUG — file read as csv
+2021-07-25 14:31:44,639 — DfHelper — DEBUG — file read as csv
+2021-07-25 14:31:44,641 — DfHelper — DEBUG — file read as csv
+2021-07-25 14:32:56,988 — DfHelper — DEBUG — file read as csv
+2021-07-25 14:32:56,991 — DfHelper — DEBUG — file read as csv
+2021-07-25 14:33:21,940 — DfHelper — DEBUG — file read as csv
+2021-07-25 14:33:21,943 — DfHelper — DEBUG — file read as csv
+2021-07-25 14:35:38,104 — DfHelper — DEBUG — file read as csv
+2021-07-25 14:35:38,107 — DfHelper — DEBUG — file read as csv
+2021-07-25 14:36:22,531 — DfHelper — DEBUG — file read as csv
+2021-07-25 14:36:22,533 — DfHelper — DEBUG — file read as csv
+2021-07-25 14:37:20,206 — DfHelper — DEBUG — file read as csv
+2021-07-25 14:37:20,209 — DfHelper — DEBUG — file read as csv
+2021-07-25 14:45:49,643 — DfHelper — DEBUG — file read as csv
+2021-07-25 14:45:49,646 — DfHelper — DEBUG — file read as csv
+2021-07-25 14:56:23,614 — DfHelper — DEBUG — file read as csv
+2021-07-25 14:56:23,616 — DfHelper — DEBUG — file read as csv
+2021-07-25 14:58:30,455 — DfHelper — DEBUG — file read as csv
+2021-07-25 14:58:30,458 — DfHelper — DEBUG — file read as csv
+2021-07-25 15:15:32,146 — DfHelper — DEBUG — file read as csv
+2021-07-25 15:15:32,150 — DfHelper — DEBUG — file read as csv
+2021-07-25 15:23:41,675 — DfHelper — DEBUG — file read as csv
+2021-07-25 15:23:41,677 — DfHelper — DEBUG — file read as csv
+2021-07-25 15:25:29,249 — DfHelper — DEBUG — file read as csv
+2021-07-25 15:25:29,251 — DfHelper — DEBUG — file read as csv
