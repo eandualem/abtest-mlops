@@ -1,6 +1,13 @@
 import numpy as np
 import scipy.stats as scs
 
+'''
+This script is from the blog "The Math Behind A/B Testing with Example Python Code"
+The script had couple of bugs that I have fixed and I have made changes to the code
+to fit my needs. 
+eg: I have changed the p_val method that calculates the p-value 
+'''
+
 
 def pooled_prob(N_A, N_B, X_A, X_B):
   """Returns pooled probability for two samples"""

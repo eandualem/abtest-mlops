@@ -7,6 +7,14 @@ import dvc.api
 from config import Config
 my_logger = get_logger("Create Dataset Versions")
 
+'''
+This is a simple script for creating different versions of the data AdSmartABdata.csv
+based on argument passed:
+  - 0 for all data: doesn't modify the data
+  - 1 for browser: creates a new data by removing platform-os column
+  - 2 for platform-os: creates a new data by removing browser column
+'''
+
 len_args = len(sys.argv)
 if(len_args < 2):
   my_logger.exception(

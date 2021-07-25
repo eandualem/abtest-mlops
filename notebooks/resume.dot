@@ -1,19 +1,17 @@
-# abtest-mlops
+# Twitter-Data-Analysis
 
 **Table of content**
 
-- [abtest-mlops](#abtest-mlops)
-  - [Overview](#overview)
-  - [Requirements](#requirements)
-  - [Install](#install)
-  - [Features](#features)
-    - [Data Exploration](#data-exploration)
-    - [Classical A/B Testing](#classical-ab-testing)
-    - [Sequential A/B Testing](#sequential-ab-testing)
-    - [ML A/B Testing](#ml-ab-testing)
-    - [Scripts](#scripts)
-    - [Test](#test)
-    - [Travis CI](#travis-ci)
+- [Overview](##abstract)
+- [Requirements](#setup)
+- [Install](#install)
+- [Features](#features)
+  - [Data Exploration](#dataExploration)
+  - [Classical A/B Testing](#classicalA/BTesting)
+  - [Sequential A/B Testing](#sequentialA/BTesting)
+  - [ML A/B Testing](#mLA/BTesting)
+  - [Test](#testing)
+  - [Travis CI](#travisCI)
 
 ## Overview
 A/B testing allows comparing two or more versions of a given service against each other to find out which variation performs better. 
@@ -49,13 +47,13 @@ pip install -r requirements.txt
   - `create_dataset`: simple script for creating train, test split of AdSmartABdata.csv
   - `create_features`: simple script for creating features for train and test data
   - `train_model`: class trains a model using 5-fold cross validation and returns the best model
-  - `train_logistic_model`: simple script for training logistic regression using TrainModel class
-  - `train_decision_trees_model`: simple script for training decision tree using TrainModel class
-  - `train_xgboost_model`: simple script for training xgboost using TrainModel class
-  - `evaluate_model`: class for calculates evaluation metrics for a give model using actual data
-  - `evaluate_logistic_model`: simple script for evaluating logistic model using EvaluateModel class
-  - `evaluate_decision_trees`: simple script for evaluating decision tree model using EvaluateModel class
-  - `evaluate_xgboost_model`: simple script for evaluating xgboost model using EvaluateModel class
+  - `train_logistic_model`: simple script for training logistic regression using Train Model class
+  - `train_decision_trees_model`
+  - `train_xgboost_model`:
+  - `evaluate_model`:
+  - `evaluate_logistic_model`:
+  - `evaluate_decision_trees`:
+  - `evaluate_xgboost_model`
   - `df_helper`: helper class for reading csv and saving csv files
 
 ### Test

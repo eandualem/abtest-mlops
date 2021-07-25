@@ -2,8 +2,12 @@ import pandas as pd
 from config import Config
 from sklearn.preprocessing import LabelEncoder
 
-Config.FEATURES_PATH.mkdir(parents=True, exist_ok=True)
+'''
+This is a simple script for creating features for train and test data
+I have extracted 6 features for training the model
+'''
 
+Config.FEATURES_PATH.mkdir(parents=True, exist_ok=True)
 train_df = pd.read_csv(str(Config.DATASET_PATH / "train.csv"))
 test_df = pd.read_csv(str(Config.DATASET_PATH / "test.csv"))
 
@@ -14,14 +18,15 @@ def extract_features(df):
   df["date"] = pd.to_datetime(df.date).dt.date
   df["date_of_week"] = pd.to_datetime(df.date).dt.dayofweek
   df["date_of_month"] = pd.to_datetime(df.date).dt.day
-  df["month"] = pd.to_datetime(df.date).dt.month
 
   # change categorical variables to numerical value
   lb = LabelEncoder()
   df['experiment'] = lb.fit_transform(df['experiment'])
   df['device_make'] = lb.fit_transform(df['device_make'])
+  df['platform_os'] = lb.fit_transform(df['platform_os'])
+  df['browser'] = lb.fit_transform(df['browser'])
 
-  return df[["experiment", "hour", "date_of_week", "date_of_month", 'month', 'device_make']]
+  return df[["experiment", "hour", "date_of_week", "date_of_month", 'device_make', 'platform_os', 'browser']]
 
 
 def extract_labels(df):
