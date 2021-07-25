@@ -10,6 +10,8 @@ seaborn = "*"
 pandas = "*"
 xgboost = "*"
 sklearn = "*"
+pydotplus = "*"
+graphviz = "*"
 
 [dev-packages]
 ipykernel = "*"
