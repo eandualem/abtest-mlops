@@ -3,6 +3,10 @@ from config import Config
 from train_model import TrainModel
 from sklearn.linear_model import LogisticRegression
 
+'''
+  simple script for training logistic regression using TrainModel class
+'''
+
 
 def model(param):
   model = LogisticRegression(solver=param, random_state=42)

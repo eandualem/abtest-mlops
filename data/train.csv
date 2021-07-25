@@ -1,0 +1,1119 @@
+auction_id,experiment,date,hour,device_make,platform_os,browser,yes,no
+eb6f50cd-329c-4ca6-8946-b909b56da2fd,exposed,2020-07-06,9,Samsung SM-G975F,6,Chrome Mobile WebView,0,1
+5378e49b-ec5b-46e8-9e43-03ba4a89a3f7,exposed,2020-07-03,1,Generic Smartphone,6,Chrome Mobile,1,0
+c5c17290-7154-4f57-8acf-e6b536ae37b5,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,1,0
+c178af51-515b-403a-ac28-afa6ef929b4a,exposed,2020-07-03,8,Samsung SM-G770F,6,Chrome Mobile WebView,1,0
+b32ca27f-d327-469d-999e-bd85a589f224,control,2020-07-03,15,Samsung SM-G965F,6,Facebook,0,1
+879959a8-33d9-4b17-aab5-cf5bdfb3dcde,exposed,2020-07-03,8,Samsung SM-G920F,6,Chrome Mobile WebView,1,0
+ee3dcce0-aa18-4363-8c62-58e6047cdfcf,exposed,2020-07-10,4,Samsung SM-N960F,6,Chrome Mobile WebView,1,0
+a46c61aa-e442-4535-97b6-feb6096e4f62,exposed,2020-07-04,19,Samsung SM-G935F,6,Samsung Internet,0,1
+2e90073a-89f6-42ba-a0ae-e3ac54defd9a,control,2020-07-09,22,Generic Smartphone,6,Chrome Mobile,1,0
+0b0344c4-b114-4705-ad68-6662f0d3bedc,control,2020-07-03,15,LG-$2,6,Chrome Mobile,1,0
+5ef50318-b9ef-4ae1-9569-5eb368fabdf1,exposed,2020-07-07,9,Generic Smartphone,6,Chrome Mobile,1,0
+3bfebf58-e963-473c-81b0-8bbddf5ac471,exposed,2020-07-06,3,Generic Smartphone,6,Chrome Mobile,0,1
+0c1aff5b-de99-46a0-b307-acfa1792c86f,exposed,2020-07-04,0,Samsung SM-A320FL,6,Chrome Mobile WebView,1,0
+186a98dd-5db8-4f75-8ec3-272200e3df6b,exposed,2020-07-04,10,Generic Smartphone,6,Chrome Mobile,0,1
+25fae344-25ee-4fb3-a4ad-582e25fb7f51,control,2020-07-03,15,VOG-L09,6,Facebook,0,1
+8f59dbfa-b5fd-4459-a019-d04a8001b350,control,2020-07-03,15,Samsung SM-G973F,6,Samsung Internet,0,1
+9e91a439-8847-4177-9341-dd9fce45f151,control,2020-07-05,21,Generic Smartphone,6,Chrome Mobile,1,0
+4089f5e5-fde0-422f-b147-5fc5903cdef8,control,2020-07-10,10,G3311,6,Facebook,0,1
+bf518047-40e7-44e0-a653-16fb004dacab,exposed,2020-07-09,9,Generic Smartphone,6,Chrome Mobile,0,1
+ad3694cc-f876-4756-968f-da57f3680604,exposed,2020-07-08,17,Generic Smartphone,6,Chrome Mobile,0,1
+eea7fc57-718e-41e9-8207-dea190f3e830,exposed,2020-07-05,3,Generic Smartphone,6,Chrome Mobile,1,0
+921b8666-ccb6-47b0-9065-045eb77aba55,exposed,2020-07-08,14,Generic Smartphone,6,Chrome Mobile,1,0
+648ea43a-e420-4eaf-a436-3033b9c75606,exposed,2020-07-06,9,Generic Smartphone,6,Chrome Mobile,0,1
+57a98c29-7c1c-4f9a-b851-3786697a100b,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,0,1
+771f46c6-ed45-4d01-be8d-fad002d4c8ed,control,2020-07-07,5,Generic Smartphone,6,Chrome Mobile,0,1
+621a3141-36fa-48cb-95ff-e400507588fd,exposed,2020-07-04,16,Generic Smartphone,6,Chrome Mobile,0,1
+ffdfdc09-48c7-4bfb-80f8-ec1eb633602b,exposed,2020-07-03,4,Generic Smartphone,6,Chrome Mobile,0,1
+b3c369d0-eb06-4c83-9ba6-7c9380489170,control,2020-07-07,8,Samsung SM-J330FN,6,Samsung Internet,0,1
+70bbea5e-a4eb-44f0-b7a0-407ba5566f6b,exposed,2020-07-08,5,Generic Smartphone,6,Chrome Mobile,1,0
+a1743578-b709-4005-9d16-6d4fe616a0a4,exposed,2020-07-05,14,Generic Smartphone,6,Chrome Mobile,1,0
+9b0b9843-4898-4d85-a3ad-9d4004cb4bcc,control,2020-07-10,8,Samsung SM-G930F,6,Chrome Mobile WebView,1,0
+b211f7b9-f7da-4e78-8ffb-bf9ea17af88f,exposed,2020-07-04,13,Generic Smartphone,6,Chrome Mobile,1,0
+88202ad5-001f-466a-a4b2-e0008a0df167,exposed,2020-07-09,12,Generic Smartphone,6,Chrome Mobile,0,1
+dc51cfac-0e3d-4158-9e1f-951466cba76b,control,2020-07-03,15,Samsung SM-G935F,6,Samsung Internet,1,0
+a730ff93-b20f-4a23-b703-7c5becca5aac,exposed,2020-07-08,4,Generic Smartphone,6,Chrome Mobile,1,0
+f49a6027-3cdb-4a1f-b866-ae24241858b2,exposed,2020-07-09,13,Generic Smartphone,6,Chrome Mobile,1,0
+dde8073d-6d3f-4fed-8680-af04d129f24b,exposed,2020-07-03,8,Generic Smartphone,6,Chrome Mobile,1,0
+3b4d9f4d-1331-40ad-bf0d-dd7857719ebd,exposed,2020-07-09,11,Generic Smartphone,6,Chrome Mobile,0,1
+9061fdc8-1533-4fe9-93e3-21c3658c7bfb,exposed,2020-07-09,15,Generic Smartphone,6,Chrome Mobile WebView,1,0
+d1a61007-e7b8-4a94-81f8-c301835513ec,control,2020-07-08,3,Samsung SM-A520F,6,Samsung Internet,0,1
+5fd04435-d6ea-4b89-92cf-149449701675,control,2020-07-09,9,Generic Smartphone,6,Chrome Mobile,0,1
+fa15c8d5-3e39-4250-92ca-51bdf4e5a951,exposed,2020-07-08,19,Generic Smartphone,6,Chrome Mobile,0,1
+6060009d-20fe-4ecf-bc9f-0a3e1cb5e815,exposed,2020-07-03,11,Generic Smartphone,6,Chrome Mobile,0,1
+45e947eb-4da1-4233-9d59-312fa218bd50,exposed,2020-07-08,20,Samsung SM-J510FN,6,Samsung Internet,0,1
+8800e2cd-984d-4072-a6eb-1fbb597750be,exposed,2020-07-08,5,iPhone,5,Mobile Safari,0,1
+75775fce-879c-4c29-9e2f-c7ad7e65c588,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,0,1
+d9ed55eb-70bd-4945-b19f-0b4d05169f7a,exposed,2020-07-04,7,FIG-LX1,6,Chrome Mobile WebView,1,0
+5908f021-fc31-4b53-b29c-ef1fb0577e0b,exposed,2020-07-03,5,Generic Smartphone,6,Chrome Mobile WebView,1,0
+96026797-77dd-4d3c-b7da-cd061079fab9,exposed,2020-07-10,12,Generic Smartphone,6,Chrome Mobile,0,1
+3a7b0130-368e-4748-9022-6e12fca7b539,exposed,2020-07-05,15,Samsung SM-G950F,6,Chrome Mobile WebView,1,0
+023458f7-122d-475f-9525-1b9a3cc7a033,control,2020-07-03,15,MRD-LX1,6,Facebook,0,1
+211f8909-ed4a-4cb7-bc65-72a5bdb70ec4,exposed,2020-07-09,2,Samsung SM-G950F,6,Chrome Mobile WebView,1,0
+41283b76-9b69-47d0-b401-00d7148ba47d,control,2020-07-03,15,Samsung SM-G950F,6,Facebook,1,0
+ce14e80e-6164-486d-99f4-b44d4b20c686,exposed,2020-07-04,3,Generic Smartphone,6,Chrome Mobile,0,1
+7945f382-6d4a-4487-9311-27004eed1012,control,2020-07-05,14,MAR-LX1A,6,Facebook,1,0
+77137249-edf0-48b0-9f85-7972cc0871a9,control,2020-07-10,17,ELE-L29,6,Facebook,1,0
+c20d3573-0ee8-476d-8044-5538b93d54a0,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,0,1
+5076b505-7540-40e5-a806-cc10d78e1664,exposed,2020-07-08,16,Generic Smartphone,6,Chrome Mobile,1,0
+9f83924e-4cd3-4fa4-bd2b-d2487cf165f7,exposed,2020-07-04,14,Samsung SM-G965F,6,Chrome Mobile WebView,1,0
+8ee0d33f-647e-475b-8d6a-541f7c90a2ab,control,2020-07-09,21,Generic Smartphone,6,Chrome Mobile,1,0
+9ca24739-4a02-4f5c-9307-01a871b20028,exposed,2020-07-09,3,Generic Smartphone,6,Chrome Mobile,0,1
+cd603878-1076-40ed-83a7-305b833466c1,control,2020-07-09,19,Generic Smartphone,6,Chrome Mobile,0,1
+497650e4-6423-4762-8ac3-f0456199458b,exposed,2020-07-04,2,Generic Smartphone,6,Chrome Mobile WebView,0,1
+78e0a3aa-a76f-4e9d-ad56-b62f1f50f96c,exposed,2020-07-04,15,Generic Smartphone,6,Chrome Mobile WebView,0,1
+7a5d4370-6c7b-4d20-a274-b29c0c9f001d,control,2020-07-09,22,Generic Smartphone,6,Chrome Mobile WebView,1,0
+ae76bc8a-8d93-419b-a951-c27f54f9c2cc,exposed,2020-07-08,17,Generic Smartphone,6,Chrome Mobile,0,1
+9812f336-4e28-486b-9459-c763bbeb8eaa,exposed,2020-07-07,21,Generic Smartphone,6,Chrome Mobile,0,1
+da8b2153-3118-4c2a-bee1-ead1f31cb6a7,exposed,2020-07-05,18,Samsung SM-J530F,6,Samsung Internet,1,0
+1d4ecd52-4063-43b8-83ae-c1e75d3e6b6e,exposed,2020-07-08,5,ELE-L29,6,Facebook,0,1
+344a189d-4970-4b73-84c7-17231eade90e,exposed,2020-07-08,17,LG-$2,6,Chrome Mobile WebView,1,0
+fd096dd9-a9ca-400a-89da-f659834a1072,control,2020-07-05,4,CLT-L09,6,Chrome Mobile,0,1
+67f0bcc8-e606-4746-8add-6204619dbd9c,exposed,2020-07-03,8,Generic Smartphone,6,Chrome Mobile,1,0
+f78ed1d8-93e5-48ad-b289-4135095cf53e,exposed,2020-07-03,2,Samsung SM-A105FN,6,Samsung Internet,1,0
+85ca2873-a9d0-471c-a449-b420368cebb1,control,2020-07-08,18,Samsung SM-A202F,6,Samsung Internet,1,0
+496d6147-d6b7-4f4a-b36f-331db8d53fea,control,2020-07-10,6,Samsung SM-G973F,6,Chrome Mobile WebView,1,0
+234d896d-60d3-47f8-aa4d-389e81f280ec,exposed,2020-07-10,0,Generic Smartphone,6,Chrome Mobile,1,0
+1ecaf084-2efd-4824-a414-13204e3e418c,exposed,2020-07-08,17,Samsung SM-G955F,6,Chrome Mobile WebView,0,1
+5fe02e55-2d8a-4117-9895-e24fd3eba6ae,control,2020-07-08,16,Samsung SM-A405FN,6,Samsung Internet,1,0
+4958d8ee-f825-491d-9fd4-5fdf00a9ca16,exposed,2020-07-08,15,SNE-LX1,6,Facebook,0,1
+99871434-44a4-4e45-9f4d-ba7399d25a79,control,2020-07-09,1,Samsung SM-J415FN,6,Samsung Internet,1,0
+91713b55-9066-4861-b290-7b2174c45bae,exposed,2020-07-05,4,Generic Smartphone,6,Chrome Mobile,0,1
+e21bd15a-bd75-44d7-accc-20b3580f6055,control,2020-07-04,16,Generic Smartphone,6,Chrome Mobile,1,0
+f79c2e9e-afde-4c59-8a7a-e992cc18e4c6,exposed,2020-07-10,5,Samsung SM-G960F,6,Samsung Internet,0,1
+4441b628-9390-41fb-b769-359a27510fbf,control,2020-07-09,14,Generic Smartphone,6,Chrome Mobile,0,1
+0d4b1f54-961d-4d15-bef9-7c53356e14ff,exposed,2020-07-09,0,Samsung SM-A705FN,6,Samsung Internet,0,1
+a41d7241-755a-4fa2-bd56-bee69e6580c1,control,2020-07-06,7,Nokia$2$3,6,Chrome Mobile WebView,1,0
+9f425bcf-ebda-4879-80a3-440a73cee326,control,2020-07-06,10,Generic Smartphone,6,Chrome Mobile,0,1
+4d30e931-688a-4a10-ab3a-930c0096549f,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,1,0
+a3f3e37c-6eae-4917-b5b0-e13479fe7773,exposed,2020-07-09,7,Samsung SM-G960F,6,Chrome Mobile WebView,1,0
+34abde6e-7d4c-46e5-9060-7226a5b4ff2a,control,2020-07-03,15,Samsung SM-A705FN,6,Facebook,1,0
+7d16ebd6-b007-41c6-8737-f4e04c92cd0e,exposed,2020-07-05,7,Samsung SM-G975F,6,Samsung Internet,1,0
+29aaa36d-ba5d-465e-bcf9-7cdfa14cd771,exposed,2020-07-08,18,Samsung SM-G950F,6,Chrome Mobile WebView,0,1
+9a97b477-c294-4234-8449-a92da02b60bd,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,0,1
+7c23951c-6a73-4919-959f-45fa00909ca9,control,2020-07-06,10,Generic Smartphone,6,Chrome Mobile,1,0
+2486784b-2d9b-41d6-9af1-20cddbb6d1a1,exposed,2020-07-06,1,Samsung SM-A505FN,6,Chrome Mobile WebView,1,0
+65a6216b-e820-4dba-a93a-b7faea563ed5,exposed,2020-07-07,14,Generic Smartphone,6,Chrome Mobile WebView,0,1
+34da343c-b2cf-452a-a12d-ea3475b4b426,control,2020-07-03,15,Pixel 3,6,Facebook,1,0
+d32a7a8c-f2b9-4145-9f3b-070a8f78126b,exposed,2020-07-09,0,HTC One $2,6,Chrome Mobile,1,0
+22bd20bf-4ab6-4be8-a28a-2637551aa2e7,exposed,2020-07-08,16,Generic Smartphone,6,Chrome Mobile,0,1
+c834791e-6131-4741-a4d0-7ee367206808,control,2020-07-07,10,Samsung SM-G930F,6,Samsung Internet,1,0
+efb93bee-6ba2-4734-a786-cc184567cede,exposed,2020-07-03,4,Generic Smartphone,6,Chrome Mobile,0,1
+55d8dd33-e03b-4e07-9583-b5f7079e28ae,exposed,2020-07-09,16,Generic Smartphone,6,Chrome Mobile,0,1
+4584720e-312d-4389-a9d2-ad6c433669b7,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,1,0
+2ef0b547-cc9f-4604-b391-96529fdd653b,control,2020-07-10,9,Samsung SM-G950F,6,Chrome Mobile WebView,0,1
+d40a4d01-1d78-4162-a2c0-c398fac35b55,control,2020-07-03,15,Samsung SM-A530F,6,Samsung Internet,1,0
+d3b96730-3fd5-4f03-9432-4ef4c1160cac,exposed,2020-07-04,7,Generic Smartphone,6,Chrome Mobile,0,1
+53483309-2717-4f0b-8302-b7f3f33ee907,control,2020-07-08,22,Generic Smartphone,6,Chrome Mobile,1,0
+b5ea386e-eb3e-448c-aa82-ffa1e1da483e,control,2020-07-04,9,Samsung SM-G935F,6,Facebook,0,1
+bbd30804-351e-4bba-a7f7-c2963373ba5b,control,2020-07-03,15,Samsung SM-A405FN,6,Samsung Internet,0,1
+3e1e719b-9f7d-4df2-bdf8-285f9284abe8,exposed,2020-07-06,1,Generic Smartphone,6,Chrome Mobile,0,1
+67d06c4c-9642-431f-902d-115baf15ef81,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,1,0
+e961b5b1-0609-4da3-ad63-0922b2c83280,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,0,1
+dbb2a996-a218-4b0d-8099-bfade97f7d05,exposed,2020-07-07,21,Pixel 3,6,Chrome Mobile WebView,1,0
+5fb83523-1c8c-4ad1-8239-d262fa3b83dd,control,2020-07-03,15,Samsung SM-G973F,6,Facebook,1,0
+d6312ee2-ee20-4ee7-9641-0d10a2435acb,exposed,2020-07-08,20,Samsung SM-A505FN,6,Chrome Mobile WebView,1,0
+f74343a5-f659-4062-b237-2e4f636339cc,control,2020-07-04,7,Samsung SM-G930F,6,Samsung Internet,0,1
+4a251a62-7a4a-4247-8aa9-0a928ea50852,exposed,2020-07-04,16,Samsung SM-G935F,6,Samsung Internet,0,1
+c5c85ca1-1af4-4384-a625-b91b13825dc8,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,0,1
+4e0bbe87-693f-4836-920d-51b84b0622eb,control,2020-07-03,15,ANE-LX1,6,Facebook,1,0
+bfaa07e5-99ed-4975-b941-057d91629a61,exposed,2020-07-08,16,Samsung SM-A202F,6,Chrome Mobile WebView,0,1
+d8abd44f-168f-4e1d-a17c-1c71d3f8dca3,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,1,0
+47a3ea57-c9d7-4fcc-926d-1ca81b2a9c1c,exposed,2020-07-10,3,Generic Smartphone,6,Chrome Mobile WebView,0,1
+83e357df-d8eb-4a1a-afb1-798e49aebe06,exposed,2020-07-09,11,POT-LX1,6,Chrome Mobile WebView,0,1
+7ec2fb51-2043-4484-b9a0-a7243846739a,exposed,2020-07-09,21,Samsung SM-G975F,6,Samsung Internet,0,1
+e14a5339-2cdc-4f76-b3b6-3e00af58b7a7,exposed,2020-07-09,18,Generic Smartphone,6,Chrome Mobile,0,1
+15602254-27d1-4869-bb53-67585b66a316,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,0,1
+f5ebaa8d-a198-4963-a285-6260010f894e,exposed,2020-07-03,9,Generic Smartphone,6,Facebook,0,1
+b847ef6d-7b4c-4e77-af59-a3a081d6d6e1,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,0,1
+284aa64e-2958-4b95-bc5d-d47b298d0ec4,exposed,2020-07-05,7,Generic Smartphone,6,Chrome Mobile,0,1
+06d7ece2-7d93-43ed-a9d3-e563fb8067e9,control,2020-07-04,19,Generic Smartphone,6,Chrome Mobile,1,0
+8fcc1807-2048-42c8-be64-e5ce4e00f23d,exposed,2020-07-03,10,EVR-N29,6,Chrome Mobile WebView,0,1
+bfd36764-0f2e-43ea-98f4-cb238a26f861,exposed,2020-07-06,4,Generic Smartphone,6,Chrome Mobile,1,0
+a960bd44-d44f-45c4-a430-60ca69bf9dee,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,0,1
+f14c1372-fa33-4c49-8656-28d635cead96,exposed,2020-07-09,3,Samsung SM-J610G,6,Facebook,0,1
+adf01b35-e56f-4007-9c19-c563b194f075,exposed,2020-07-08,21,Generic Smartphone,6,Chrome Mobile,0,1
+142bd98d-e577-4880-b041-13a9a9a4bb97,exposed,2020-07-08,17,Generic Smartphone,6,Chrome Mobile,0,1
+8c558656-7cd3-4c13-bdf9-6af3b068422e,control,2020-07-05,7,Generic Smartphone,6,Chrome Mobile,1,0
+b7db172d-a644-46a6-b6bb-f9bea0006862,exposed,2020-07-08,0,Generic Smartphone,6,Chrome Mobile,0,1
+d67b73d4-077e-437e-a046-0d6973fe12c8,exposed,2020-07-08,15,PRA-LX1,6,Facebook,0,1
+e2353ca7-e537-4901-a239-7fc449a35859,exposed,2020-07-05,14,LG-$2,6,Chrome Mobile WebView,1,0
+b21528ce-584a-4221-9922-5c18182a9635,exposed,2020-07-07,12,Generic Smartphone,6,Chrome Mobile,0,1
+8587653f-3aed-4ba9-b962-f376c2c196e2,control,2020-07-08,19,Generic Smartphone,6,Chrome Mobile,1,0
+4d64a3ef-9f3c-4996-947e-d60ab96131ab,control,2020-07-08,2,Generic Smartphone,6,Chrome Mobile,0,1
+3f1aff10-8d95-485d-96ef-9809ce0e856f,exposed,2020-07-04,7,Generic Smartphone,6,Chrome Mobile,0,1
+0cbd75c3-3935-4a60-aa51-6342739f27b9,exposed,2020-07-10,2,Samsung SM-G950F,6,Facebook,0,1
+461b5f81-361f-41c0-b38b-dd34f671ab5a,exposed,2020-07-05,10,Generic Smartphone,6,Chrome Mobile,0,1
+ecf7f3e3-198a-46a2-9916-e5c4af543f51,exposed,2020-07-03,13,Generic Smartphone,6,Chrome Mobile WebView,0,1
+f55effb2-dbb4-4d95-b759-668829ec3ae2,exposed,2020-07-08,4,Samsung SM-J530F,6,Samsung Internet,1,0
+4e0c6839-9da6-4291-a45c-31e0bda501a8,exposed,2020-07-04,8,Generic Smartphone,6,Chrome Mobile,0,1
+8992b170-1fd2-49ad-b91d-2d63d67d117c,exposed,2020-07-10,7,HTC Desire $2,6,Chrome Mobile,1,0
+fd1b8ea5-5397-4fae-a7f6-3c11fa3cef70,control,2020-07-03,15,Samsung SM-G975F,6,Samsung Internet,1,0
+4ebbb5a3-5e0e-4bcf-bff0-a7700f8ad247,control,2020-07-09,4,Nokia undefined$2$3,6,Chrome Mobile,0,1
+503b0496-37a7-4344-ad59-e1562791ae47,exposed,2020-07-09,0,Generic Smartphone,6,Chrome Mobile,0,1
+f3b0d86b-664e-4d88-9416-4351539b5a0a,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,0,1
+981812f8-45ec-49ae-86a8-327fce9f3db0,exposed,2020-07-07,17,Samsung SM-A515F,6,Chrome Mobile WebView,0,1
+80fc937f-f009-4d1a-ae68-4615b9e7f927,control,2020-07-08,17,Generic Smartphone,6,Chrome Mobile,1,0
+d2e6597d-0a21-49ec-bde7-5ad7b7c294b1,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,0,1
+1199f67d-e16a-46a1-b1b4-01dcd120d728,control,2020-07-10,13,Samsung SM-G973F,6,Samsung Internet,1,0
+1b7715c7-58bb-4958-a09a-68790685625a,control,2020-07-06,8,Samsung SM-A520F,6,Chrome Mobile WebView,0,1
+9b3af700-b1f9-47a3-a510-a939e06af5ae,control,2020-07-06,1,iPhone,5,Mobile Safari,0,1
+53bc50db-0d99-4706-b0e6-42c5acb61487,control,2020-07-03,15,Samsung SM-G960F,6,Facebook,0,1
+c9589816-924b-4c27-bdd6-d5d4a438495d,control,2020-07-08,5,Generic Smartphone,6,Chrome Mobile,0,1
+6d46a7c0-27d9-4156-bb04-64dd087f6a8a,exposed,2020-07-06,10,Samsung SM-N950F,6,Facebook,1,0
+3e23e4ea-19eb-4dc8-813b-065a3a44bf7f,exposed,2020-07-03,7,Generic Smartphone,6,Chrome Mobile,0,1
+cca8a3c4-a143-4236-8aa0-bb8c1c218155,exposed,2020-07-06,5,Samsung SM-J330FN,6,Samsung Internet,0,1
+8056b1e1-4321-45d4-a718-2fc6466072a7,control,2020-07-05,5,CLT-L09,6,Chrome Mobile WebView,0,1
+c50ab58c-e978-4cd5-8692-639bbd8521ea,control,2020-07-03,15,iPhone,5,Mobile Safari,0,1
+827d918d-95b0-4912-89f9-da0cc56b1a25,control,2020-07-08,15,Generic Smartphone,6,Chrome Mobile,1,0
+1e43fc5f-dd65-4311-9c32-6e1552cd70b9,exposed,2020-07-07,23,Generic Smartphone,6,Chrome Mobile,1,0
+44c43a7f-cdda-4df9-a197-bb624eff2e19,exposed,2020-07-04,13,Samsung SM-G950F,6,Facebook,0,1
+d03bbb85-9e22-4f66-85e9-17566ec48d04,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,0,1
+1f0c7f13-22ac-4250-bfeb-5fc331ae0c29,exposed,2020-07-05,8,Generic Smartphone,6,Chrome Mobile,0,1
+80b9fecc-ef23-4896-bd43-b81c074f49c3,control,2020-07-09,17,Generic Smartphone,6,Chrome Mobile,1,0
+756a5b05-eb54-4a4b-9d73-376854c452ab,control,2020-07-09,16,Samsung SM-N970F,6,Facebook,0,1
+5ed6128d-b8fd-4a33-95bf-8c7a5d09bea4,exposed,2020-07-08,15,Generic Smartphone,6,Chrome Mobile,0,1
+1e657002-aff5-4baf-b16b-e1c7e9b9a64b,control,2020-07-08,20,Generic Smartphone,6,Chrome Mobile,0,1
+87cd4889-09fe-4e40-a009-cccad6ab68c9,exposed,2020-07-09,10,Generic Smartphone,6,Chrome Mobile,0,1
+bc31e71b-9e4b-4212-a9b4-9e637093c86e,exposed,2020-07-08,16,Generic Smartphone,6,Chrome Mobile,1,0
+36164db4-e025-479f-bd6b-2a0a7dd94dee,control,2020-07-08,19,Generic Smartphone,6,Chrome Mobile,0,1
+59cc2ee4-e210-4b96-8e82-99d0a6cdbe9b,exposed,2020-07-05,13,Generic Smartphone,6,Chrome Mobile,1,0
+4127c6a8-df3c-43be-9692-160978e24ee1,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,1,0
+805cffd0-43b1-40a1-aecd-e04055b6059f,exposed,2020-07-08,12,Generic Smartphone,6,Chrome Mobile,1,0
+ec4c1cde-1e93-4b47-b5ea-9f31b8cc5295,control,2020-07-04,11,iPhone,5,Chrome Mobile iOS,1,0
+b48c5ed5-8810-4dc0-ae42-086544d0ed9c,exposed,2020-07-03,13,Generic Smartphone,6,Chrome Mobile,1,0
+85c4fee1-7772-44e7-acb9-81db633da502,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,0,1
+9e217620-d5ba-437b-949f-e6e7dbd0c011,control,2020-07-06,4,Generic Smartphone,6,Chrome Mobile,1,0
+85852946-9916-4032-8858-1479994feefb,exposed,2020-07-09,14,Generic Smartphone,6,Chrome Mobile,0,1
+f1b2ff1e-f781-446e-a8c4-c53daea7e9fb,exposed,2020-07-06,5,VTR-L09,6,Facebook,0,1
+9a1735fe-3cbf-41c1-ba89-a57a6e2d00ba,exposed,2020-07-08,18,Nokia undefined$2$3,6,Chrome Mobile,1,0
+fcb0ee15-55e6-4eba-88dc-dfedcd64231d,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,0,1
+75465b1d-7358-4ad3-b13b-a8eb3e28d6f9,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,0,1
+e8a78543-8576-44cc-9208-dc44ed7b48e5,exposed,2020-07-06,6,Generic Smartphone,6,Chrome Mobile,0,1
+8decec21-514c-4c2a-a9e1-bee3ba4fa94c,exposed,2020-07-08,20,Generic Smartphone,6,Chrome Mobile,1,0
+79931b42-2f45-4e44-aea7-d33c057519b9,exposed,2020-07-06,8,Generic Smartphone,6,Chrome Mobile,0,1
+8a9d35a5-5980-4591-82e8-1b7fa84b2af8,exposed,2020-07-05,16,Generic Smartphone,6,Chrome Mobile,1,0
+7618f84a-b89a-4581-ac8b-87ab7b0bf87e,exposed,2020-07-04,6,ELE-L09,6,Facebook,1,0
+92e4a093-f671-4f1b-a208-c17a6af430e6,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,1,0
+bd482da7-6a70-4bca-ad47-786562d2d44e,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,1,0
+8e0e0869-4b64-4f1e-ac8e-ad8355b41820,exposed,2020-07-04,10,Generic Smartphone,6,Chrome Mobile,0,1
+08097cbe-a8fe-4336-a917-3da665c5654e,exposed,2020-07-10,15,Generic Smartphone,6,Chrome Mobile,1,0
+06cf1733-06d1-4c7c-a429-2312177166a2,exposed,2020-07-09,20,Samsung SM-G950F,6,Samsung Internet,0,1
+3b427db1-4b52-446f-bcb2-2f6039ad1d42,exposed,2020-07-03,9,Generic Smartphone,6,Chrome Mobile,1,0
+6ecd9456-28af-4bf8-a9c0-83fce231d4ae,control,2020-07-04,15,Samsung SM-G973F,6,Facebook,1,0
+1d5dc3d3-b877-4f97-8c3a-ef7f9bc3af55,control,2020-07-03,15,Huawei Browser,6,Chrome,0,1
+49cc73ea-cb7a-4fde-a5b4-a98a494cefee,exposed,2020-07-06,7,Samsung SM-G960F,6,Samsung Internet,0,1
+da47b8a8-e82a-44a7-9374-992655581d2f,exposed,2020-07-09,11,Generic Smartphone,6,Chrome Mobile,0,1
+ff82e341-b72c-4531-b87e-1e11dc35d3fc,exposed,2020-07-10,8,Samsung SM-G973F,6,Samsung Internet,1,0
+ffb176df-ecd2-45d3-b05f-05b173a093a7,exposed,2020-07-04,1,Generic Smartphone,6,Chrome Mobile,1,0
+fee7da61-84fe-451b-95f4-ba2523fa987d,exposed,2020-07-09,14,Generic Smartphone,6,Chrome Mobile,1,0
+00b6fadb-10bd-49e3-a778-290da82f7a8d,control,2020-07-08,4,Samsung SM-A202F,6,Facebook,1,0
+188bb5f4-f591-47ff-aaec-3756b0ce2ea5,exposed,2020-07-09,6,I3312,6,Chrome Mobile WebView,0,1
+8c22abe3-1403-4da5-b3c3-24b2fb6986a3,exposed,2020-07-10,1,Generic Smartphone,6,Chrome Mobile,0,1
+ed32baab-4fd2-4c01-8210-9b00895fb0c8,control,2020-07-03,15,Samsung SM-G965F,6,Chrome Mobile WebView,1,0
+be8b07ec-d125-4a6f-9af7-8062026cc6c2,control,2020-07-03,15,Samsung SM-G920F,6,Chrome Mobile WebView,0,1
+dc31d745-f6fe-45d8-8db8-9bf7450a4f9c,exposed,2020-07-06,3,Generic Smartphone,6,Chrome Mobile,1,0
+e5c2aa41-a1c4-43d7-ae4d-1560d99cadaa,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,0,1
+90e88134-b9bc-4655-99d1-3f73b124c1bc,exposed,2020-07-10,15,Generic Smartphone,6,Chrome Mobile,1,0
+4acd64d5-5071-41cd-ba66-40d0ae72d8dd,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,0,1
+ce0979fe-adb6-4693-bdbe-b7d655ac11dc,exposed,2020-07-03,13,Generic Smartphone,6,Chrome Mobile,1,0
+4caa5feb-42d1-4a56-a25b-d5c7c8e2e5da,exposed,2020-07-03,10,Samsung SM-J600FN,6,Samsung Internet,1,0
+5f04566f-d5e8-4ac5-8fa7-ac52db677509,exposed,2020-07-07,22,Generic Smartphone,6,Chrome Mobile,1,0
+5c26b6e5-17e0-4ab0-b8ed-66b6a7128e94,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,1,0
+013e45cf-e388-46a4-9c5b-a34303613940,exposed,2020-07-10,2,Generic Smartphone,6,Chrome Mobile,0,1
+16635abc-4436-46ac-ac92-92119d473f65,exposed,2020-07-09,19,Generic Smartphone,6,Chrome Mobile,1,0
+93d7d285-71d3-4bd8-bc83-4def8b69b9af,exposed,2020-07-06,4,Generic Smartphone,6,Chrome Mobile,0,1
+e1fa9295-6381-476f-b6b4-996af7c3ecc8,exposed,2020-07-03,7,Samsung SM-G920F,6,Chrome Mobile WebView,0,1
+7424e067-9f20-4211-a8d3-bd5665963d8b,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,0,1
+b4eba3d3-4308-4ec3-a91f-ccbc76408353,exposed,2020-07-05,12,Samsung SM-G960F,6,Facebook,1,0
+52788ed3-653c-480b-aa0d-d36b1dc36166,exposed,2020-07-03,7,Generic Smartphone,6,Chrome Mobile,1,0
+b9bb4710-4bde-43a7-ac9b-951f7a8d6e95,control,2020-07-07,13,Generic Smartphone,6,Chrome Mobile,1,0
+81686c37-f1a6-4a9a-9ef4-a8e14f7ea04b,exposed,2020-07-07,14,Samsung SM-G960F,6,Samsung Internet,0,1
+36432b69-a806-4000-97a7-d852b294d0c4,exposed,2020-07-09,9,Generic Smartphone,6,Chrome Mobile,1,0
+9ea0fc2c-e9ee-4f86-92cd-8098f569caf0,exposed,2020-07-04,15,Generic Smartphone,6,Chrome Mobile,0,1
+cf85ad4e-d09b-4e1f-9709-d8510c6ea51b,control,2020-07-08,20,Generic Smartphone,6,Chrome Mobile,1,0
+e51ef816-c10d-4d76-8296-1ebfa8d19d29,exposed,2020-07-05,8,Generic Smartphone,6,Chrome Mobile,0,1
+60e51496-0008-4836-baf5-24295395ac08,exposed,2020-07-03,10,Generic Smartphone,6,Chrome Mobile,1,0
+0d5ed6c8-5b5f-4219-aa96-6e80d9aca7cd,exposed,2020-07-09,14,Generic Smartphone,6,Chrome Mobile,0,1
+0ded142b-aadd-45aa-9343-8b1c7b04df8c,control,2020-07-03,15,POT-LX1,6,Facebook,0,1
+542419da-d4e5-450d-b6fa-012c02e6d2ef,exposed,2020-07-09,11,Generic Smartphone,6,Chrome Mobile,0,1
+3234d6c9-3283-4aef-bd53-8f9336d069c0,control,2020-07-03,15,Samsung SM-G935F,6,Samsung Internet,1,0
+02a9eba3-58b0-4759-b3ae-68a19cb2b59e,exposed,2020-07-09,20,Moto $2,6,Chrome Mobile WebView,0,1
+7886e538-d171-497f-9120-419aa7593dfa,exposed,2020-07-09,17,Samsung SM-A507FN,6,Chrome Mobile WebView,1,0
+b787f03b-8eba-4fec-ba2d-e9f5fc031e75,control,2020-07-10,0,Samsung SM-G960F,6,Facebook,0,1
+4664292e-2a9c-421f-9a21-b971b3f97d52,control,2020-07-04,8,XiaoMi Redmi 6A,6,Facebook,0,1
+6a59d23a-38dd-41ab-a29a-64d590d1975e,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,1,0
+ab235a96-9659-4bf4-969e-b6f55800fdfd,control,2020-07-08,17,Generic Smartphone,6,Chrome Mobile,0,1
+e7f2c91a-5c80-490e-b3a9-9ebb3fad4ef9,exposed,2020-07-06,7,OnePlus ONEPLUS A6013,6,Chrome Mobile WebView,0,1
+6bdcc691-6df8-4970-a6bd-02d8a13e8103,exposed,2020-07-04,4,Generic Smartphone,6,Chrome Mobile,0,1
+b9684726-5a27-43ce-996c-87a0a35a0f09,exposed,2020-07-08,15,Pixel 4,6,Chrome Mobile WebView,0,1
+f4d18a67-beff-4e38-92e0-1fb875f8aba7,exposed,2020-07-08,15,Generic Smartphone,6,Chrome Mobile,0,1
+5ae48482-f04a-41e5-9606-6e450cfdff13,control,2020-07-06,0,VTR-L09,6,Chrome Mobile WebView,0,1
+9a00b17e-37ce-4cd4-82d6-7bc4d21cc524,exposed,2020-07-04,14,Samsung SM-J610FN,6,Chrome Mobile WebView,1,0
+a8ab330a-93fb-4e1c-befd-9bbe60f12bfb,exposed,2020-07-10,4,Generic Smartphone,6,Chrome Mobile,1,0
+f1a83cc4-2092-473f-b1e3-605b4fd9e854,exposed,2020-07-07,13,Samsung SM-A202F,6,Chrome Mobile WebView,1,0
+7d978bd2-f198-44a2-b918-9ba681a621ef,exposed,2020-07-09,17,Generic Smartphone,6,Chrome Mobile,1,0
+a6adac76-e627-44ca-8100-1d7425083881,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,0,1
+e1c67cf9-e563-4442-a9e9-4d80e8396446,control,2020-07-03,15,Samsung SM-A530F,6,Samsung Internet,0,1
+4125be7b-e582-46f3-b9fd-eeaf4af36f3f,exposed,2020-07-10,8,Samsung SM-G975F,6,Chrome Mobile WebView,1,0
+5ebd8e85-71d3-499d-83d3-bf4375bdec18,exposed,2020-07-08,15,Generic Smartphone,6,Chrome Mobile,1,0
+5358fee8-5aed-40da-a133-d788af39c59a,control,2020-07-07,17,Generic Smartphone,6,Chrome Mobile,1,0
+39e29edd-e13b-4f73-ad43-aa9087fccb90,control,2020-07-03,15,Generic Smartphone,6,Facebook,1,0
+e80622ac-a8f2-4888-8eb4-d92ab30f9848,exposed,2020-07-04,12,Samsung SM-G960F,6,Samsung Internet,0,1
+00a1384a-5118-4d1b-925b-6cdada50318d,exposed,2020-07-06,8,Generic Smartphone,6,Chrome Mobile,0,1
+018af862-486e-4da1-a85b-71872120e57c,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,1,0
+dd368385-216c-4291-9895-3aff0925371c,exposed,2020-07-07,8,Generic Smartphone,6,Chrome Mobile,0,1
+49e7690d-4825-499c-9553-756af3198a10,control,2020-07-07,10,Generic Smartphone,6,Chrome Mobile,1,0
+e012788c-7a92-4c13-9c1d-c988cf94f2c8,control,2020-07-04,4,Generic Smartphone,6,Chrome Mobile,1,0
+dfa5e7ca-4f00-4bc9-b2fd-c2cec5a287f2,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,1,0
+8b25c4f8-abaa-4f2c-af60-c280850650b8,exposed,2020-07-10,14,Samsung SM-N960F,6,Samsung Internet,0,1
+8e4faab7-7026-4d9d-9a7f-1cbc2173a45d,exposed,2020-07-08,22,Generic Smartphone,6,Chrome Mobile,1,0
+c05fc65f-e0f9-4b64-a292-dcc782451b60,control,2020-07-09,9,Samsung SM-A202F,6,Chrome Mobile WebView,1,0
+33a6fe42-961e-4f91-abd3-215ee08d1773,exposed,2020-07-08,15,VOG-L29,6,Facebook,0,1
+60079877-1f31-42ea-9336-ff20fdfad39c,control,2020-07-04,3,Generic Smartphone,6,Chrome Mobile,0,1
+0587d2d4-d47a-4872-ace2-a460eea468f3,exposed,2020-07-09,1,Generic Smartphone,6,Chrome Mobile,1,0
+f890cc03-b7f9-4bf0-b6d3-cceaf2e4a8cb,exposed,2020-07-03,5,Generic Smartphone,6,Chrome Mobile,0,1
+729e2702-0b19-4514-9221-06b8a02e0498,exposed,2020-07-05,11,Generic Smartphone,6,Chrome Mobile,0,1
+c2bb1c26-1c76-4d5f-9a13-3e10d605f4e1,control,2020-07-03,15,Samsung SM-A705FN,6,Facebook,1,0
+b62683b9-dd40-4825-a97f-3c999dd85247,exposed,2020-07-05,18,Generic Smartphone,6,Chrome Mobile,1,0
+f166ded5-56c7-45b5-9b57-144301947e63,control,2020-07-03,15,G3311,6,Facebook,1,0
+7371e366-6310-4cd1-ad45-603f3d94d4ee,control,2020-07-03,15,Samsung SM-G930F,6,Samsung Internet,1,0
+b1c061db-8844-4d11-b16e-37cd421eff02,control,2020-07-08,22,Samsung SM-G973F,6,Facebook,0,1
+7e10fa95-9b61-43fb-9bfc-99e5b83a54e5,control,2020-07-03,15,Samsung SM-J600FN,6,Samsung Internet,0,1
+527275af-810f-436e-9c1b-3cc87927c8f5,control,2020-07-10,15,Generic Smartphone,6,Chrome Mobile,0,1
+e3b19548-2909-40aa-8302-1cb074aa73ce,exposed,2020-07-08,13,Samsung SM-A202F,6,Chrome Mobile WebView,0,1
+67462dcc-3c3c-4640-b3f5-f9b0cfa2ce0a,control,2020-07-09,10,Samsung SM-G960F,6,Facebook,1,0
+3dd09b49-9b11-45bd-ab0d-e279a8e5edc7,exposed,2020-07-03,0,Generic Smartphone,6,Chrome Mobile,0,1
+4498e146-766f-464c-94ef-adfcc8fe2698,exposed,2020-07-09,6,Generic Smartphone,6,Chrome Mobile,1,0
+04bb7622-8ac6-4cf8-bbab-31cd31698fe7,control,2020-07-03,15,Samsung SM-G973F,6,Facebook,0,1
+4f450849-fc9d-4baa-9a5a-3b6b7ded2b0d,control,2020-07-03,15,Samsung SM-A405FN,6,Samsung Internet,1,0
+6afb470b-43d6-497f-a3c3-f3399bc5d317,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,0,1
+09cc0f8a-88c5-4888-b6d7-f8d388acc444,exposed,2020-07-04,5,Samsung SM-G960F,6,Chrome Mobile WebView,0,1
+4c47394c-fd7f-4a7e-aff9-8014893702ee,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,0,1
+17e82427-a84f-4f98-a261-aa5e6c625c5b,control,2020-07-03,15,OnePlus ONEPLUS A5000,6,Facebook,1,0
+ffca1153-c182-4f32-9e90-2a6008417497,control,2020-07-10,16,Generic Smartphone,6,Chrome Mobile,0,1
+0b3e05e0-b0e0-4815-9a22-3fd4552f4883,exposed,2020-07-08,21,Generic Smartphone,6,Chrome Mobile WebView,0,1
+7c1ae5db-754d-4c3f-a235-07910680decb,exposed,2020-07-10,15,Samsung SM-G950F,6,Samsung Internet,0,1
+32a55120-a5a8-451f-ab51-3c027a6be38e,exposed,2020-07-04,14,Generic Smartphone,6,Chrome Mobile,1,0
+19ba8dc7-b5e2-4d2d-9eeb-33c40d2fbaa6,exposed,2020-07-03,12,VOG-L29,6,Facebook,0,1
+b1b39d3f-03d4-4e34-b9e7-ad6a182aea98,exposed,2020-07-08,15,Generic Smartphone,6,Chrome Mobile,1,0
+8257ea69-d84b-4740-a1dc-e3c65850c0ce,control,2020-07-05,21,Generic Smartphone,6,Chrome Mobile,0,1
+7c003bed-32c3-4236-abf0-f571debe769b,exposed,2020-07-05,3,iPhone,5,Mobile Safari,1,0
+0e98b506-4832-4988-9775-2d6f8bc49114,control,2020-07-03,15,Samsung SM-G960F,6,Samsung Internet,1,0
+5d64d8fd-a7ff-4138-a7d7-2cdd5e3ecee0,exposed,2020-07-08,14,Generic Smartphone,6,Chrome Mobile,1,0
+f742b01c-8bde-49bf-b2fe-fbe54e7e0092,exposed,2020-07-04,1,Generic Smartphone,6,Chrome Mobile,1,0
+b1d20e51-caa7-4a6f-b802-37c9a399e036,exposed,2020-07-03,11,Samsung SM-A505FN,6,Chrome Mobile WebView,0,1
+78334283-17e0-4221-b93b-18d65beffe9b,exposed,2020-07-03,13,Generic Smartphone,6,Chrome Mobile,1,0
+6b98e0a1-910d-4766-bc66-b28c50021fae,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,0,1
+c8b8fe3b-fafd-4218-bbac-4ab67add85c4,control,2020-07-09,8,Generic Smartphone,6,Chrome Mobile,0,1
+b11f8207-f3cf-422d-a3e4-dfe525ed237b,exposed,2020-07-03,2,Generic Smartphone,6,Chrome Mobile,1,0
+f9c4603c-5ccf-4470-8e63-d1edc6fe87b2,control,2020-07-07,1,Generic Smartphone,6,Chrome Mobile,0,1
+841b275a-7749-4182-bf5e-ef2720adee08,control,2020-07-03,15,Samsung SM-A515F,6,Chrome Mobile WebView,0,1
+6e0cca4f-9bae-4b9a-9af5-69ca6dccdb69,exposed,2020-07-10,15,Generic Smartphone,6,Chrome Mobile,0,1
+802cabec-8664-47ea-ab83-6daf691814eb,exposed,2020-07-05,13,Samsung SM-G950F,6,Samsung Internet,0,1
+4d6afa17-1d75-4102-b31b-7d38fae44b24,exposed,2020-07-09,8,Generic Smartphone,6,Chrome Mobile WebView,0,1
+ce0175a2-7b16-4bd4-8b32-81c399a3797a,control,2020-07-05,8,Samsung SM-G935F,6,Samsung Internet,0,1
+ef8bd22b-9232-4627-a98d-b173b3284a7b,exposed,2020-07-04,8,Generic Smartphone,6,Chrome Mobile,0,1
+4af11910-53a2-4a1d-a67f-a7fd53d6a8d7,exposed,2020-07-05,12,Generic Smartphone,6,Chrome Mobile,0,1
+9b30f3e8-68f5-4f7a-96c8-fcfe10ffb271,control,2020-07-03,15,Samsung SM-G960F,6,Facebook,0,1
+ba9cc425-9ed6-4e16-b8f6-9c9a0bb54144,exposed,2020-07-04,17,Generic Smartphone,6,Chrome Mobile,0,1
+7cff2a18-9c03-40c2-838d-ae4921a5c0ba,exposed,2020-07-03,7,Generic Smartphone,6,Chrome Mobile WebView,1,0
+9d198a0a-2f22-47e1-8092-82263d8b894d,exposed,2020-07-07,14,Samsung SM-A320FL,6,Samsung Internet,0,1
+dea1c55e-23e0-4550-82b9-08f8b0d6470d,exposed,2020-07-04,20,Generic Smartphone,6,Chrome Mobile,1,0
+b9075369-201e-489a-97d6-74aa53cdabd0,control,2020-07-04,11,LG-$2,6,Chrome Mobile,1,0
+d9c8c344-3b39-4e6d-a68a-0ec37496c280,exposed,2020-07-06,10,Generic Smartphone,6,Chrome Mobile,0,1
+0cc5c45f-a874-4a57-bf3d-0ff5b77113ef,control,2020-07-03,15,Samsung SM-G950F,6,Chrome Mobile WebView,1,0
+6090648b-5010-49e1-b231-024be0fdb7d8,exposed,2020-07-08,22,Samsung SM-G960F,6,Facebook,0,1
+a47fb994-f66d-4f6f-9d5e-1dc967ff24bf,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,1,0
+14533ab4-b8da-41b5-a6b8-92a8ccc86163,control,2020-07-09,15,Generic Smartphone,6,Chrome Mobile,0,1
+c079d031-cb0a-44d4-a13a-250c98d2a698,control,2020-07-04,11,Generic Smartphone,6,Chrome Mobile,1,0
+e74adbd7-5403-45af-90a5-13be805ffbdf,exposed,2020-07-04,15,Generic Smartphone,6,Chrome Mobile,0,1
+518e3182-f8f8-4265-a7eb-ec8f085aa52e,exposed,2020-07-05,12,Huawei Browser,6,Chrome,1,0
+d3b792a6-d67b-44c0-840a-1f3cd1a00782,exposed,2020-07-06,7,Samsung SM-G950F,6,Facebook,1,0
+42291210-287c-4c14-a848-9bfa7fe9b8e0,control,2020-07-07,10,Generic Smartphone,6,Chrome Mobile,0,1
+c074bfa9-6232-417e-9861-d9522b69689e,exposed,2020-07-07,10,Generic Smartphone,6,Chrome Mobile,1,0
+67233543-6f8c-4f7d-b38f-8de9e1bda51a,control,2020-07-08,14,Samsung SM-A520F,6,Facebook,0,1
+52f3f895-0211-43e5-8560-d6019ff8f042,exposed,2020-07-03,8,Generic Smartphone,6,Chrome Mobile,0,1
+b266d009-41a6-4d57-9a12-aa28fe724091,exposed,2020-07-08,20,Generic Smartphone,6,Chrome Mobile,1,0
+921af32a-10a3-4dc7-a547-bdb5481d179f,exposed,2020-07-08,5,Generic Smartphone,6,Chrome Mobile,1,0
+f7a54656-1e95-4cc4-92f0-da075d232b4b,exposed,2020-07-05,13,Samsung SM-G950F,6,Chrome Mobile WebView,1,0
+9bec4938-9792-4346-afe2-a35e06c814b4,control,2020-07-09,1,Generic Smartphone,6,Chrome Mobile,0,1
+dba0e61f-f031-4f6a-9dee-669bf92da30e,control,2020-07-03,15,Samsung SM-A320FL,6,Facebook,0,1
+760a60a7-c51e-4ed9-b04f-e1cb84a700f8,control,2020-07-08,20,Generic Smartphone,6,Chrome Mobile,0,1
+f85cf471-377c-4f3a-8c85-a3e8e68a7146,exposed,2020-07-06,4,Generic Smartphone,6,Chrome Mobile,1,0
+29245451-dd75-460c-8a16-a1b3b73b55c8,exposed,2020-07-09,22,Generic Smartphone,6,Chrome Mobile,1,0
+d316a958-1f28-417d-a71b-77212d7e7703,exposed,2020-07-10,10,Nokia undefined$2$3,6,Chrome Mobile,0,1
+d3eb025e-73ea-4801-9b2d-841a95c3aebd,control,2020-07-09,12,Generic Smartphone,6,Chrome Mobile,1,0
+186ef415-5e35-4831-8459-320402da16a3,control,2020-07-03,15,Samsung SM-J330FN,6,Samsung Internet,1,0
+5473c0f3-8c0e-4fc9-bc42-e363d149320c,control,2020-07-10,16,Samsung SM-A320FL,6,Samsung Internet,1,0
+66018aa0-7f55-4a69-a9e6-e0728354cc29,exposed,2020-07-04,19,Generic Smartphone,6,Chrome Mobile,0,1
+3a721162-e67c-4cd6-a683-9346109c4d4f,control,2020-07-10,6,Generic Smartphone,6,Chrome Mobile,1,0
+bc2046d4-d301-4a83-ad1a-bdde6061f1c9,control,2020-07-05,3,Generic Smartphone,6,Chrome Mobile,1,0
+a6a085ba-5f80-4a79-8bc5-1ea4518646d4,control,2020-07-09,5,Samsung SM-G960F,6,Chrome Mobile WebView,1,0
+8adb388e-2c46-413f-91f7-b24dd5dcb7f3,exposed,2020-07-10,1,Generic Smartphone,6,Chrome Mobile,0,1
+30465d03-242f-44c0-b024-f510654a7488,exposed,2020-07-05,16,Generic Smartphone,6,Chrome Mobile WebView,0,1
+7d6e7872-c491-4fa5-9436-87e13c3e32dc,exposed,2020-07-08,21,Samsung SM-G950F,6,Facebook,0,1
+b4c6c6fd-43fc-4e13-a9a0-707095578e2a,control,2020-07-07,14,Generic Smartphone,6,Chrome Mobile,0,1
+3e2a96f9-2879-4c4a-b52e-ec8e6f509e42,control,2020-07-04,14,Generic Smartphone,6,Chrome Mobile,0,1
+76cf4eb9-b3bf-417f-834d-3ae605810fcb,control,2020-07-08,20,ELE-L09,6,Facebook,0,1
+9aab129d-e08a-4b96-a25e-2421cbb727ca,exposed,2020-07-04,19,Generic Smartphone,6,Chrome Mobile,1,0
+b0e71a0d-2629-48c3-982e-771193f2a53a,control,2020-07-06,4,Generic Smartphone,6,Chrome Mobile,0,1
+4fcf0072-c0d6-4f6a-afe5-23f88a2438d1,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,1,0
+9a685f5c-8764-48cb-9b43-a3f91249a208,exposed,2020-07-07,20,Generic Smartphone,6,Chrome Mobile,1,0
+81917d68-d672-42bd-83dd-a96dba48a64a,exposed,2020-07-09,18,Generic Smartphone,6,Chrome Mobile,0,1
+be59f0ef-a4bc-4dc8-b7d9-1faf046986d5,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,1,0
+29a3fb95-9181-4448-83dc-a656cb6a6f1c,exposed,2020-07-03,2,Nokia undefined$2$3,6,Chrome Mobile,0,1
+1d87d3da-5564-4bd2-acd6-2ed2c51ef95c,control,2020-07-03,15,Samsung SM-A202F,6,Samsung Internet,0,1
+f91d352a-c079-49da-81e8-9e40cb9d0dc4,control,2020-07-08,9,Samsung SM-N975F,6,Samsung Internet,0,1
+a28aef14-c9e0-4056-990c-83af22f28fba,control,2020-07-03,15,Samsung SM-G960F,6,Chrome Mobile WebView,0,1
+92a0b11d-f091-49f7-9e57-e8a7b8341aef,control,2020-07-07,10,LYA-L09,6,Chrome Mobile WebView,0,1
+11396a6c-4075-4918-bd1a-83fdef15709f,control,2020-07-08,22,Samsung SM-G950F,6,Facebook,1,0
+77a94c11-1b26-45aa-80b6-9947d4c6db20,control,2020-07-03,15,Samsung SM-G930F,6,Samsung Internet,0,1
+b2871417-e53c-49a2-86e1-8b19ac9e57d7,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,0,1
+ac8a256e-b9c1-4140-84c5-39819c3d230b,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,1,0
+06bb6061-5e5e-4cd7-a03b-8df818a990b5,exposed,2020-07-05,0,Generic Smartphone,6,Chrome Mobile WebView,0,1
+d916efd9-631e-40aa-b2ec-e6fbeb2fcb7a,exposed,2020-07-06,4,Samsung SM-G920F,6,Chrome Mobile WebView,1,0
+6961f785-7636-4ed2-b7c3-eb98e94a1c1c,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,0,1
+cc35027c-4113-4b3d-809d-659083a91d13,exposed,2020-07-03,9,Generic Smartphone,6,Chrome Mobile,0,1
+255a8dc5-eaac-4b47-b90b-ef1f6c7a2a43,exposed,2020-07-03,6,Nokia$2$3,6,Chrome Mobile WebView,1,0
+3c47e2ff-0188-4e56-91a0-ac70802df3a4,control,2020-07-07,3,Samsung SM-J330G,6,Facebook,0,1
+49699776-8eae-4045-b4d5-093c5bccf930,control,2020-07-09,19,Samsung SM-N976B,6,Facebook,0,1
+6b989c20-5a66-4d96-bb68-5b5d70de3749,control,2020-07-06,5,Generic Smartphone,6,Chrome Mobile,0,1
+b2f198b5-2cca-436f-89a6-3a2c1a021c0a,control,2020-07-06,0,Pixel 3,6,Facebook,1,0
+a6d7e9ac-1bf2-4ae3-b7c5-92b26ab22c27,exposed,2020-07-04,13,F3311,6,Chrome Mobile WebView,1,0
+508339a8-7ce3-4af6-8915-c7ecec83fc81,exposed,2020-07-04,4,Generic Smartphone,6,Chrome Mobile WebView,0,1
+4f071343-3271-4bac-906b-ba3cd6b9f15b,exposed,2020-07-05,7,LG-$2,6,Chrome Mobile WebView,0,1
+432fe0c4-6b9b-4a66-a1b9-605ab3d8264a,exposed,2020-07-08,13,Generic Smartphone,6,Chrome Mobile,1,0
+d87278fe-c301-4f50-b1d1-26cab3280033,control,2020-07-03,15,Samsung SM-A405FN,6,Samsung Internet,0,1
+1572bad2-681e-4d8b-b12f-1ea75986509a,control,2020-07-05,10,Generic Smartphone,6,Chrome Mobile,0,1
+750e3d37-61e7-4edf-b42c-ff45b2e1b92e,control,2020-07-04,2,Generic Smartphone,6,Chrome Mobile,0,1
+ab3c787f-18e2-4f6d-abed-c2df42e1fa61,control,2020-07-09,9,Samsung SM-A105FN,6,Samsung Internet,1,0
+e742e835-021d-49b0-9f48-0b22e6ba29c0,exposed,2020-07-10,5,Samsung SM-G965F,6,Chrome Mobile WebView,1,0
+ab2a2ff1-f381-43fc-8637-e0db1d54c423,exposed,2020-07-04,12,Samsung SM-A300FU,6,Facebook,0,1
+9e2727a0-87f6-4fc1-b6ec-a4705d8ce195,exposed,2020-07-08,20,Generic Smartphone,6,Chrome Mobile,0,1
+e1424047-9dad-41f3-8dc6-058080597cc0,control,2020-07-04,20,X4_Soul_Infinity_Z,6,Facebook,0,1
+fdbde53d-47f9-4271-bcf3-0ed4efa140b9,exposed,2020-07-09,4,Generic Smartphone,6,Chrome Mobile WebView,1,0
+4796d66c-1849-4a31-bb38-75b0d41d566c,exposed,2020-07-06,9,Generic Smartphone,6,Chrome Mobile,0,1
+d3a48882-1cf2-430c-a4ba-ccc72b671943,control,2020-07-05,17,Generic Smartphone,6,Chrome Mobile,0,1
+589dbe6d-4d47-4841-a20f-c707326ccf3d,exposed,2020-07-06,10,Generic Smartphone,6,Chrome Mobile,1,0
+3921160f-6412-43fd-8ccf-6bb96630b2f5,exposed,2020-07-08,19,Samsung SM-G960F,6,Samsung Internet,1,0
+c1802d2b-efd0-4a83-820b-905d38855ba0,control,2020-07-04,12,Generic Smartphone,6,Chrome Mobile,0,1
+a3942624-335c-4567-9f98-78ccbb5791d0,exposed,2020-07-03,5,XiaoMi MI MAX 3,6,Chrome Mobile WebView,1,0
+48227d99-31f2-4f55-8162-ea3f6690ec7d,control,2020-07-07,8,Samsung SM-G955F,6,Chrome Mobile WebView,1,0
+bdf43d25-fd7d-482e-a383-46b217cede7d,exposed,2020-07-06,9,Generic Smartphone,6,Chrome Mobile,1,0
+cf56c578-7db2-416c-9db4-af5f8a33a2c3,control,2020-07-03,15,Samsung SM-G975F,6,Facebook,0,1
+3cc07b4e-a1ca-4364-8e8a-576a77e8dcc1,control,2020-07-08,18,Generic Smartphone,6,Chrome Mobile,0,1
+ab56a90a-56aa-41de-be3e-25e04a3424fb,control,2020-07-08,19,Samsung SM-A105FN,6,Samsung Internet,1,0
+0e88f667-02a1-4484-8a2b-c626ef962758,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,0,1
+14ca050a-eea5-4c06-9b92-40f0746cc827,exposed,2020-07-10,17,Generic Smartphone,6,Chrome Mobile,1,0
+80f17cff-ca46-423c-9168-25220e4ee33b,exposed,2020-07-06,8,Samsung SM-G950F,6,Chrome Mobile WebView,0,1
+07567ef2-71de-41c4-b234-79565a48917e,exposed,2020-07-08,20,Generic Smartphone,6,Chrome Mobile WebView,1,0
+bd4e885d-20db-48f3-96eb-9f83af0c1ab4,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,0,1
+64beba58-5f3b-4de3-8c81-0cb5ece67c5d,exposed,2020-07-04,9,Generic Smartphone,6,Chrome Mobile,1,0
+640467c6-d127-449b-ae10-abe6c2a81cb3,exposed,2020-07-04,14,CLT-L09,6,Facebook,0,1
+b959842f-de5a-43c2-8d15-4b0d5a7914b7,exposed,2020-07-10,2,Generic Smartphone,6,Chrome Mobile,1,0
+89644a44-009a-42c8-ae7b-91026ef58151,control,2020-07-09,20,Generic Smartphone,6,Chrome Mobile,1,0
+e282a098-3437-4bf3-9819-f547f9ad9731,control,2020-07-08,21,Generic Smartphone,6,Chrome Mobile,1,0
+10eb2de4-a804-4c5d-a398-2d3dbc3b658b,exposed,2020-07-09,14,Generic Smartphone,6,Chrome Mobile WebView,1,0
+1214eff0-876d-4e90-afbc-312ce80b3c04,exposed,2020-07-03,8,Samsung SM-A300FU,6,Chrome Mobile WebView,1,0
+7f337ab2-4561-4156-a75c-fd98e090a06c,control,2020-07-04,5,Generic Smartphone,6,Chrome Mobile,1,0
+1188cf08-c5de-4fd9-94c5-ac9067cb4a1b,control,2020-07-07,3,Generic Smartphone,6,Chrome Mobile,1,0
+65d74bd2-55e9-45d1-b08f-19bd1a48155d,control,2020-07-07,8,Generic Smartphone,6,Chrome Mobile,1,0
+c164494f-54fb-4e8f-b421-fc6b75fb783f,control,2020-07-04,10,DLI-L22,6,Facebook,0,1
+61205ee2-023b-4eab-bf13-c20c90fd3aa2,exposed,2020-07-10,4,Samsung SM-G930F,6,Chrome Mobile WebView,1,0
+89d1a2b1-08c8-400e-80ae-ac0537466ff2,control,2020-07-08,16,Samsung SM-G930F,6,Chrome Mobile WebView,1,0
+ebc90043-5582-4b06-8c1f-f0c16b1a6933,exposed,2020-07-05,3,Samsung SM-G950F,6,Chrome Mobile WebView,0,1
+5c12c14a-f6b7-42b1-8288-d786e616f73f,control,2020-07-03,15,Samsung SM-A320FL,6,Samsung Internet,1,0
+e3477a10-87fe-4ab0-b1b6-de02891924b0,control,2020-07-03,15,Samsung SM-G986B,6,Samsung Internet,1,0
+e553a07d-190b-4a43-92b1-3a72f2d3a0bd,control,2020-07-07,7,Generic Smartphone,6,Chrome Mobile,1,0
+96600bbd-5ecd-48a9-ad9a-7975bdc5dafa,exposed,2020-07-08,7,Samsung SM-A405FN,6,Chrome Mobile WebView,0,1
+171ef6d0-384d-4ee7-a9a6-0f46878bb87b,exposed,2020-07-05,11,Generic Smartphone,6,Chrome Mobile WebView,0,1
+c03a506f-92e4-41e1-8859-841d21f18349,exposed,2020-07-04,6,Samsung SM-G965F,6,Chrome Mobile WebView,1,0
+f99f5af9-2956-450f-84f6-9c53cee98622,exposed,2020-07-09,14,Generic Smartphone,6,Chrome Mobile,0,1
+0d04f1cf-7dd1-48e3-87f1-0c8b87345cf0,exposed,2020-07-08,16,Generic Smartphone,6,Chrome Mobile,1,0
+422f1a84-afd8-48b1-af6e-0bea20fefe02,exposed,2020-07-09,8,Generic Smartphone,6,Chrome Mobile,0,1
+991c90cb-482f-4a50-9a5a-8eb6e853e9b3,exposed,2020-07-04,11,Samsung SM-G950F,6,Chrome Mobile WebView,1,0
+3a0bba9e-f3de-48c8-9493-97ce9c188640,exposed,2020-07-07,20,Samsung SM-N960F,6,Chrome Mobile WebView,0,1
+35e2c4ff-fc94-45ba-992f-58fae55365fc,control,2020-07-04,3,Generic Smartphone,6,Chrome Mobile,0,1
+20b57613-7e8e-4d9a-9125-3ef09e61c903,exposed,2020-07-05,22,Samsung SM-A520F,6,Chrome Mobile WebView,0,1
+f1768408-0b98-4c1c-b1ed-0d01cf2b69ab,control,2020-07-08,15,FIG-LX1,6,Facebook,1,0
+54d074db-722b-4c73-9501-0f2175257d2b,exposed,2020-07-06,3,Generic Smartphone,6,Chrome Mobile,0,1
+19b876d8-13ef-4157-b293-8744ec5a47ff,control,2020-07-07,8,Generic Smartphone,6,Chrome Mobile WebView,0,1
+b400a9af-b2ea-4f99-a646-18ca47678715,control,2020-07-08,14,Samsung SM-A202F,6,Chrome Mobile WebView,0,1
+3cd724ed-f75d-4a0e-bf84-f17d9c9da14a,exposed,2020-07-08,16,Samsung SM-A105FN,6,Chrome Mobile WebView,0,1
+f85f4aad-c0f7-4748-be36-c18f503d9ec1,control,2020-07-03,15,Samsung SM-G935F,6,Samsung Internet,1,0
+01d44c23-d255-4ff4-ae23-752834801bc8,exposed,2020-07-03,14,Generic Smartphone,6,Chrome Mobile,0,1
+64f4838d-5f0d-49a1-be79-f261ec4d8ddd,exposed,2020-07-04,17,Generic Smartphone,6,Chrome Mobile,0,1
+c479f738-e733-4ba6-abf7-961d0112febf,exposed,2020-07-09,9,Generic Smartphone,6,Chrome Mobile WebView,1,0
+58a546f9-44fc-4fba-9f90-920811b232bf,exposed,2020-07-06,6,Generic Smartphone,6,Chrome Mobile,1,0
+9125796f-3306-4a80-a96f-f9fd5445d56f,exposed,2020-07-06,1,Generic Smartphone,6,Chrome Mobile,0,1
+cb7d4819-501d-471c-ad2b-f4f945eb411e,control,2020-07-09,19,Samsung SM-G960F,6,Samsung Internet,1,0
+7ba079a1-cc77-424e-ab5b-617a9294dac3,control,2020-07-04,12,Nokia$2$3,6,Facebook,0,1
+665b1da1-7c18-4533-9377-00f527decd8a,exposed,2020-07-09,20,Samsung SM-A705FN,6,Facebook,0,1
+eee959a9-70f6-436a-9c50-b4ce1b08203b,control,2020-07-03,15,MAR-LX1A,6,Facebook,1,0
+20a41187-a30e-432c-bd6d-e2d2ef6114d2,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,1,0
+6f205f09-5bca-4fa0-bed4-01d86dc558c2,exposed,2020-07-06,4,Generic Smartphone,6,Chrome Mobile,1,0
+ef334830-f200-4c1b-aea2-b01b96ca0950,exposed,2020-07-03,12,Generic Smartphone,6,Chrome Mobile,0,1
+77b8683b-f545-4153-b100-4d7caa94f2d5,exposed,2020-07-06,7,Generic Smartphone,6,Chrome Mobile,0,1
+283a7e05-c77d-4bf7-894e-2a1a4bf0d9ad,exposed,2020-07-09,5,Generic Smartphone,6,Chrome Mobile,1,0
+f897c7ba-ffcf-4722-a0d3-d2b60258ab6b,control,2020-07-03,15,Generic Smartphone,6,Facebook,0,1
+fb546a62-59f9-4d47-ae03-818e38f90107,control,2020-07-09,8,POT-LX1,6,Facebook,0,1
+8908cb92-95d9-4fd9-8099-dff20f3136ae,control,2020-07-06,9,Generic Smartphone,6,Chrome Mobile,0,1
+ff95df43-63b4-48c8-8497-781ba7952eec,exposed,2020-07-09,18,Generic Smartphone,6,Chrome Mobile,0,1
+01905bae-fc59-475e-b2b4-09b78163c961,exposed,2020-07-05,6,I3312,6,Chrome Mobile WebView,0,1
+82941242-45c0-4aa7-afa7-ca68cb4eff7a,exposed,2020-07-07,9,Generic Smartphone,6,Chrome Mobile,1,0
+be372afe-82ca-4989-9270-ffa4c9440668,exposed,2020-07-04,17,Samsung SM-G975F,6,Samsung Internet,1,0
+52b30299-274d-4602-8e85-e1714fc6c9f6,control,2020-07-09,7,Samsung SM-J320FN,6,Facebook,0,1
+4e740c8f-b915-4f1b-8432-b5a71186053e,exposed,2020-07-08,16,Generic Smartphone,6,Chrome Mobile WebView,0,1
+a22d8bdf-6714-4637-97e0-6788509af6b6,control,2020-07-04,11,Samsung SM-A530F,6,Samsung Internet,1,0
+bb3843f6-6177-470a-b829-92c77cb64302,control,2020-07-08,11,Samsung SM-N950F,6,Facebook,0,1
+3de966a6-5a0c-447a-8a30-fdfae48b48ac,exposed,2020-07-10,6,ELE-L09,6,Chrome Mobile WebView,1,0
+c233ef19-b518-44cf-a2c5-9848dca243b9,control,2020-07-08,19,Generic Smartphone,6,Chrome Mobile,0,1
+c87f417b-b07b-4f30-bf14-6114216a0c64,exposed,2020-07-08,22,Generic Smartphone,6,Chrome Mobile,0,1
+af8cf899-e869-461d-9aed-869a284c5bbe,exposed,2020-07-04,12,Generic Smartphone,6,Chrome Mobile,0,1
+f0e318f5-a789-444f-af16-801af9611e86,control,2020-07-03,15,Samsung SM-J330FN,6,Samsung Internet,1,0
+baaecbb8-1ee4-4fe0-8fd3-5d273cef8c4d,exposed,2020-07-03,6,Generic Smartphone,6,Chrome Mobile,1,0
+74bcc8a2-fe6e-4499-aaef-0a92040f0981,control,2020-07-04,5,Nokia$2$3,6,Chrome Mobile,0,1
+b7b15234-78e7-4631-9c02-ba0808686c6b,exposed,2020-07-08,14,Samsung SM-G960F,6,Chrome Mobile WebView,1,0
+ad88c341-6d11-420e-95af-2a00fe149268,exposed,2020-07-04,13,Generic Smartphone,6,Chrome Mobile,0,1
+aa84454c-a749-4c98-bf9f-1f99c04416af,exposed,2020-07-08,16,Generic Smartphone,6,Chrome Mobile,1,0
+f53bd889-a34d-4cb4-be37-4129fc65fccb,exposed,2020-07-10,3,Generic Smartphone,6,Chrome Mobile,0,1
+6234d9dd-300a-4ce5-923b-9c02d3bebfac,exposed,2020-07-03,8,Generic Smartphone,6,Chrome Mobile,1,0
+75f2ff32-6601-4bb2-b53e-0e80d21b5106,exposed,2020-07-03,11,Generic Smartphone,6,Chrome Mobile,0,1
+36355037-f07b-4ee1-af6f-441dc51b9f6e,exposed,2020-07-07,11,Generic Smartphone,6,Chrome Mobile,0,1
+370645e2-7046-45b8-b1e5-5b5ec15fca65,exposed,2020-07-09,14,Generic Smartphone,6,Chrome Mobile,1,0
+e228f569-00a2-4226-a356-0e236e24dbb2,control,2020-07-10,5,Generic Smartphone,6,Chrome Mobile,0,1
+323cf485-1501-4cfb-8731-450965f0060e,exposed,2020-07-03,10,Generic Smartphone,6,Chrome Mobile,1,0
+1134407e-af87-434f-ac7c-299dff13dae2,control,2020-07-04,21,Samsung SM-A705FN,6,Facebook,0,1
+21ced590-c293-4d15-b44f-4efe0b0d7a22,control,2020-07-03,15,Samsung SM-G950F,6,Facebook,1,0
+e5975f20-2ec5-469a-b3e1-8a470a1773de,exposed,2020-07-09,8,Samsung SM-G970F,6,Chrome Mobile WebView,1,0
+a73ec6ae-0524-459a-bdf8-5ab9f04c213c,control,2020-07-09,9,iPhone,5,Mobile Safari,1,0
+89d6230d-809d-4386-9830-3a1fd88a2807,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,1,0
+1cbbcee2-b6e9-47b3-aa09-59c280d6b14f,exposed,2020-07-08,20,Generic Smartphone,6,Chrome Mobile,0,1
+f934ff31-f037-4ed2-b19a-ff447aea2ad3,control,2020-07-07,17,iPhone,5,Mobile Safari UI/WKWebView,0,1
+5caff4ac-549a-43bd-b822-21e463a23aad,exposed,2020-07-05,8,Samsung SM-G960F,6,Samsung Internet,0,1
+e82e47bd-cbad-4994-8c80-0b34290db6bd,exposed,2020-07-10,8,Generic Smartphone,6,Chrome Mobile,1,0
+70ea9c00-d772-44fb-9ffe-170ad703b2bd,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,1,0
+c5b454de-4966-4153-9abe-f28808e6042b,control,2020-07-10,3,Generic Smartphone,6,Chrome Mobile,0,1
+7098a7db-b899-411d-98b0-ba1dcec9e8d3,control,2020-07-04,21,Generic Smartphone,6,Chrome Mobile,1,0
+9b16782b-684f-408f-9fa9-187e902b2fc1,exposed,2020-07-10,7,Generic Smartphone,6,Chrome Mobile,0,1
+508ccd3a-35a8-4e45-a77d-d9091ab86cdb,exposed,2020-07-05,8,Generic Smartphone,6,Chrome Mobile,0,1
+585a6caf-04de-4325-8437-a4a7e4a65f65,exposed,2020-07-06,6,Generic Smartphone,6,Chrome Mobile,1,0
+0016d14a-ae18-4a02-a204-6ba53b52f2ed,exposed,2020-07-05,2,E5823,6,Chrome Mobile WebView,0,1
+5326ad10-6ef3-47c0-84e0-148757f33313,exposed,2020-07-03,6,Samsung SM-A705FN,6,Samsung Internet,1,0
+f3fb35f0-a937-4db9-a853-5be0af307d41,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,0,1
+6a1411c4-923a-4cb5-80e7-1042c27e61fb,exposed,2020-07-03,10,Generic Smartphone,6,Chrome Mobile,0,1
+afab37f9-8881-48eb-b9d7-9b854d618b68,exposed,2020-07-05,5,Generic Smartphone,6,Chrome Mobile,1,0
+aacec318-4269-4002-9a0c-e48751356f35,exposed,2020-07-03,14,Samsung SM-G935F,6,Chrome Mobile WebView,0,1
+26a031c0-d137-4ea7-813a-513831409aaa,exposed,2020-07-03,7,LYA-L09,6,Chrome Mobile WebView,0,1
+6504ac2f-4b24-48e4-9afd-0fade5317ab5,control,2020-07-04,12,Generic Smartphone,6,Chrome Mobile WebView,0,1
+1b08c023-6b5a-4652-9cae-8c5895951d54,exposed,2020-07-04,9,Generic Smartphone,6,Chrome Mobile,0,1
+bd96e74d-d870-4784-b36f-57f17bd264b9,control,2020-07-03,15,Samsung SM-G988B,6,Chrome Mobile WebView,0,1
+757891f5-9143-4fc0-8add-63d3dfba058e,control,2020-07-06,6,Samsung SM-G981B,6,Samsung Internet,1,0
+1444a444-ebe6-483a-afa3-b82b34ddff71,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,0,1
+f91eeeb1-6bc2-4f3f-945f-4e437b291e89,exposed,2020-07-03,0,Generic Smartphone,6,Chrome Mobile,0,1
+28e7a0f5-6384-41d9-9c7a-1aab0da0b5a0,control,2020-07-03,15,Samsung SM-G930F,6,Chrome Mobile WebView,1,0
+98814422-235a-410c-a4c6-70643ecca103,exposed,2020-07-07,21,Samsung SM-A105FN,6,Facebook,1,0
+5dffc7d3-4069-45b0-bb3a-b6b611f68daf,exposed,2020-07-09,7,Generic Smartphone,6,Chrome Mobile,1,0
+3cf98a51-e3aa-4b8a-8309-45906de8b9fb,control,2020-07-08,18,Generic Smartphone,6,Chrome Mobile,0,1
+0e16e590-ef21-4189-a518-3bb61e46b993,control,2020-07-03,15,Samsung SM-G973F,6,Samsung Internet,0,1
+1ca3b4fd-023e-449b-b6d0-c1d015d48e04,exposed,2020-07-06,3,Generic Smartphone,6,Chrome Mobile,0,1
+46906f5a-d536-4d58-99af-e27e02695afe,exposed,2020-07-08,18,Generic Smartphone,6,Chrome Mobile,0,1
+9a861b80-0703-47a5-8b65-f4d34c63ae48,control,2020-07-05,2,Generic Smartphone,6,Chrome Mobile,0,1
+4e013f88-ee69-49b8-955d-c661d491a450,exposed,2020-07-07,17,Samsung SM-G980F,6,Samsung Internet,0,1
+fc57ba86-6780-4804-b5bf-33b25ab04b13,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,1,0
+6efe4e0c-bfc8-4056-9789-9d74d7eda6ca,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,0,1
+999b00f0-2d07-495a-ba27-c203e7c54682,exposed,2020-07-09,16,Samsung SM-G965F,6,Samsung Internet,0,1
+cf94b80b-b330-4a55-ac49-96718bf35aff,control,2020-07-08,23,VOG-L29,6,Facebook,1,0
+6e7535ab-264b-42d8-89cd-b69628f66d2a,control,2020-07-04,8,Samsung SM-G960F,6,Facebook,1,0
+f0e7fb7e-636a-492a-9666-0a6db8b2fa03,exposed,2020-07-09,9,Generic Smartphone,6,Chrome Mobile,1,0
+4fc63d39-781c-4976-9ffb-f4e719672add,exposed,2020-07-03,10,Samsung SM-G975F,6,Chrome Mobile WebView,0,1
+5ec0683b-c883-4ff8-b824-dca8c0261e66,control,2020-07-08,19,Generic Smartphone,6,Chrome Mobile,0,1
+2533fe35-e355-4590-a21a-5c1152a92870,control,2020-07-04,3,Samsung SM-J530F,6,Samsung Internet,1,0
+05ff30c6-4265-4a1d-80de-537563f7470d,control,2020-07-08,18,Generic Smartphone,6,Chrome Mobile,1,0
+7329ae33-9181-4ab6-bba4-f7423da122f9,exposed,2020-07-05,10,Generic Smartphone,6,Chrome Mobile,0,1
+2d8948d8-6f35-4eab-8fb6-92b24fb8ebe8,control,2020-07-03,15,CLT-L09,6,Chrome Mobile,0,1
+92b5d593-a8bf-49a0-9bc5-58b78fa5ae37,exposed,2020-07-08,12,Samsung SM-G610F,6,Chrome Mobile WebView,0,1
+b021ba43-576a-4c85-972d-fd52351a77ef,exposed,2020-07-06,10,Samsung SM-G950F,6,Chrome Mobile WebView,0,1
+262ac056-17b2-40a2-86b7-d0330901a690,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,1,0
+a34ae261-b70c-496b-95cc-29ee373d5504,exposed,2020-07-08,18,Samsung SM-G950F,6,Chrome Mobile WebView,1,0
+8e548629-62ae-476a-add1-c7844cc9578e,exposed,2020-07-04,9,Samsung SM-A505FN,6,Samsung Internet,0,1
+26b140cb-82e2-4318-8837-dc94804e888b,control,2020-07-10,16,Generic Smartphone,6,Chrome Mobile,1,0
+735d2323-b1f5-4fb8-9893-96a00e3a4e0f,control,2020-07-05,4,Samsung SM-G975F,6,Chrome Mobile WebView,1,0
+cfa317af-d96b-4484-a5e0-252df87a28bd,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,0,1
+e0eaafdf-60d5-4dac-8ef3-4ff8ad504098,control,2020-07-07,7,Nokia undefined$2$3,6,Chrome Mobile,0,1
+6d7bc840-4247-4d7c-b135-81a2ce9d2a27,control,2020-07-03,15,MAR-LX1A,6,Facebook,0,1
+0f44df87-35cb-424b-8fbe-a6c2ecd82023,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,0,1
+db5c65d1-c584-47a9-aa0d-e22619240dd2,control,2020-07-04,9,Samsung SM-J530F,6,Samsung Internet,0,1
+80fb2246-92be-4da8-b1b9-724b22c4e90a,control,2020-07-08,18,Generic Smartphone,6,Chrome Mobile,0,1
+8f20687c-c07f-4053-bd1e-835b8757d512,control,2020-07-09,13,Samsung SM-G986B,6,Chrome Mobile WebView,0,1
+38754eae-ffaf-4ac0-84df-b99dcd2aa37e,exposed,2020-07-05,12,Generic Smartphone,6,Chrome Mobile,0,1
+32fcfa6d-bde7-4e59-982f-c0812fb38098,control,2020-07-03,15,Samsung SM-G973F,6,Facebook,0,1
+f63133b5-7748-4423-bca9-6e5b409a53e6,exposed,2020-07-08,14,Generic Smartphone,6,Chrome Mobile WebView,0,1
+1ca9dbaf-4ba7-4645-af05-52293aac080e,control,2020-07-06,3,Nokia undefined$2$3,6,Chrome Mobile,1,0
+b9d3bff1-b688-4c5a-9d62-3fad6af1e49d,control,2020-07-09,0,Samsung SM-A505FN,6,Chrome Mobile WebView,1,0
+a7179645-f40c-4aca-a55d-451269be2c34,control,2020-07-03,15,Samsung SM-A405FN,6,Samsung Internet,0,1
+d4cc37bf-1057-4ef7-b326-d3f921038648,exposed,2020-07-03,0,Generic Smartphone,6,Chrome Mobile WebView,1,0
+2a0933ee-662d-4b94-bb39-4cd09f864688,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,1,0
+089b6e4b-ab64-4200-9f64-784ddea9dffb,exposed,2020-07-08,20,Generic Smartphone,6,Chrome Mobile,1,0
+1862cede-8050-4913-a9f0-45381c323c9e,control,2020-07-03,15,STF-L09,6,Facebook,0,1
+bf3eafd1-c0a5-4824-947b-f9cc5398600e,exposed,2020-07-08,22,Generic Smartphone,6,Chrome Mobile,0,1
+7d1a2e55-40a8-43d0-a073-fee8d1c92bfe,exposed,2020-07-08,19,Generic Smartphone,6,Chrome Mobile,0,1
+969b46ce-480b-476f-88ee-4f4c1d909597,control,2020-07-10,15,Samsung SM-G960F,6,Facebook,1,0
+e5ac5069-a790-4720-9601-a2b294407084,exposed,2020-07-08,7,Generic Smartphone,6,Chrome Mobile,1,0
+f81caf31-9961-4c31-954b-4ce19cf9b188,control,2020-07-10,4,Samsung SM-A715F,6,Samsung Internet,1,0
+6ba7eb47-9806-463c-bfe8-955e4db7cf22,exposed,2020-07-09,4,Samsung SM-A202F,6,Chrome Mobile WebView,0,1
+68a0dca5-400a-4710-812e-a14b281b0737,control,2020-07-03,15,Samsung $2,6,Samsung Internet,1,0
+04b69bd8-4849-4489-adcf-08b96a265c40,control,2020-07-07,15,Generic Smartphone,6,Chrome Mobile,1,0
+d7753bf9-2e8a-4a9b-b88f-bb543f49e42a,control,2020-07-03,15,Samsung SM-G960F,6,Facebook,0,1
+e7974d58-12d7-4ba5-967a-35ecbd6a2e92,exposed,2020-07-06,5,Generic Smartphone,6,Chrome Mobile,0,1
+aace9395-b69f-45c7-9d4e-16fbc8bfba07,exposed,2020-07-08,21,Samsung SM-G950F,6,Chrome Mobile WebView,1,0
+dcc2ff5c-3111-42c7-9c89-d68b61601765,control,2020-07-04,20,Generic Smartphone,6,Chrome Mobile,0,1
+540e3a27-c754-469c-8e53-ee2ee81275fb,exposed,2020-07-09,14,Nokia$2$3,6,Chrome Mobile WebView,0,1
+bdb87f74-b7ed-42bb-9f8e-9efe55cb25d6,exposed,2020-07-05,15,Generic Smartphone,6,Chrome Mobile,1,0
+e3e1430c-21f4-4c8d-aca0-0798637bb2ce,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,0,1
+57b5369e-dedb-4f85-ade0-6610d0bfff3b,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,1,0
+65a8090a-f894-4b41-8377-1e39a8929c1a,control,2020-07-04,11,Samsung SM-G950F,6,Samsung Internet,1,0
+3e829ea4-de0b-4c91-80aa-5a9572975f75,exposed,2020-07-03,1,Samsung SM-J330FN,6,Samsung Internet,0,1
+cba5d5f9-1b58-47c9-a9a1-bd0b7ddc2107,control,2020-07-10,1,POT-LX1,6,Facebook,1,0
+37b6efea-c69a-4fc2-9c4b-840826a6be37,control,2020-07-10,3,Generic Smartphone,6,Chrome Mobile,0,1
+63b92003-b823-44b6-b5aa-e417668f02ec,exposed,2020-07-05,6,Generic Smartphone,6,Chrome Mobile,0,1
+59dbd61a-a0ac-45ee-9d7f-18ab30295485,control,2020-07-07,3,Generic Smartphone,6,Chrome Mobile,0,1
+a8fe5db9-9a91-4d6d-a5fc-b418410bcad2,control,2020-07-10,5,Pixel 3,6,Facebook,1,0
+2822f3de-d0d7-410d-9bfb-d1526eb93dff,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,0,1
+0365730f-39d3-461d-b7a5-dadffa0b2884,exposed,2020-07-09,8,Generic Smartphone,6,Chrome Mobile,0,1
+e3d59e20-ea87-4c11-8010-9412dd27e640,exposed,2020-07-08,19,Generic Smartphone,6,Chrome Mobile WebView,0,1
+a2692767-7d5b-4bba-8587-18a2f7d3666a,control,2020-07-04,17,Generic Smartphone,6,Chrome Mobile,0,1
+f6b7f0e9-7bb1-4c46-ac29-359e872de73d,exposed,2020-07-09,17,Samsung SM-G975F,6,Chrome Mobile WebView,1,0
+82831d77-15f3-4961-a459-a3c13dfd8f82,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,0,1
+0cd88b3e-92fe-4a4b-b0a4-77587b33bc2e,control,2020-07-03,15,ANE-LX1,6,Facebook,0,1
+40cff25e-674b-4c7a-91e0-e43bcf67dc42,control,2020-07-05,10,Generic Smartphone,6,Chrome Mobile,1,0
+f2ba9aee-4c90-41c1-85b8-340611a851c9,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,1,0
+418b746d-589a-4fc6-ac15-3831afa95d0e,exposed,2020-07-05,17,Generic Smartphone,6,Chrome Mobile,0,1
+be1ef66b-c35b-4c32-bb8e-f59392eabb26,control,2020-07-09,6,Generic Smartphone,6,Chrome Mobile,0,1
+9690f6f6-6fac-4bb0-831c-272f05a385be,control,2020-07-09,14,Generic Smartphone,6,Chrome Mobile,1,0
+5434ebb8-0685-4bce-b994-1bbff94c6c30,exposed,2020-07-08,17,Generic Smartphone,6,Chrome Mobile,1,0
+d6e59a7b-fa44-4b68-aff1-8f3397d3ff1b,exposed,2020-07-04,10,Generic Smartphone,6,Chrome Mobile,0,1
+d3d2f1b5-1a8a-4a45-9696-c30b3ec90eb4,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,0,1
+c52dc0bf-7d4e-4ad0-b0ec-17379911c7fd,exposed,2020-07-04,8,Samsung SM-J530F,6,Samsung Internet,1,0
+a45e5d2a-1446-40db-b566-6a0736dd6178,exposed,2020-07-10,3,Generic Smartphone,6,Chrome Mobile,1,0
+b05bc1a8-5f4d-4cc6-bfc1-b2962006cfa2,exposed,2020-07-04,6,Samsung SM-G950F,6,Chrome Mobile WebView,0,1
+790dd86e-9234-441b-86c9-50f738735dee,control,2020-07-03,15,Samsung SM-G950F,6,Facebook,0,1
+c612904a-fd6b-40f3-a517-4d9b3d76d8a0,control,2020-07-08,16,Generic Smartphone,6,Chrome Mobile,1,0
+9508cc84-ef3c-4091-a313-ef32c95d8af7,control,2020-07-09,4,Generic Smartphone,6,Chrome Mobile,1,0
+cb5daf2f-2bcf-4410-92e9-bc9945145bfc,control,2020-07-04,11,iPhone,5,Mobile Safari,0,1
+65bdd9fd-60f5-4240-b6b0-fe48e46831a3,control,2020-07-09,13,Samsung SM-G960F,6,Facebook,0,1
+5984c97c-a803-480a-8acf-a842e20199bf,control,2020-07-03,15,Samsung SM-G970F,6,Samsung Internet,1,0
+92705646-0c13-499c-9bde-b5ad2e1293fd,exposed,2020-07-03,9,Samsung SM-A202F,6,Chrome Mobile WebView,1,0
+ce03caeb-497d-403b-84c4-5d7592b139db,exposed,2020-07-10,6,Generic Smartphone,6,Facebook,0,1
+9bec5d6a-dc2f-4d60-b9d0-e25babbbfe04,control,2020-07-09,1,IMO $2,6,Chrome Mobile,1,0
+5ea41fda-8d34-43cd-ad39-66b51e24e274,exposed,2020-07-08,7,Samsung SM-N960F,6,Chrome Mobile WebView,0,1
+5592797c-9373-4709-9f4e-c8b5b598d9c6,control,2020-07-04,19,Generic Smartphone,6,Chrome Mobile,0,1
+5dc18de0-c63c-4543-9a08-397f809122eb,control,2020-07-05,11,Generic Smartphone,6,Chrome Mobile,1,0
+0f5bfe2f-cd24-497d-9cec-e8f935665bf2,control,2020-07-05,0,Generic Smartphone,6,Chrome Mobile,1,0
+f206808c-7580-43c4-be0d-53580214a0e2,control,2020-07-09,20,POT-LX1,6,Facebook,0,1
+c0fad09f-ccdd-45b0-a658-6e9f43739e80,exposed,2020-07-03,10,Samsung SM-G970F,6,Chrome Mobile WebView,1,0
+6f1df2d5-1dff-4c1a-949d-2217c81a0fd6,exposed,2020-07-03,10,Samsung SM-A405FN,6,Chrome Mobile WebView,0,1
+b3d2dcda-723f-400f-8ddf-41b54a89579e,control,2020-07-09,18,Generic Smartphone,6,Chrome Mobile,0,1
+8723a7a4-cd02-4a3d-b9e3-6eff47e78f61,exposed,2020-07-10,14,Generic Smartphone,6,Facebook,1,0
+1907c167-0709-4d35-991d-3f396bc79496,exposed,2020-07-04,16,Samsung SM-J610FN,6,Chrome Mobile WebView,1,0
+5e398ffb-e595-40fb-8fe9-8fd879b0df2e,exposed,2020-07-09,17,Generic Smartphone,6,Chrome Mobile,0,1
+8404f313-ea2c-410f-aa53-3f527cf94139,control,2020-07-10,15,Samsung SM-A105FN,6,Samsung Internet,1,0
+846edb68-873e-4821-b0cf-77e6ac15ab08,exposed,2020-07-08,13,Generic Smartphone,6,Chrome Mobile,0,1
+14321100-2c98-40aa-8659-3c495c7c148c,exposed,2020-07-03,9,Generic Smartphone,6,Chrome Mobile WebView,1,0
+b9b22375-5bae-4d72-aacd-3f79443e4bb0,exposed,2020-07-10,0,Generic Smartphone,6,Chrome Mobile,0,1
+f75afe50-26e3-4350-8f09-a3a28392664c,exposed,2020-07-03,8,Samsung SM-J530F,6,Chrome Mobile WebView,1,0
+6efc5162-9915-4363-a8ff-e4e4dab27f76,control,2020-07-03,15,Samsung SM-G973F,6,Facebook,1,0
+c5741974-2e7f-43c0-804a-acd0839fbdf4,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,0,1
+c6c8b746-4586-4144-bc2e-304bdb484b95,exposed,2020-07-07,13,Generic Smartphone,6,Chrome Mobile WebView,1,0
+c64fa38e-3ada-4e59-bce0-d7e02c0ea7fb,exposed,2020-07-03,3,Generic Smartphone,6,Chrome Mobile,0,1
+023ec7b5-cb8f-49a5-995f-e0d7c2f702e5,exposed,2020-07-09,13,Samsung SM-G935F,6,Facebook,1,0
+5a197fb0-14ed-47fd-8d3d-1e58b3474749,control,2020-07-04,13,Generic Smartphone,6,Chrome Mobile,0,1
+aaec3a7c-6ff3-45df-9fbf-f4f2ae3852e9,exposed,2020-07-08,15,Generic Smartphone,6,Chrome Mobile,1,0
+7af58947-7027-402a-b240-123ec94c59a8,control,2020-07-06,8,Samsung SM-A202F,6,Samsung Internet,1,0
+08d3e8fe-cf14-4a1d-8097-9965d4596104,exposed,2020-07-09,19,VOG-L09,6,Facebook,0,1
+25c0d6e6-4eca-47fe-86d6-4c7fbab19bfb,exposed,2020-07-04,16,Generic Smartphone,6,Chrome Mobile,1,0
+5e303643-f363-4eb9-8474-7600c6e1faef,exposed,2020-07-05,15,Samsung SM-A105FN,6,Samsung Internet,0,1
+7f1976d1-c6e0-47dd-88e5-9b9444371efd,control,2020-07-06,1,MAR-LX1A,6,Facebook,0,1
+3fd82a7c-faab-4aaa-9cf6-f04f301a2896,control,2020-07-09,10,I3312,6,Facebook,0,1
+b4f2fe23-ce2e-4b8f-ae93-4314aac8866b,exposed,2020-07-10,6,Generic Smartphone,6,Chrome Mobile,1,0
+5f8b891c-ae33-41a3-bd9f-7a8b5238b7ae,exposed,2020-07-07,3,Samsung SM-G973F,6,Samsung Internet,0,1
+95d3a4df-6c4b-46d7-a597-3a46a1bab21a,exposed,2020-07-10,0,Generic Smartphone,6,Chrome Mobile WebView,1,0
+78a601bc-d74c-43fe-b193-885eaa9b2149,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,1,0
+f21deda7-323d-4bf6-aa06-54da6d562a2a,exposed,2020-07-04,13,VCE-L22,6,Facebook,1,0
+921f95bb-5fe9-432a-9c84-b022b52580e0,control,2020-07-03,15,Samsung SM-G960F,6,Chrome Mobile WebView,0,1
+955f1eb7-9e62-46f3-bbb1-ca547332c925,control,2020-07-04,4,Generic Smartphone,6,Chrome Mobile,0,1
+e4f9642e-a406-441c-810b-cd258417b119,control,2020-07-09,9,PCT-L29,6,Facebook,1,0
+faa8f328-98ff-468f-89c2-00d29f2eea0f,exposed,2020-07-10,6,Generic Smartphone,6,Chrome Mobile,0,1
+23b2028c-72ed-43b3-a2d7-d772b2d4d478,exposed,2020-07-03,8,iPhone,5,Mobile Safari,0,1
+c6f7e8c5-61f2-45a4-a5de-cf5c2427bb76,exposed,2020-07-09,9,Moto $2,6,Chrome Mobile WebView,0,1
+3de1f29e-6f1a-49c7-8e41-96781b228f37,control,2020-07-05,5,Generic Smartphone,6,Chrome Mobile,0,1
+d8a0587a-1383-4e90-af4d-a9389d12bee3,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,0,1
+4f071ba2-33aa-4fa2-b539-97d9bacc322c,control,2020-07-08,21,Samsung SM-A405FN,6,Facebook,1,0
+0332792f-0de9-4902-9d08-06033c3d8371,control,2020-07-06,2,Samsung SM-J600FN,6,Chrome Mobile WebView,0,1
+e55dde26-5c01-466e-b381-dc4e97d2836e,control,2020-07-04,14,Generic Smartphone,6,Chrome Mobile,0,1
+4d658cfa-53b6-4efe-b38a-b48504c45511,exposed,2020-07-07,2,Generic Smartphone,6,Chrome Mobile,0,1
+a41e9fd1-1108-4e0b-9833-5b5b9d29625b,control,2020-07-05,12,Generic Smartphone,6,Chrome Mobile,0,1
+85059fb4-4351-4c9b-8df1-ffd90e810055,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,0,1
+e4acb915-5c78-478b-971b-4cd649ac44d0,control,2020-07-03,15,Samsung SM-A202F,6,Samsung Internet,0,1
+b259cb89-63b5-4239-9bcb-84f19e681c50,exposed,2020-07-03,2,Generic Smartphone,6,Chrome Mobile,1,0
+b04db329-2d89-450f-825b-00216060bca8,exposed,2020-07-04,7,OnePlus ONEPLUS A5010,6,Chrome Mobile WebView,1,0
+3596746b-376a-465d-b9b2-b4108c8d08fc,exposed,2020-07-05,8,Samsung SM-J730F,6,Chrome Mobile WebView,1,0
+285e08bd-a53d-40e6-a44a-88820ee223dc,exposed,2020-07-04,2,Generic Smartphone,6,Chrome Mobile,0,1
+1630d073-e2bd-4748-9e20-32c6a2f77bdc,exposed,2020-07-10,12,Generic Smartphone,6,Chrome Mobile,0,1
+a2eeae08-0d8b-47a0-ac76-d2940d887925,exposed,2020-07-06,6,Generic Smartphone,6,Chrome Mobile,1,0
+73f51a9d-5e12-4e02-abea-e3649d3a6adb,exposed,2020-07-08,8,Generic Smartphone,6,Chrome Mobile,0,1
+a38c4a37-ebc1-46d5-af88-7812f101dbe1,control,2020-07-03,15,LG-$2,6,Chrome Mobile WebView,0,1
+04535742-676d-4e9f-a62c-aa5bda8c46a1,exposed,2020-07-10,5,Generic Smartphone,6,Chrome Mobile,0,1
+52a660e1-988f-4f0b-bc04-4e5b2ab83e0f,exposed,2020-07-09,8,MRD-LX1,6,Chrome Mobile WebView,0,1
+9d7fc4b4-7027-4087-917c-9ae1ac0e5e32,exposed,2020-07-08,18,Generic Smartphone,6,Chrome Mobile,1,0
+d97c5289-6836-426d-a402-6aac1fec97a9,exposed,2020-07-03,13,OnePlus ONEPLUS A3000,6,Chrome Mobile WebView,1,0
+efba938d-d81d-4d64-a4c3-2cc7656dcb4f,control,2020-07-08,21,Generic Smartphone,6,Chrome Mobile,1,0
+8587f5fd-d3ac-4f9d-8fae-0261625a8b30,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,1,0
+edbae64e-10a1-499a-8934-45c0186c3446,control,2020-07-08,14,Generic Smartphone,6,Chrome Mobile,0,1
+4ff45daa-a156-4181-b369-6832be7f3b55,exposed,2020-07-05,0,Generic Smartphone,6,Chrome Mobile,1,0
+604c7a27-a814-41e0-bf6e-d0315beea85c,exposed,2020-07-08,18,Generic Smartphone,6,Chrome Mobile,0,1
+b0abe47c-5cf7-4b86-9843-42a69312da09,exposed,2020-07-09,17,Samsung SM-A405FN,6,Samsung Internet,0,1
+343d34fc-6139-4405-894c-3974270b3667,exposed,2020-07-06,8,Generic Smartphone,6,Chrome Mobile,1,0
+3032363c-cde6-44ee-8624-47ba90e363b5,control,2020-07-03,15,Samsung SM-G970F,6,Samsung Internet,0,1
+cc079e1e-1a13-4569-adbc-7747ab65a712,exposed,2020-07-08,16,Samsung SM-G965F,6,Chrome Mobile WebView,1,0
+d0f0358c-3fac-4c5e-91d7-8685354423cb,exposed,2020-07-04,20,Generic Smartphone,6,Chrome Mobile WebView,1,0
+14ad2c1c-3e57-4589-9376-d5e33a442152,exposed,2020-07-03,0,Generic Smartphone,6,Chrome Mobile,0,1
+b334a6b5-2ce7-4e9a-9215-4bc7c560578a,exposed,2020-07-08,20,Generic Smartphone,6,Chrome Mobile,1,0
+0e08a41e-2430-428f-ba2f-4d687ca8f377,exposed,2020-07-09,8,Generic Smartphone,6,Chrome Mobile,0,1
+c93bd843-3e09-4884-9fe1-5e5483f657c8,control,2020-07-05,4,Generic Smartphone,6,Chrome Mobile,0,1
+4319e239-c393-4da3-a8cb-fcc5c0d1f966,exposed,2020-07-09,21,YAL-L21,6,Chrome Mobile WebView,1,0
+96a6556e-09aa-4d0f-8e62-48124e9a3be0,control,2020-07-09,12,Samsung SM-G950F,6,Facebook,1,0
+13ab4507-8f56-4c5e-8fd3-a1d1602ab6a7,control,2020-07-10,2,Samsung SM-A520F,6,Samsung Internet,0,1
+6097d7ca-c6ed-43ea-a127-a1c158e551ae,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,1,0
+face4c65-a9b9-4ea8-b461-cde2077959b9,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,1,0
+225c2ca4-a64e-4daa-9373-cd2766e620ee,exposed,2020-07-09,8,Generic Smartphone,6,Chrome Mobile,1,0
+0fffe0e4-1886-4d63-9b68-1f0d7ca0359b,control,2020-07-09,12,Generic Smartphone,6,Chrome Mobile,1,0
+e245e216-96e1-4ef9-8be7-7b3b4a9ee2a6,exposed,2020-07-09,10,Samsung SM-G955F,6,Samsung Internet,1,0
+a7dcca18-25af-45ba-b016-43045e8000bc,control,2020-07-03,15,Samsung SM-G930F,6,Samsung Internet,0,1
+8005c1a2-5c2d-4f96-b2f1-56c8780e7210,exposed,2020-07-05,7,Generic Smartphone,6,Chrome Mobile WebView,0,1
+641102fd-5285-45dc-9a74-2d6d8cb31aeb,exposed,2020-07-04,10,Generic Smartphone,6,Chrome Mobile,1,0
+9847066a-14da-4df1-80a1-69186d06a863,exposed,2020-07-08,19,Generic Smartphone,6,Chrome Mobile WebView,0,1
+2ad4f2d4-6e6a-44e3-a45f-84b9ce044e84,control,2020-07-10,7,Samsung SM-G950F,6,Facebook,0,1
+408d0f9a-51de-4603-aa29-278ddba29be8,exposed,2020-07-03,10,Samsung SM-G973F,6,Samsung Internet,0,1
+392c7d83-0487-4bdb-bea2-f7639ea74aa6,control,2020-07-07,6,Generic Smartphone,6,Chrome Mobile,0,1
+6cd75519-0f96-42e2-94c1-47714bd79b4e,exposed,2020-07-08,18,Generic Smartphone,6,Chrome Mobile,1,0
+f8c38270-f8b8-4cc7-9677-456f40b359b0,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,1,0
+7c14f50e-f7c5-4eb5-81ec-64e3e7f07a79,control,2020-07-10,8,Samsung SM-G973F,6,Chrome Mobile WebView,1,0
+19b0fc3d-a74b-48be-be3a-dd9aa39f5aab,control,2020-07-03,19,iPhone,6,Mobile Safari,0,1
+8b4215f9-2583-43d5-842f-527739e1cc1f,exposed,2020-07-04,14,Generic Smartphone,6,Chrome Mobile,0,1
+e8269b7b-a328-492f-8ed8-0317481a3576,exposed,2020-07-09,6,Generic Smartphone,6,Chrome Mobile,0,1
+a99c79c3-fccf-4cdf-9319-a290f9ae4f6e,control,2020-07-07,21,Generic Smartphone,6,Chrome Mobile,0,1
+a10f359f-02a7-46eb-857b-bd81f9887a77,exposed,2020-07-04,11,Generic Smartphone,6,Chrome Mobile,1,0
+725e28cc-8ab5-4f77-abb4-9c04e78eb3b5,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,1,0
+8aca8139-c391-4b39-b59c-17935644ea8f,exposed,2020-07-06,10,I3312,6,Chrome Mobile WebView,1,0
+b197062c-82d1-4b76-ae13-2a96027e99a7,control,2020-07-09,11,Samsung SM-A202F,6,Samsung Internet,1,0
+dd5b63f1-b5a3-4b6b-a894-8510452b62d5,exposed,2020-07-07,13,Samsung SM-A600FN,6,Facebook,1,0
+bfca245e-0f53-41e9-98e5-cd1ffd7554d0,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,0,1
+1b34c039-0087-4795-ab40-a43d71661a5a,exposed,2020-07-06,0,POT-LX1,6,Chrome Mobile WebView,1,0
+a856a48d-7058-4040-91bf-efd0e66bccbf,exposed,2020-07-03,11,Generic Smartphone,6,Facebook,1,0
+af0af3ef-c956-43d9-aa39-08be49ef9b4c,control,2020-07-03,15,Samsung SM-A405FN,6,Samsung Internet,1,0
+19548e79-bf25-4570-b8ca-54e8e28590f0,exposed,2020-07-03,1,Generic Smartphone,6,Chrome Mobile,0,1
+69d9c967-9d31-4309-95b3-791766ab5a1f,exposed,2020-07-05,0,Generic Smartphone,6,Chrome Mobile,0,1
+9ea96c35-6b58-477a-bcca-392be377e13b,control,2020-07-10,3,VFD 820,6,Chrome Mobile WebView,0,1
+dcb52c98-fc2d-4152-8180-78dd86ad2e4c,control,2020-07-09,16,Generic Smartphone,6,Chrome Mobile,1,0
+0c65bdaf-4328-417e-b4d9-c857a54ff446,exposed,2020-07-05,3,Generic Smartphone,6,Chrome Mobile,1,0
+843a9083-e30c-4742-b0a7-f61a131b5c53,control,2020-07-05,15,Generic Smartphone,6,Chrome Mobile,1,0
+a72540da-7bc2-4fb1-97bd-d1e8c70b709d,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,1,0
+af147643-56d6-4f28-9224-4537248b3f49,exposed,2020-07-08,7,Generic Smartphone,6,Chrome Mobile,1,0
+19ba2632-0167-4f74-b111-3093781d2aa3,exposed,2020-07-10,15,Samsung SM-G900F,6,Chrome Mobile WebView,1,0
+8f17389a-627f-46c4-ad26-ee2321f46f52,exposed,2020-07-08,15,MRD-LX1,6,Chrome Mobile,1,0
+cba4999f-c1ab-43e2-b1ee-4e7bb9ff5251,exposed,2020-07-09,21,Samsung SM-G960F,6,Chrome Mobile WebView,1,0
+d064bddc-6719-45fd-9d5a-6cc64d08fec9,exposed,2020-07-10,11,Generic Smartphone,6,Chrome Mobile,0,1
+1757d7d9-e6e1-48fc-b402-76c8e82fbc51,control,2020-07-10,5,Generic Smartphone,6,Chrome Mobile,1,0
+8b2452c1-0369-4a53-bb54-89aa3cea995e,exposed,2020-07-03,9,A0001,6,Chrome Mobile WebView,1,0
+54586d12-4604-4da9-b169-92b7f40a7dda,exposed,2020-07-04,10,Samsung SM-G900F,6,Chrome Mobile WebView,0,1
+3ff3f810-3aa1-42bc-b8a7-fcd894646301,control,2020-07-03,15,POT-LX1,6,Facebook,1,0
+8f0066f3-00b6-4ad3-98d3-745a80b900fe,exposed,2020-07-07,4,Generic Smartphone,6,Chrome Mobile,0,1
+ad5c63c0-72b0-404b-8a50-501f8246be93,exposed,2020-07-09,11,Generic Smartphone,6,Chrome Mobile,1,0
+ada7941c-2680-4f5e-9183-04514f139fba,control,2020-07-10,12,LG-$2,6,Chrome Mobile,1,0
+0946d472-f247-4fc8-a5ed-9d76f3c73bfa,control,2020-07-05,10,Samsung SM-G960F,6,Facebook,1,0
+512b92ea-ed2e-4667-8bbe-d5d821c835bb,exposed,2020-07-08,15,Generic Smartphone,6,Chrome Mobile,0,1
+a49bdc14-6b4e-404e-bd88-55f133eab2ac,exposed,2020-07-07,19,Generic Smartphone,6,Chrome Mobile,1,0
+2e3e7620-7e57-41a7-a55d-2ab7ebb7945b,control,2020-07-09,6,Generic Smartphone,6,Chrome Mobile,1,0
+16dfd9e0-e990-4336-a842-65a7f0513f7a,exposed,2020-07-04,9,Generic Smartphone,6,Chrome Mobile,1,0
+00ebf4a8-060f-4b99-93ac-c62724399483,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,0,1
+87ef35fb-79b1-483b-a170-01efc3dd945c,exposed,2020-07-08,16,Generic Smartphone,6,Chrome Mobile,1,0
+7d8376bc-6f71-47c3-9c86-a938bc5d0596,exposed,2020-07-03,0,Generic Smartphone,6,Chrome Mobile,1,0
+0ae26cd6-a8c9-4fe3-b561-4a405d4bf0e4,control,2020-07-03,15,Samsung SM-A202F,6,Chrome Mobile WebView,1,0
+3e783941-5ac5-4c10-880e-d737afe2c008,exposed,2020-07-03,7,Generic Smartphone,6,Chrome Mobile,0,1
+eb96fa6a-7d67-4648-bad4-1b9fbcfac072,control,2020-07-06,1,Samsung SM-J600FN,6,Samsung Internet,0,1
+635edce7-bc10-4893-85c4-9add4e778825,exposed,2020-07-08,15,Generic Smartphone,6,Chrome Mobile,0,1
+d9fee036-9d8e-4f6c-a17c-afc82b03be02,exposed,2020-07-08,16,Generic Smartphone,6,Chrome Mobile,0,1
+a6bebacb-e756-4bd9-be43-15cf04e79dbb,control,2020-07-04,8,Generic Smartphone,6,Chrome Mobile,1,0
+b036a6e1-5139-4d36-9776-ee154091cf08,control,2020-07-03,15,EML-L09,6,Chrome Mobile WebView,0,1
+beb43e30-5976-4879-8fd6-4e5ecdfa781c,control,2020-07-04,20,Generic Smartphone,6,Chrome Mobile,1,0
+95ecf46d-b3d2-46c3-b3ad-14ce40a9ebc4,control,2020-07-10,14,iPhone,5,Mobile Safari UI/WKWebView,0,1
+47c83616-f7fe-4c25-a865-5ed5d8528b2e,control,2020-07-10,12,ANE-LX1,6,Facebook,1,0
+5039e9b8-cb80-4f33-80b4-3b21e9070fd3,control,2020-07-09,0,Generic Smartphone,6,Chrome Mobile,0,1
+c2187476-c996-4aa7-8cb3-ad2cc32d4125,exposed,2020-07-04,7,Generic Smartphone,6,Chrome Mobile,1,0
+4a6ff9e5-d2d7-4a71-b0f4-6bf1ec002f1b,control,2020-07-08,21,LG-$2,6,Chrome Mobile,1,0
+21e1edd7-203b-4730-93fd-021074bd5e3a,exposed,2020-07-04,16,Samsung SM-G900F,6,Chrome Mobile WebView,0,1
+1aa749d2-c9e8-42e2-8c1d-21eef40992c1,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,1,0
+e59dad8a-9176-4a11-b7c5-eab06104a848,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,0,1
+7e217480-6a52-4e39-8d0d-9b0dea622668,exposed,2020-07-03,3,Samsung SM-G975F,6,Chrome Mobile WebView,1,0
+96b855a6-b831-41ee-93d8-869a4c57848c,control,2020-07-05,7,Samsung SM-G977B,6,Facebook,1,0
+9047289e-68b3-4438-807b-e23b0deb44f6,control,2020-07-04,11,Generic Smartphone,6,Chrome Mobile,0,1
+0ad6d944-b1d2-472b-96f4-b99f451b28c1,exposed,2020-07-08,22,Generic Smartphone,6,Chrome Mobile,0,1
+dd9ea913-2007-4588-a726-052054b25c5d,exposed,2020-07-08,18,Generic Smartphone,6,Chrome Mobile,1,0
+9bd2634c-5382-4025-9652-812c761468ce,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,1,0
+a9761c1b-b5ec-4bee-a8c2-2023e6b86599,control,2020-07-10,7,Samsung SM-G950F,6,Chrome Mobile WebView,0,1
+af93dc3a-75b2-4b54-b3e6-c6afb098696a,exposed,2020-07-07,6,Generic Smartphone,6,Chrome Mobile WebView,1,0
+5221b3b1-4e20-4f9f-b41e-834a4f500e5f,control,2020-07-05,1,Samsung $2,6,Samsung Internet,0,1
+f79d0a9c-3d11-4145-aa4d-74bfb4dbc399,control,2020-07-06,3,Samsung SM-A105FN,6,Samsung Internet,1,0
+1faec8ad-6d96-4915-bd9f-74ae5b21e19f,exposed,2020-07-08,7,Samsung SM-A920F,6,Samsung Internet,0,1
+6939aa0e-0e9b-48e6-b64a-2fde7578442e,exposed,2020-07-05,10,Samsung SM-G973F,6,Chrome Mobile WebView,1,0
+d2640f97-16a9-471e-bcb7-8d1b7967f92e,control,2020-07-08,15,Generic Smartphone,6,Chrome Mobile,0,1
+8e888784-60b7-4655-9a8e-5f3cee1b1cf5,exposed,2020-07-07,9,Samsung SM-G900F,6,Samsung Internet,0,1
+5b01df47-0f8b-49fe-8ead-2bb50bbc4282,exposed,2020-07-05,11,Generic Smartphone,6,Chrome Mobile,1,0
+c9bb0496-4d59-45fb-98ec-2b39a0657fff,control,2020-07-06,10,Generic Smartphone,6,Chrome Mobile,1,0
+cf41dba7-9a8b-4bc4-99a0-d4665dbf8c97,exposed,2020-07-10,9,Samsung SM-G960F,6,Samsung Internet,0,1
+4cb6ba40-76d1-419f-9a90-b57e94365b42,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,0,1
+03948b84-b5b1-4f26-81fc-e953218aef1a,control,2020-07-09,20,Samsung SM-G930F,6,Facebook,1,0
+94217fb4-06db-43b2-a9fe-504e2a284f85,exposed,2020-07-10,1,Samsung SM-A920F,6,Chrome Mobile WebView,0,1
+078aa8e5-e424-4d57-b5f2-744b2bd702b5,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,1,0
+ae12825c-4353-4ad9-868f-4be5aef600f5,exposed,2020-07-10,5,Generic Smartphone,6,Chrome Mobile,0,1
+bc58ae09-99ec-4b81-8fd8-c19ec8c619c8,exposed,2020-07-09,8,Generic Smartphone,6,Chrome Mobile,1,0
+70a75975-98e0-4669-8d8c-752a50d40df0,exposed,2020-07-03,9,Samsung SM-N920I,6,Chrome Mobile WebView,0,1
+ae9f6ee5-224f-40d6-883e-8bddbd7f978d,exposed,2020-07-08,16,Generic Smartphone,6,Chrome Mobile,1,0
+e7402a4d-6105-4a2e-a41c-54f542eb4e2e,exposed,2020-07-05,19,Samsung SM-A505FN,6,Chrome Mobile WebView,1,0
+5c8a6e4d-3df4-4bb8-aff6-464f00b6ec47,control,2020-07-09,10,Samsung SM-G973F,6,Facebook,0,1
+ad0c55d1-8da9-499f-bb5e-add8101e7f97,exposed,2020-07-07,9,Generic Smartphone,6,Facebook,0,1
+b4ab0db4-a7bf-45ad-8bd0-787c641b07b1,exposed,2020-07-08,19,Generic Smartphone,6,Chrome Mobile,0,1
+7748f140-0944-4d10-a939-961a4fbf5692,control,2020-07-08,13,Samsung SM-G975F,6,Facebook,0,1
+a318d500-470a-4ce1-9ec2-bc813f6a9f50,control,2020-07-08,18,Generic Smartphone,6,Chrome Mobile,0,1
+e6408976-2287-4c5d-930b-91da8018fa11,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,1,0
+c8debff5-48be-4a6e-9a6b-eab3d676bdb8,control,2020-07-05,10,Samsung SM-G960F,6,Chrome Mobile WebView,0,1
+07a8e25b-4bca-494d-a6d1-b06c11ff5532,exposed,2020-07-07,3,Samsung SM-N960F,6,Samsung Internet,0,1
+2805b324-8fb1-4584-8ece-692599a7ac98,exposed,2020-07-09,13,Nokia$2$3,6,Chrome Mobile WebView,1,0
+3b9d490b-12e9-4e9c-bdaf-3a02246cd975,exposed,2020-07-10,1,HTC U12+,6,Chrome Mobile,0,1
+ab1630f0-4369-46f3-8d26-304329116ee0,exposed,2020-07-09,6,Generic Smartphone,6,Chrome Mobile,0,1
+e936d20a-2cfc-45e0-982f-47e33ec87567,exposed,2020-07-08,8,Samsung SM-A750GN,6,Samsung Internet,0,1
+d9941d5c-f37a-4c6d-a05a-f6a74bfc95ec,control,2020-07-07,10,Generic Smartphone,6,Chrome Mobile,0,1
+a707602b-ac99-4de2-89fc-f71a1a2a3a03,control,2020-07-03,15,Samsung SM-G960F,6,Samsung Internet,1,0
+fcad568e-da50-42d9-bfe8-d8056b5eb3a9,control,2020-07-05,3,Generic Smartphone,6,Chrome Mobile,0,1
+6d0b7da0-7798-4b70-88c2-f94e5ab65cb6,control,2020-07-10,4,Generic Smartphone,6,Chrome Mobile,0,1
+228e5645-cd44-4fb3-9715-36942faefa5e,exposed,2020-07-04,14,Samsung SM-G960F,6,Chrome Mobile WebView,1,0
+8b548c31-77ed-4cf9-a121-b9872f6f23c7,exposed,2020-07-09,18,Samsung SM-J330FN,6,Samsung Internet,1,0
+8fd47d20-07e3-43d2-99b2-f511221037a2,exposed,2020-07-06,5,Generic Smartphone,6,Chrome Mobile,0,1
+b29beb86-44b1-446b-8464-3a22c9c4d6aa,exposed,2020-07-09,21,Generic Smartphone,6,Chrome Mobile,0,1
+4369a918-b098-47e6-aa1e-28ea00b53aaa,exposed,2020-07-09,5,Generic Smartphone,6,Chrome Mobile,0,1
+895e5634-5e29-4bfb-8183-5e412877d691,control,2020-07-10,0,Samsung SM-G950F,6,Facebook,0,1
+f30f03c4-5dad-470b-948c-6880abf1ba7d,control,2020-07-04,2,Samsung SM-G973F,6,Chrome Mobile WebView,1,0
+947c68a3-206b-4821-8492-b591eafa6256,control,2020-07-07,4,Generic Smartphone,6,Chrome Mobile,0,1
+dd83a8b9-a95e-4f4e-ab4e-71bf94104aa8,exposed,2020-07-04,11,Samsung SM-A600FN,6,Chrome Mobile WebView,0,1
+c3fdc4dd-d1d3-4972-b3bb-c75ebcc82417,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,0,1
+7d1e9ec3-57df-4178-9744-aaf580e9879a,exposed,2020-07-09,19,Samsung SM-A105FN,6,Samsung Internet,0,1
+fbf55f01-5e12-417e-b3e9-3efdf4148f96,exposed,2020-07-04,6,Generic Smartphone,6,Chrome Mobile WebView,1,0
+9d848957-4df1-4aca-9b4d-9a450f4280b8,control,2020-07-03,15,Samsung SM-G960F,6,Facebook,0,1
+a89b65d6-4350-4862-9292-12cbafe149d1,control,2020-07-10,11,Generic Smartphone,6,Chrome Mobile,0,1
+0336ce2b-c5cb-454a-b74f-450232223742,control,2020-07-03,15,Samsung SM-A105FN,6,Samsung Internet,0,1
+1b35d5f4-08bb-44f2-a091-41216b37e6df,exposed,2020-07-06,7,Samsung SM-G981B,6,Facebook,0,1
+4d6160f2-dfb2-4754-9caa-6ad2be66f043,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,0,1
+3d8f2180-0787-40a7-9566-62d16f672882,exposed,2020-07-09,4,Samsung SM-G975F,6,Chrome Mobile WebView,0,1
+dc416fc9-8ad3-4100-8bcf-881607286a57,exposed,2020-07-05,14,Samsung SM-A202F,6,Samsung Internet,1,0
+c0cd6b96-dfd3-4ccc-bbeb-435330a05dc2,exposed,2020-07-03,12,OnePlus ONEPLUS A6013,6,Chrome Mobile WebView,1,0
+fb547431-7684-4ab6-9f81-932519796a18,exposed,2020-07-03,11,Generic Smartphone,6,Chrome Mobile,0,1
+2d1711b7-ddd6-4bae-8969-be69ae7e9313,exposed,2020-07-08,18,Samsung SM-G920F,6,Chrome Mobile WebView,1,0
+19158ed1-b35b-473b-8fad-0ae68ce1cb9b,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,1,0
+fa5904d7-dd6f-4407-8629-398d22a4c200,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,1,0
+cc5dcc73-6b42-4dd9-a43c-5cbea6428bbb,exposed,2020-07-06,6,Generic Smartphone,6,Chrome Mobile,1,0
+84baf14e-2f9f-4d96-bcb5-ea23f4a37325,control,2020-07-10,7,Generic Smartphone,6,Chrome Mobile,0,1
+28cfbbe3-0395-4b24-862a-fdd0f43b8fff,exposed,2020-07-04,6,Generic Smartphone,6,Chrome Mobile,1,0
+47423a2f-ea25-4892-aa5d-8d0d3f55c701,exposed,2020-07-03,9,Generic Smartphone,6,Chrome Mobile WebView,0,1
+6e90e340-5c84-471a-9ccd-7e4d6e5b8f69,control,2020-07-03,15,Samsung SM-A310F,6,Samsung Internet,1,0
+50c19ba8-23a6-4def-b71e-4a8f5a0b52a6,control,2020-07-03,15,Samsung SM-A520F,6,Facebook,0,1
+e1614006-0540-4d1a-9bc7-d2f0d15d73ca,control,2020-07-09,5,iPhone,5,Mobile Safari,1,0
+079aa7ac-5ddd-49f5-a0e0-8138c17b44fb,control,2020-07-05,19,Generic Smartphone,6,Chrome Mobile,0,1
+9fac1676-e216-41f0-b370-3fdc59c7f72e,control,2020-07-07,6,Generic Smartphone,6,Chrome Mobile,1,0
+e8eb7ddc-8fef-46a3-a909-f3c11133f42e,exposed,2020-07-03,11,Generic Smartphone,6,Chrome Mobile,0,1
+ffb79718-6f25-4896-b6b3-e58b80a6e147,control,2020-07-09,7,Generic Smartphone,6,Chrome Mobile,0,1
+73533904-e01c-4506-97f3-952c6dbdba1d,control,2020-07-04,6,Generic Smartphone,6,Chrome Mobile,0,1
+54a68ad2-eed9-408e-9088-ddecfa64b0fd,control,2020-07-03,15,iPhone,5,Mobile Safari UI/WKWebView,0,1
+090b32d5-a098-4e68-81bd-60325a6898fa,exposed,2020-07-05,21,Generic Smartphone,6,Chrome Mobile,1,0
+6a3e319e-5c3e-488f-a158-b075cb5f6591,exposed,2020-07-03,11,Generic Smartphone,6,Chrome Mobile,0,1
+22d8d49e-4dbc-446a-b168-09251d377d12,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,0,1
+e361839d-bee0-4b2a-b0e4-c0a5c0da27a8,exposed,2020-07-04,18,Generic Smartphone,6,Chrome Mobile,1,0
+266ca28b-d046-44e1-8501-fe119cfcb5b7,exposed,2020-07-05,13,Samsung SM-G965F,6,Samsung Internet,1,0
+0332a7f7-0336-4d48-96ad-75da00d916c0,control,2020-07-04,16,Generic Smartphone,6,Chrome Mobile,1,0
+723f044f-676b-4e85-a644-d79fa43070b6,control,2020-07-08,18,Samsung SM-G977B,6,Facebook,0,1
+0a431ec7-b60a-44a2-8393-529489c6ce7f,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,0,1
+2d36431f-43c6-439c-beee-9f281933a7b1,control,2020-07-09,15,Samsung SM-A320FL,6,Samsung Internet,0,1
+7908cc88-7e67-4274-91ee-bda6469233ae,exposed,2020-07-09,7,Generic Smartphone,6,Chrome Mobile,1,0
+729fe32f-800a-424e-bed5-3bad6d6b6f2f,control,2020-07-09,18,Samsung SM-G970F,6,Samsung Internet,1,0
+8f27f2e9-10f6-409c-b536-f3624ffc0799,control,2020-07-03,15,Samsung SM-A505FN,6,Facebook,1,0
+d44bd72b-c808-4545-a3e9-701aea4a1fbb,exposed,2020-07-05,6,Generic Smartphone,6,Chrome Mobile,1,0
+aec7e329-9e88-431d-ba7e-053b39724712,exposed,2020-07-08,5,Pixel 2,6,Chrome Mobile WebView,0,1
+dba2b1a8-cc0c-4e90-941a-fe6c8e0b5bd5,exposed,2020-07-09,2,iPhone,5,Mobile Safari,0,1
+6b21d95b-178f-445a-8810-d7acdac10e5d,exposed,2020-07-03,8,Generic Smartphone,6,Chrome Mobile,0,1
+c83639cd-f51b-497b-8057-b5110fbe0dea,control,2020-07-05,18,Generic Smartphone,6,Chrome Mobile,0,1
+f347a028-3083-45a7-8aa6-173bf1b8a6bf,exposed,2020-07-04,6,Generic Smartphone,6,Chrome Mobile,0,1
+42a0fad4-056f-42d5-b99a-89c89ad6dd2f,control,2020-07-08,7,Generic Smartphone,6,Chrome Mobile,0,1
+e02afb7a-e3b3-4fc2-98c9-62bcff10712a,exposed,2020-07-09,17,Samsung SM-G925F,6,Chrome Mobile WebView,0,1
+a947b7e4-9a07-436e-8af1-8bad8beea172,exposed,2020-07-05,7,Generic Smartphone,6,Chrome Mobile,0,1
+e5cd08cc-7bbb-4a0a-a7ae-3ac6e612454e,exposed,2020-07-03,10,Samsung SM-J500FN,6,Chrome Mobile WebView,1,0
+3622c4eb-44f2-44fa-b6ea-cb169960b823,exposed,2020-07-08,15,Generic Smartphone,6,Chrome Mobile,1,0
+04ce7ee1-a4be-4c40-82a9-23f255aa3395,control,2020-07-03,15,ELE-L09,6,Facebook,1,0
+424785d3-ba8a-4662-99ec-d645cf6a9f94,exposed,2020-07-09,6,Samsung SM-G960F,6,Samsung Internet,1,0
+f7776a85-7489-4a0b-a455-47cd2d65dc2d,control,2020-07-03,15,Samsung SM-N970F,6,Facebook,1,0
+613fee65-7077-4e52-bbb9-4796fa72e386,exposed,2020-07-05,8,Samsung SM-G960F,6,Chrome Mobile,0,1
+fa05affe-6df6-47d6-836f-eb8d446ec643,control,2020-07-07,16,Generic Smartphone,6,Chrome Mobile,0,1
+538f31a8-21cf-48eb-be4f-a879f6a9bbd3,exposed,2020-07-04,3,Generic Smartphone,6,Chrome Mobile,0,1
+375da574-ec2d-488b-855e-732dad294e51,control,2020-07-04,9,Generic Smartphone,6,Chrome Mobile,0,1
+07a2012e-c818-4bbc-a0ac-dce37efb1067,exposed,2020-07-05,6,Samsung SM-G960F,6,Facebook,0,1
+9143f246-84eb-4c00-a829-e4f26cd40187,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,0,1
+a0d2815e-4684-4040-bd9a-fc5e413929dd,exposed,2020-07-09,20,CLT-L09,6,Facebook,0,1
+fb5be6ce-25eb-4cc5-8f7a-837f6b0ffc69,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,1,0
+551555e4-558d-4304-b8d9-acdde52a2393,control,2020-07-08,8,Samsung SM-G973F,6,Facebook,1,0
+68e32d3b-0178-4d28-99fe-410c4c132422,control,2020-07-08,14,Samsung SM-G960F,6,Samsung Internet,0,1
+b84ee86d-aee1-4f0f-84f7-4820eba84c29,exposed,2020-07-07,1,Samsung SM-N976B,6,Chrome Mobile WebView,1,0
+df4d2ed4-9596-4f3d-b587-4d9834187c75,exposed,2020-07-06,9,Generic Smartphone,6,Chrome Mobile,1,0
+fb859fbe-dafe-4052-8a16-6c5d2e26fb94,control,2020-07-10,10,XiaoMi Redmi S2,6,Facebook,1,0
+949484df-85bd-4f50-8eba-fdcd05a8ca50,control,2020-07-08,20,Generic Smartphone,6,Chrome Mobile,0,1
+0751a4df-b53c-4943-b4d2-952529e16ae3,control,2020-07-08,22,Generic Smartphone,6,Chrome Mobile,0,1
+8b551c5c-ac07-483b-b66e-2c4301660bfe,exposed,2020-07-04,14,Generic Smartphone,6,Chrome Mobile,0,1
+faa699e5-7c95-4661-b910-2fb7920cedbb,exposed,2020-07-04,13,VOG-L29,6,Chrome Mobile WebView,1,0
+2dcd3f0c-9e9a-4a36-bb68-4b8e6408314a,exposed,2020-07-10,9,Generic Smartphone,6,Chrome Mobile,0,1
+eeeabe32-c67a-447d-a9ca-73227cf585e1,exposed,2020-07-09,21,Generic Smartphone,6,Chrome Mobile,1,0
+f0968c04-65e7-448b-b0fe-ce7f6a5e790f,exposed,2020-07-09,17,Generic Smartphone,6,Chrome Mobile,1,0
+bb9521c8-aa06-41c0-97d7-ae8b68a97342,exposed,2020-07-04,6,Samsung $2,6,Chrome Mobile WebView,0,1
+70361a09-0b73-48d0-afc4-96db1d775032,exposed,2020-07-04,11,Nokia undefined$2$3,6,Chrome Mobile,1,0
+beca7115-85fb-4043-a856-8dc6c6b65da5,exposed,2020-07-09,13,Generic Smartphone,6,Chrome Mobile,0,1
+e90173a7-d835-417b-9319-55e95dc791ca,control,2020-07-07,9,Samsung SM-G935F,6,Facebook,1,0
+fc100e4d-08a8-44a2-856c-6e2e49664a11,control,2020-07-03,15,Samsung SM-J330FN,6,Samsung Internet,1,0
+ea52fbf9-292e-4a6a-a80a-9c0529abf866,control,2020-07-10,14,VFD 720,6,Facebook,0,1
+a98ffc07-6388-48ec-b8dd-1d9f77fd07d3,exposed,2020-07-09,22,Samsung SM-A600FN,6,Chrome Mobile WebView,1,0
+7febe5a7-4d5d-4e50-8a8e-1278965044ac,control,2020-07-07,13,Generic Smartphone,6,Chrome Mobile,0,1
+2452a693-0b7a-467b-9282-463c886642c9,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,0,1
+f4cccd97-3fd1-40f8-bb52-dc9644b02595,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,0,1
+92e55795-389a-4fbf-ad4a-5c351cc1c20c,exposed,2020-07-07,14,Generic Smartphone,6,Chrome Mobile,1,0
+c7fa97a7-3dbb-4df2-baa8-64f80fb76620,exposed,2020-07-10,3,Generic Smartphone,6,Chrome Mobile,0,1
+f3a0afa6-0f90-489f-b577-78f6e0c044d3,exposed,2020-07-07,20,Samsung SM-G970F,6,Chrome Mobile WebView,1,0
+247775cc-ca04-427f-bc8a-2f8e0b8bd1e5,control,2020-07-04,15,Samsung SM-G930F,6,Samsung Internet,0,1
+ada3e3a4-2218-4458-8ef7-958f7d10ba7b,control,2020-07-07,21,Generic Smartphone,6,Chrome Mobile,1,0
+98e3f4e2-0e57-435d-8868-a6a562d839b3,control,2020-07-03,15,MAR-LX1A,6,Facebook,0,1
+dd8c27c8-90c0-4818-9bf9-7e60dbf40068,control,2020-07-03,15,XiaoMi MI 6,6,Facebook,0,1
+b7cc440c-0bcc-415d-a312-b5385ffa4583,exposed,2020-07-09,10,Generic Smartphone,6,Chrome Mobile,0,1
+be9dc042-16cf-449b-a0d6-03bc46c1f18b,exposed,2020-07-08,19,Generic Smartphone,6,Chrome Mobile,1,0
+224e6d15-bc62-4f91-858a-fef2a3722dfd,control,2020-07-05,4,Generic Smartphone,6,Chrome Mobile,1,0
+ecdd7460-b216-41ff-b44a-7ccc7169300a,control,2020-07-03,15,Samsung SM-G981B,6,Facebook,1,0
+71cedc9a-cef8-4a84-bf6e-cf8b4add592a,control,2020-07-04,11,Generic Smartphone,6,Chrome Mobile,1,0
+dba77d19-8b4f-43f1-99b4-9503e3467432,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,1,0
+171ac6ca-d685-4ade-a7c7-f60a3895bf7d,control,2020-07-03,15,Samsung SM-J330FN,6,Samsung Internet,0,1
+80f69d29-f000-4973-99ab-277143bc90cb,control,2020-07-04,9,Generic Smartphone,6,Chrome Mobile,0,1
+e58ffe4a-df41-4b5a-a309-9b8d0ce64976,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,0,1
+0af12f96-1167-4717-85c2-e4bab19a6741,exposed,2020-07-08,21,Samsung SM-A405FN,6,Chrome Mobile WebView,1,0
+220c8e65-99ef-4cd2-8704-aea1aac355a4,exposed,2020-07-07,20,Samsung SM-A405FN,6,Chrome Mobile WebView,1,0
+5bb738ab-fade-4368-ae39-5f1a0960e125,control,2020-07-09,1,Generic Smartphone,6,Chrome Mobile,1,0
+3126c938-e999-4727-acfe-8a86761a3c74,control,2020-07-06,8,Generic Smartphone,6,Chrome Mobile,1,0
+f46b1c92-8e6f-4f56-82ca-2c723d3ff397,control,2020-07-03,15,Samsung SM-J330FN,6,Samsung Internet,0,1
+01985992-d70b-4258-a3a1-60ac5e17bce6,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,0,1
+d5ff5e67-bbe1-43cf-9e12-1b18b27fd009,exposed,2020-07-09,20,Generic Smartphone,6,Chrome Mobile,1,0
+6582a42c-eb5a-4b7d-bc4a-55422511fcab,exposed,2020-07-10,16,Generic Smartphone,6,Chrome Mobile,0,1
+3d126856-74a9-4921-8ae8-2350705b7db5,control,2020-07-03,15,Samsung SM-A715F,6,Facebook,1,0
+bb9a7f4e-64a2-4892-a699-09584c3d8ab1,exposed,2020-07-05,4,Generic Smartphone,6,Chrome Mobile,0,1
+e3a61a83-ee6e-420a-a872-a776b4f809b1,exposed,2020-07-08,15,Samsung SM-A202F,6,Samsung Internet,0,1
+b7fe2748-14e8-4350-9051-15333cd47cf6,control,2020-07-08,13,Generic Smartphone,6,Chrome Mobile,1,0
+f3c258ea-2363-4645-80ef-e2383a04f509,exposed,2020-07-09,8,Generic Smartphone,6,Chrome Mobile,1,0
+88cf5bf7-f0e3-4a38-8c21-abb960a62752,control,2020-07-04,6,Samsung SM-G960F,6,Facebook,1,0
+507eb164-9081-423c-8236-b2db2686ca45,control,2020-07-10,5,Samsung SM-A202F,6,Samsung Internet,0,1
+e0accc2a-305a-4752-8efd-88f4d24167b0,control,2020-07-08,21,EVA-L09,6,Chrome Mobile WebView,1,0
+3e33f885-d358-4738-aab9-78244052fc21,exposed,2020-07-06,3,Samsung SM-G970F,6,Samsung Internet,1,0
+21fd0c48-173e-4b1a-ab4f-ba8bc647576a,exposed,2020-07-09,13,Generic Smartphone,6,Chrome Mobile,0,1
+69c4fa59-5fcc-4519-bc84-c1aaab2b38f6,control,2020-07-04,14,Samsung SM-A600FN,6,Samsung Internet,1,0
+8b59d2aa-52bf-4816-b60c-a92b187a6e5b,control,2020-07-03,15,Samsung SM-A320FL,6,Samsung Internet,0,1
+fd86fc6b-3420-4f81-9df0-98fa1f15abf5,exposed,2020-07-08,17,Samsung SM-G965F,6,Facebook,0,1
+f3817b50-6e0d-4c01-96fe-f63c7500aa4d,exposed,2020-07-03,7,Generic Smartphone,6,Chrome Mobile,0,1
+7994019a-3f73-4ad5-8288-a622859b2445,exposed,2020-07-06,7,Generic Smartphone,6,Chrome Mobile,0,1
+c0cf2c7f-29e3-4e0d-a9b5-353039067a09,exposed,2020-07-04,2,ANE-LX1,6,Facebook,1,0
+6cf6656d-f47c-4224-a33f-3e71b16ae645,control,2020-07-04,7,Samsung SM-G970F,6,Samsung Internet,0,1
+e8df0b21-3105-4f78-8797-b178e0be131c,control,2020-07-09,21,Generic Smartphone,6,Chrome Mobile,0,1
+20e59bcd-428e-4c8f-b9fb-f4c50be78c4e,exposed,2020-07-04,16,Generic Smartphone,6,Chrome Mobile,1,0
+5b3dd0c2-8faf-4f92-b704-b6e44b307149,exposed,2020-07-04,23,Generic Smartphone,6,Chrome Mobile,1,0
+c774d3d8-a33a-478b-9a1e-7c770d02fe8f,exposed,2020-07-10,9,Generic Smartphone,6,Facebook,1,0
+f27fb7fa-fe23-43d4-bcd0-8baa18774dd3,control,2020-07-03,15,Pixel 2,6,Facebook,1,0
+8f485c8d-13f9-4562-8d94-b554adfe8c90,exposed,2020-07-03,5,Generic Smartphone,6,Chrome Mobile,1,0
+676e8827-83ba-4ab5-a452-dc4c794e5dbf,exposed,2020-07-09,11,Generic Smartphone,6,Chrome Mobile,0,1
+2a0fd940-3857-4618-be52-d215c54931e4,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,1,0
+85308108-0ccf-4b2b-9157-bdd4ea63d1c7,exposed,2020-07-04,10,Samsung SM-G965F,6,Facebook,1,0
+205546a3-5b19-4fcc-87a0-cf6177d889af,control,2020-07-08,16,Generic Smartphone,6,Chrome Mobile,1,0
+a12cd168-64d7-4b56-8313-718b961cc7da,exposed,2020-07-09,23,Generic Smartphone,6,Chrome Mobile,1,0
+cde53473-e0b7-4246-a173-495c8857de01,control,2020-07-07,5,Nokia undefined$2$3,6,Chrome Mobile,0,1
+2ed3be13-ed0e-4d36-88dd-12639db2c002,control,2020-07-03,15,Samsung SM-J415FN,6,Samsung Internet,0,1
+b86369f1-087c-4476-afe6-78e20a34db05,exposed,2020-07-03,12,Samsung SM-A505FN,6,Chrome Mobile WebView,0,1
+41c810e4-190e-47d9-8e28-3f7e0786b7e5,exposed,2020-07-04,14,Generic Smartphone,6,Chrome Mobile,1,0
+458468a6-1216-430d-8fd8-c4ef0e565e72,control,2020-07-09,11,Generic Smartphone,6,Chrome Mobile,1,0
+eab088f9-0e83-4b76-a67d-08c7d633cfb5,exposed,2020-07-06,8,Pixel 3a,6,Chrome Mobile WebView,1,0
+5b22bcb4-f741-423b-9669-8c67ad123492,exposed,2020-07-09,12,Generic Smartphone,6,Chrome Mobile,0,1
+19cf6084-4e5e-42b6-866b-91221995f5e3,exposed,2020-07-05,19,Generic Smartphone,6,Chrome Mobile,0,1
+2fd3a02a-0d0d-46b3-8c1e-141ce9bc4c59,control,2020-07-09,18,Generic Smartphone,6,Chrome Mobile,0,1
+afccd237-8910-41b0-911d-553b1caf3779,exposed,2020-07-03,3,Samsung SM-G960F,6,Chrome Mobile WebView,0,1
+3ba61e8e-99e0-46a8-b168-a7de44391ecc,control,2020-07-05,8,Samsung SM-G770F,6,Samsung Internet,0,1
+f4ec2770-d327-4418-8a21-4fe96c75ae14,control,2020-07-03,15,Samsung SM-A520F,6,Samsung Internet,0,1
+f32cd9f2-976a-41a4-873a-0cc074b7db53,control,2020-07-03,15,Samsung SM-G930F,6,Samsung Internet,1,0
+581ed31c-3642-4e64-9331-86a304130afc,exposed,2020-07-05,9,Nokia$2$3,6,Chrome Mobile WebView,1,0
+b29c06cf-1ce5-4ae6-943b-4885886779e7,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,1,0
+3494772e-636a-4981-a3c7-c20f61b9a2d4,exposed,2020-07-10,1,Generic Smartphone,6,Chrome Mobile,0,1
+8ba774fc-5119-4520-89d5-1a50b4414b2d,control,2020-07-03,15,Samsung SM-N950F,6,Chrome Mobile WebView,0,1
+008aafdf-deef-4482-8fec-d98e3da054da,exposed,2020-07-04,16,Generic Smartphone,6,Chrome Mobile,1,0
+18c91749-afe9-4495-a39b-642f26481b1e,exposed,2020-07-10,5,Moto $2,6,Chrome Mobile WebView,0,1
+96ee2c29-9680-4621-b14c-0c66ec0988e2,control,2020-07-10,7,Generic Smartphone,6,Chrome Mobile WebView,0,1
+c66b34f2-ddcd-481a-b240-7f0d3e758ae8,control,2020-07-09,5,Samsung SM-G960F,6,Samsung Internet,1,0
+e895db75-d021-44cd-89c0-583abc0a67b0,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile WebView,0,1
+62d33cb1-7f22-4fac-b6d0-d3ebe3c9191b,exposed,2020-07-05,11,Samsung SM-A320FL,6,Samsung Internet,0,1
+8ffad13c-b42c-4495-85a5-03260330c372,exposed,2020-07-05,10,I3312,6,Chrome Mobile WebView,0,1
+ec77e672-dc3d-47ed-9fbb-f9f2a2d71ab7,exposed,2020-07-05,9,Generic Smartphone,6,Chrome Mobile,0,1
+4b92d18c-2184-4b44-ad82-1fa142bd4389,control,2020-07-10,2,Generic Smartphone,6,Chrome Mobile,1,0
+8cc6fcc9-3e50-4755-bae9-7a7167ad6d23,exposed,2020-07-04,10,LG-$2,6,Chrome Mobile,1,0
+99740d86-02c1-4cb4-aeca-827cd6f70cfb,control,2020-07-04,22,LG-$2,6,Facebook,1,0
+cb900a89-a572-43e0-a342-2555ea0a58af,exposed,2020-07-07,9,Generic Smartphone,6,Chrome Mobile WebView,1,0
+896f1a69-489e-4a97-85d0-267cee43f5bf,exposed,2020-07-10,7,Generic Smartphone,6,Chrome Mobile,0,1
+8aae92c5-0763-4083-85ec-ccf1b3eaadfb,exposed,2020-07-10,15,Generic Smartphone,6,Chrome Mobile,1,0
+fa4f3a29-0b51-4fb2-b1e8-8e1bc0ae8373,exposed,2020-07-10,8,Samsung SM-A300FU,6,Chrome Mobile WebView,0,1
+ef0ff281-de86-44a5-82a7-a6d857beeff9,exposed,2020-07-10,4,Generic Smartphone,6,Chrome Mobile,1,0
+a8d13798-4340-4648-bc23-faf9db50d255,exposed,2020-07-09,17,Samsung SM-G965F,6,Chrome Mobile WebView,1,0
+8c6bd9c8-b63b-4bfa-a047-023502992d3e,exposed,2020-07-05,7,Generic Smartphone,6,Chrome Mobile,0,1
+d46c2393-0d7c-413c-ba62-1ea239f0506a,exposed,2020-07-09,18,Generic Smartphone,6,Chrome Mobile,1,0
+7b46743d-aefc-49ef-abf5-c49544b25d9b,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,1,0
+937f8a2d-3ca1-4612-8805-269517700964,exposed,2020-07-09,1,Generic Smartphone,6,Chrome Mobile,0,1
+7f2d94ee-ff1d-4c9c-b0e1-4844186e7b7b,exposed,2020-07-03,13,Samsung SM-A750FN,6,Chrome Mobile WebView,1,0
+e7063785-87a7-46ca-89cc-6535cbedffbb,control,2020-07-09,14,Samsung SM-G973F,6,Facebook,0,1
+74322817-0132-43d0-a7ee-368bd2587dc4,control,2020-07-04,0,XiaoMi MI 8 Pro,6,Facebook,1,0
+de032d20-06c5-4a85-b9fe-f363230cfba4,control,2020-07-08,10,Generic Smartphone,6,Chrome Mobile,1,0
+780a2d7e-d8c1-4e19-87b2-eb98a077f7ba,exposed,2020-07-10,4,Generic Smartphone,6,Chrome Mobile,1,0
+a0b79f33-d611-45bb-8683-158b404f6e5a,exposed,2020-07-07,6,Samsung SM-A505FN,6,Chrome Mobile WebView,0,1
+efb6a970-3a96-4d5e-a7bf-9b8a102cfab9,control,2020-07-07,7,Samsung SM-A405FN,6,Samsung Internet,0,1
+6ba9d796-64ab-4df8-93ec-9b0ffcb8f519,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,0,1
+14db6b8d-4c4d-4543-a492-464861c1b1b8,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,1,0
+d71e8e45-9f00-4408-8b87-230c68511556,control,2020-07-07,9,Generic Smartphone,6,Chrome Mobile,1,0
+7c484dcc-d619-416b-80a1-2b5995ce0ccf,exposed,2020-07-10,2,Generic Smartphone,6,Chrome Mobile,0,1
+9f5c6418-2639-49ea-8a68-bc48b0b2049e,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,1,0
+b3ee40de-5ae2-42e4-a01c-7c4020aece1b,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,0,1
+b9f39456-9864-4d61-a3b3-8e5c3aba5866,control,2020-07-09,12,Generic Smartphone,6,Chrome Mobile,0,1
+db258575-086d-462c-81bc-827656e1cbf1,control,2020-07-05,1,Samsung SM-G950F,6,Samsung Internet,0,1
+31248f44-f54d-4dc9-b0bc-b154d864d1a5,control,2020-07-10,9,Generic Smartphone,6,Chrome Mobile,1,0
+5980b553-b284-4bad-ab08-c8f9f032342c,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,0,1
+a8cffa56-53b4-4ddb-bf87-f20c75eb1f7a,exposed,2020-07-03,12,Generic Smartphone,6,Chrome Mobile,0,1
+b501c220-43b8-42a5-a507-9db9bd659e96,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,0,1
+5aacbe2c-080f-4542-a289-2f147fa71606,exposed,2020-07-03,9,Generic Smartphone,6,Chrome Mobile,0,1
+a4015637-4710-4ea6-b9dc-f857eeeeec43,exposed,2020-07-08,19,Generic Smartphone,6,Chrome Mobile,1,0
+ed1721f1-5cf4-4359-b135-8f3dc8de93f5,exposed,2020-07-06,2,Nokia undefined$2$3,6,Chrome Mobile,1,0
+d8fe46a8-c1b8-4a07-9c79-77c1a6bbd2ff,exposed,2020-07-03,14,Generic Smartphone,6,Chrome Mobile,1,0
+8babb589-ab4e-4371-892e-8aca9f852548,exposed,2020-07-09,5,Generic Smartphone,6,Chrome Mobile,0,1
+85bd4f2e-5918-4cd2-87ad-a8f7af4c6b96,exposed,2020-07-05,6,Generic Smartphone,6,Chrome Mobile,1,0
+c86909ec-fbba-45f6-b3f9-ed145d4f9349,exposed,2020-07-05,12,Generic Smartphone,6,Chrome Mobile,1,0
+9b7a2497-f2f3-4cfd-bf1b-bf533fa39f4f,exposed,2020-07-10,2,Generic Smartphone,6,Chrome Mobile,0,1
+9400e844-8dc2-49f1-875a-c58fbef65a37,exposed,2020-07-04,10,ANE-LX1,6,Chrome Mobile WebView,0,1
+15bbbcc4-056e-487c-91f0-7a98aaf32bd3,exposed,2020-07-09,16,Generic Smartphone,6,Chrome Mobile,0,1
+a9e6ee56-7444-4706-bb2c-b6b8b24da285,exposed,2020-07-10,0,Samsung SM-G975F,6,Facebook,1,0
+5c5dbb23-ace5-4f55-a58c-5765edca8ff2,exposed,2020-07-03,14,Generic Smartphone,6,Chrome Mobile,0,1
+7002e35a-e698-4e9f-9a44-1ba5050fea97,exposed,2020-07-05,5,Samsung SM-G950F,6,Chrome Mobile WebView,1,0
+e144ec56-a30e-4661-a7c7-349554c61942,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,1,0
+dd9d1895-93e5-49a0-94b4-2dfa020feeb4,control,2020-07-04,12,ANE-LX1,6,Facebook,0,1
+c0d68612-6d17-4522-aeac-afb99a656c3b,exposed,2020-07-08,20,Generic Smartphone,6,Chrome Mobile,1,0
+a69c0804-8767-4cd2-933f-4c749f22c9d7,exposed,2020-07-10,4,I3312,6,Facebook,0,1
+2efeefb7-9cbc-4919-9671-1a2e886d8699,exposed,2020-07-08,20,Generic Smartphone,6,Chrome Mobile,1,0
+1d3e722e-592f-4d99-96b6-e24ab03197ec,control,2020-07-07,16,POT-LX1,6,Facebook,0,1
+dcfebfae-200f-45f9-92bd-43201663ba0a,control,2020-07-04,15,Samsung SM-G950F,6,Facebook,0,1
+086f31fc-fc25-4c4b-b0ba-ea9ac9502855,exposed,2020-07-08,20,Generic Smartphone,6,Chrome Mobile,1,0
+d679959d-5f76-42a6-9f82-25b7f1913c51,control,2020-07-04,9,Generic Smartphone,6,Chrome Mobile,1,0
+378645d2-f8cf-43c0-b1be-e699d846e596,control,2020-07-04,6,Generic Smartphone,6,Chrome Mobile,0,1
+561ebe61-32e2-40fe-9913-c814c6cd49e1,exposed,2020-07-07,19,Samsung SM-G960F,6,Samsung Internet,1,0
+43d33a5a-a693-4fc0-8928-f5390113b6f8,exposed,2020-07-08,19,Generic Smartphone,6,Chrome Mobile,0,1
+5e7c9d3b-1a50-48dc-9792-508acb0020bc,control,2020-07-10,14,Generic Smartphone,6,Chrome Mobile,0,1
+594ecca2-51fe-4e43-9bcb-38ba4790a2b1,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,0,1
+81f6930f-f944-4372-932c-f648fcf1dcf2,exposed,2020-07-06,5,Samsung SM-A505FN,6,Samsung Internet,0,1
+e373d3d0-5aad-41f7-af4f-0d892b2f9cc3,exposed,2020-07-08,7,Samsung SM-N976B,6,Facebook,1,0
+8ca5ee31-c6f0-4961-82b7-6ba0dbb904b1,exposed,2020-07-08,18,Generic Smartphone,6,Chrome Mobile,0,1
+f04af38d-ada9-4f4d-a389-4ff7fee16821,exposed,2020-07-07,22,Generic Smartphone,6,Chrome Mobile,0,1
+73bc733a-68c4-4d72-9b67-b4ae81e6e2ed,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,1,0
+0d49bacd-aa02-4d79-80bd-e3d684d7d03d,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,1,0
+030f8197-4daa-4584-a43a-a5805d6947e4,exposed,2020-07-08,20,Generic Smartphone,6,Chrome Mobile,0,1
+df786279-facc-4b34-80e1-388bdfe2044d,control,2020-07-04,11,Generic Smartphone,6,Chrome Mobile,1,0
+6dcfe9af-7629-4720-83fc-88bea26f1cc1,exposed,2020-07-08,20,VFD 700,6,Chrome Mobile WebView,1,0
+56237354-3a8d-4856-afe5-1ed8bd0b9990,exposed,2020-07-03,7,Generic Smartphone,6,Chrome Mobile,0,1
+2ace6da4-d39b-48c0-9d51-36ce3c52f32b,exposed,2020-07-05,4,MAR-LX1A,6,Chrome Mobile WebView,0,1
+a3af7c56-caf7-4ee0-bdfd-d5514dd03fbb,exposed,2020-07-08,18,Samsung SM-G950F,6,Chrome Mobile WebView,1,0
+3413350e-0885-4d5f-b40e-7bc05a9c3ec1,control,2020-07-03,15,Samsung SM-A705FN,6,Facebook,0,1
+a887ef20-2df0-4328-a942-528cdf77f02c,exposed,2020-07-09,18,Generic Smartphone,6,Chrome Mobile,0,1
+e202a142-5042-4a85-a991-cb172abd0dd7,control,2020-07-08,21,Generic Smartphone,6,Chrome Mobile,1,0
+b7ce3083-2364-4650-81d6-27ce10e25ff9,exposed,2020-07-08,18,Samsung SM-J600FN,6,Chrome Mobile WebView,0,1
+4fb02ea5-9b40-458f-aeb6-7909f7089414,exposed,2020-07-09,15,Generic Smartphone,6,Chrome Mobile,0,1
+9ae9ca18-6562-4ef7-a9e4-b28fdcac1c42,control,2020-07-04,17,Generic Smartphone,6,Chrome Mobile,1,0
+45db7e60-c14b-4f17-99b7-820ee4080fcc,exposed,2020-07-09,18,Samsung SM-G960F,6,Chrome Mobile WebView,1,0
+d63e684b-ec8b-43f9-9b77-9f58356293cb,control,2020-07-05,16,Generic Smartphone,6,Chrome Mobile,1,0
+65a95026-737d-439f-bf31-0d87d8cef632,exposed,2020-07-09,12,Generic Smartphone,6,Chrome Mobile,1,0
+ac21d597-17db-4b5e-8a15-beb9c9dd53b1,exposed,2020-07-09,12,Generic Smartphone,6,Chrome Mobile,0,1
+403a14c2-c143-4b9d-b891-df75ba2cb374,control,2020-07-09,8,Generic Smartphone,6,Chrome Mobile,0,1
+d109feb2-fe71-455f-8145-570a2556e26b,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,0,1
+2f772b38-49bf-4ebf-a098-83b8b02f0f70,control,2020-07-05,5,Generic Smartphone,6,Chrome Mobile,0,1
+2460cae4-da53-4b93-8021-bb4caefcece6,control,2020-07-05,4,Samsung SM-G960F,6,Facebook,0,1
+9bf1f08e-c752-4287-85e0-4e5af1379876,exposed,2020-07-07,5,Generic Smartphone,6,Chrome Mobile,0,1
+5b2472a3-a8b2-49ce-bd22-fbd2caddb70f,control,2020-07-08,14,Generic Smartphone,6,Chrome Mobile,0,1
+9839dfb9-13ee-4361-85f6-7e132ce30396,control,2020-07-03,15,Samsung SM-G980F,6,Facebook,0,1
+eb313fdd-f707-419f-a634-d8c4fcf44321,control,2020-07-06,8,Generic Smartphone,6,Chrome Mobile,1,0
+7cebd2b7-7978-428a-b0a8-9d38766bd299,exposed,2020-07-07,22,Generic Smartphone,6,Chrome Mobile,1,0
+d75950d4-6cda-45f6-a5d9-6d6449c96059,control,2020-07-09,4,Generic Smartphone,6,Chrome Mobile,0,1
+d89be46e-f103-46d2-8722-5571995bf13d,control,2020-07-03,15,Samsung SM-J810F,6,Chrome Mobile WebView,0,1
+e5cd050e-c4a3-478e-a728-8f479f2707f1,exposed,2020-07-09,23,Generic Smartphone,6,Chrome Mobile,1,0
+30f2696e-5351-41dd-b2c6-4429b8d256d6,exposed,2020-07-09,6,Generic Smartphone,6,Chrome Mobile,0,1
+07659c1c-f6f0-4a6b-8089-97290c26aeb9,exposed,2020-07-08,6,Generic Smartphone,6,Chrome Mobile,1,0
+a5041bd1-e908-4c61-8b7b-273ca524ee10,exposed,2020-07-04,5,Generic Smartphone,6,Chrome Mobile,1,0
+7115c8e3-1fa8-4b24-b73b-de45a65b8199,control,2020-07-05,18,Samsung SM-G960F,6,Facebook,1,0
+fc3f29c6-5204-4cf2-b418-608ff0ab1282,control,2020-07-10,12,Samsung SM-A520F,6,Chrome Mobile WebView,0,1
+14485cd5-6904-4d94-890c-7bb0feb6ff30,exposed,2020-07-08,15,Generic Smartphone,6,Chrome Mobile WebView,1,0
+bbbf486d-e776-422d-99bd-261768551f27,exposed,2020-07-08,5,Generic Smartphone,6,Chrome Mobile,0,1
+7c78e50d-079b-44bd-8565-5b89bf2d0418,control,2020-07-09,2,Generic Smartphone,6,Chrome Mobile,0,1
+a52014d4-0090-4952-a7c8-6b093379a162,control,2020-07-09,11,Samsung SM-J600FN,6,Samsung Internet,0,1
+3aa89a92-a9c2-463b-86a0-8c9f6760e735,exposed,2020-07-04,19,Generic Smartphone,6,Chrome Mobile,1,0
+02efdb70-8596-4f3f-b0b2-b91e194f61f7,exposed,2020-07-05,6,Generic Smartphone,6,Chrome Mobile,1,0
+4af0156c-3371-4d6a-8e62-6ff6d1432368,control,2020-07-09,12,Samsung SM-A105FN,6,Chrome Mobile,0,1
+83e913ff-69cf-4a38-b22b-81bc7d6c8976,exposed,2020-07-08,22,Samsung SM-G980F,6,Facebook,0,1
+586008bc-cb0a-4521-84d2-034a45ca7b98,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,0,1
+2577353b-861c-4dfb-83ec-bfb97e1ee64c,control,2020-07-03,15,Samsung SM-G975F,6,Samsung Internet,1,0
+b0608d11-590c-480a-8f83-3ed2a866a9f2,control,2020-07-03,15,Samsung SM-G770F,6,Samsung Internet,0,1
+03ee1780-1fa3-4bec-926c-d543a81a6653,exposed,2020-07-04,11,Samsung SM-G981B,6,Chrome Mobile WebView,1,0
+8c731921-5cbe-48d7-9055-8ea751c15391,control,2020-07-08,15,Samsung SM-A405FN,6,Samsung Internet,0,1
+f0a15526-6329-41e2-a867-5ac06eb3a1e8,exposed,2020-07-09,8,Pixel 2,6,Chrome Mobile WebView,0,1
+af2ea81a-c58b-45dc-93ca-cdc7d14ec9f7,control,2020-07-10,13,Generic Smartphone,6,Chrome Mobile,0,1
+7c3d937d-e200-4def-9db5-997e0eff2af8,exposed,2020-07-04,3,Nokia undefined$2$3,6,Chrome Mobile,1,0
+fa3bf20f-fb92-41e5-8d01-8b243ef06391,exposed,2020-07-10,8,Generic Smartphone,6,Chrome Mobile,0,1
+9484b215-8f77-484b-acce-0197401f85e1,exposed,2020-07-07,12,Generic Smartphone,6,Chrome Mobile,1,0
+c80d0341-28c1-48ec-ad05-7c8e56c2a58b,control,2020-07-05,12,Samsung SM-G986B,6,Samsung Internet,0,1
+2b12d711-1755-4ad7-a093-b2aefd045da9,control,2020-07-07,20,Generic Smartphone,6,Chrome Mobile,1,0
+cbd7a5eb-9359-40f9-a8cb-eaf1788886a0,control,2020-07-04,13,Generic Smartphone,6,Chrome Mobile,0,1
+97551eb7-3e6e-42ba-b6b4-c57e779c3078,control,2020-07-04,12,iPhone,5,Mobile Safari,0,1
+7229d3ef-4200-49d2-948f-c8df366b3a44,control,2020-07-07,9,Generic Smartphone,6,Chrome Mobile,1,0
+e344a772-4caa-4732-98fe-b6b0d114cfde,control,2020-07-10,6,Generic Smartphone,6,Chrome Mobile,1,0
+69dcd51c-bf03-428a-8def-c380f174f035,control,2020-07-09,12,Generic Smartphone,6,Chrome Mobile,1,0
+b2daef31-9b6c-4577-a426-233da40fa8d8,exposed,2020-07-03,7,TA-1033,6,Chrome Mobile WebView,1,0
+a0a76438-b3f8-408f-a681-344549a190a6,exposed,2020-07-08,22,Generic Smartphone,6,Chrome Mobile,0,1
+3cfa4d93-6459-42f1-963b-7d3215bf3711,exposed,2020-07-08,15,Generic Smartphone,6,Chrome Mobile WebView,0,1
+0429d8ae-374e-46e8-83a6-eba1c36aefb1,exposed,2020-07-05,19,Generic Smartphone,6,Chrome Mobile,0,1
+661d318d-6f8c-43ee-bf50-e0e55c7063c0,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,0,1
+f617de1c-2091-43f3-8133-cb10499c0965,control,2020-07-05,19,Samsung SM-G973F,6,Samsung Internet,0,1
+4163c9b9-36ac-4612-ba69-5dba3cb71513,control,2020-07-05,18,Samsung SM-J320FN,6,Chrome Mobile,0,1
+c7e9536f-9816-4226-a2d9-227782e9c0ca,exposed,2020-07-08,20,Samsung SM-J320FN,6,Samsung Internet,1,0
+fa8ed69f-6b89-47d2-8ece-c5e1f4973207,control,2020-07-04,2,Samsung SM-G930F,6,Facebook,0,1
+582427c7-1aa4-4ecc-95c6-d6fdb3980a4c,exposed,2020-07-07,0,Moto $2,6,Chrome Mobile WebView,0,1
+aa3d1410-253d-4c4c-b144-5bc68c498ebf,control,2020-07-03,15,iPhone,5,Mobile Safari,0,1
+505f1a22-7263-41da-88d2-5b58eec19761,exposed,2020-07-10,11,Generic Smartphone,6,Chrome Mobile,0,1
+a4432f55-9262-4595-b1b8-a64753a300c9,exposed,2020-07-07,1,Samsung SM-G960F,6,Chrome Mobile WebView,0,1
+1c22ef64-fe40-4c19-84a0-3c086c176ece,control,2020-07-09,10,Generic Smartphone,6,Chrome Mobile,0,1
+b53b982f-5bf2-4b71-b04e-f97107f07e6d,exposed,2020-07-09,13,Pixel 3a,6,Chrome Mobile WebView,1,0
+e926dd6a-667e-43fc-92ea-aeb2be7c8f60,control,2020-07-05,5,Generic Smartphone,6,Chrome Mobile,0,1
+13e225de-5cb9-4d9b-96fb-aa137c643ce3,control,2020-07-03,15,Samsung SM-G930F,6,Facebook,1,0
+4e9423d8-1db2-45b8-8cd4-ae52bdd80f1a,control,2020-07-10,4,Generic Smartphone,6,Chrome Mobile,1,0
+6879270b-186f-4af8-af37-9828a54db8e3,exposed,2020-07-03,12,Generic Smartphone,6,Chrome Mobile,0,1
+19c53616-7ece-4148-92b2-4e5e044685f7,control,2020-07-03,15,XiaoMi Redmi Note 7,6,Chrome Mobile WebView,0,1
+dc147227-498c-4d01-aa99-7511fc507bb4,exposed,2020-07-03,1,Samsung SM-A530F,6,Chrome Mobile WebView,1,0
+e531bd16-3706-4042-8064-3ae47c953861,exposed,2020-07-08,18,LYA-L09,6,Facebook,0,1
+eb57adda-07bb-403c-8e2f-d247ea0db86a,exposed,2020-07-03,1,Generic Smartphone,6,Chrome Mobile,0,1
+b38a0e0b-9b6f-42da-bb7b-e7f226c2ae34,control,2020-07-03,15,Samsung SM-A105FN,6,Chrome Mobile,1,0
+e98c0f86-865a-4a62-be30-709dc697e713,exposed,2020-07-03,7,Generic Smartphone,6,Chrome Mobile,1,0

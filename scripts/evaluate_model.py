@@ -3,6 +3,10 @@ from sklearn.metrics import accuracy_score, mean_squared_error, mean_absolute_er
 
 
 class EvaluateModel():
+  '''
+  Calculates evaluation metrics for a give model using actual data
+  '''
+
 
   def __init__(self, actual, pred):
     self.actual = actual

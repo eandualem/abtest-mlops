@@ -3,6 +3,9 @@ from config import Config
 from xgboost import XGBClassifier
 from train_model import TrainModel
 
+'''
+  simple script for training XGBoost using TrainModel class
+'''
 
 def model(param):
   model = XGBClassifier(random_state=42, eval_metric='logloss', **param)

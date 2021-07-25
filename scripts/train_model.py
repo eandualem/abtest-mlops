@@ -13,6 +13,9 @@ y_train = helper.read_csv(str(Config.FEATURES_PATH / "train_labels.csv"))
 
 
 class TrainModel():
+  '''
+  Class trains a model using 5-fold cross validation and returns the best model
+  '''
 
   def __init__(self, model, name, params):
     self.model = model
@@ -23,10 +26,10 @@ class TrainModel():
     length = len(metrics_list)
 
     return dict(
-      accuracy=sum([m["accuracy"] for m in metrics_list]) / length,
-      r_squared=sum([m["r_squared"] for m in metrics_list]) / length,
-      rmse=sum([m["rmse"] for m in metrics_list]) / length,
-      mae=sum([m["mae"] for m in metrics_list]) / length,
+        accuracy=sum([m["accuracy"] for m in metrics_list]) / length,
+        r_squared=sum([m["r_squared"] for m in metrics_list]) / length,
+        rmse=sum([m["rmse"] for m in metrics_list]) / length,
+        mae=sum([m["mae"] for m in metrics_list]) / length,
     )
 
   def get_optimal_model(self):
@@ -45,10 +48,10 @@ class TrainModel():
     best_model = None
     best_param = None
     avg_metrics = dict(
-      accuracy=0,
-      r_squared=0,
-      rmse=0,
-      mae=0
+        accuracy=0,
+        r_squared=0,
+        rmse=0,
+        mae=0
     )
 
     for param in self.params:
