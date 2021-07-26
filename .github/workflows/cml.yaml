@@ -12,6 +12,7 @@ jobs:
           REPO_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           pip install -r requirements.txt
+          cd scripts/
           python cml_train_decision_trees.py
           
           echo "MODEL METRICS"
