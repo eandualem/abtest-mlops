@@ -42,7 +42,7 @@ pip install -r requirements.txt
   - The notebook for Sequential A/B Testing is inside the notebooks folder in the file sequential-ab-testing.ipynb.
 
 ### ML A/B Testing
-  - The notebook for sequential-ab-testing is inside the notebooks folder in the file ml-ab-testing.ipynb.
+  - The notebook for ML A/B Testing is inside the notebooks folder in the file ml-ab-testing.ipynb.
 
 ### Scripts
   - `create_dataset_versions`: simple script for creating different versions of the data AdSmartABdata.csv
@@ -59,7 +59,7 @@ pip install -r requirements.txt
   - `df_helper`: helper class for reading csv and saving csv files
 
 ### Test
-  - There are two tests inside the tests folder.
-
+  - There is a test file for df_helper inside the tests folder.
+  
 ### Travis CI
   - The file .travis.yml contains the configuration for Travis.
