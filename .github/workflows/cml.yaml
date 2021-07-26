@@ -17,6 +17,7 @@ jobs:
         env:
           REPO_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
+          cd scripts/
           echo "## MODEL METRICS" > report.md
           cat metrics.txt >> report.md
 
