@@ -15,5 +15,11 @@ jobs:
           cd scripts/
           python cml_train_decision_trees.py
           
-          echo "MODEL METRICS"
-          cat metrics.txt
+          echo "## MODEL METRICS" > report.md
+          cat metrics.txt >> report.md
+
+          echo "## Data vis" >> report.md
+          cml-publish feature_importance.png >> report.md
+          cml-publish confusion_matrix.png >> report.md
+
+          cml-send-comment report.md
